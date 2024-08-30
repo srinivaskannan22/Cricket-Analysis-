@@ -1,0 +1,830 @@
+Day,Date,"Team A","Team B",Match,Stadium,"1st team score","2nd team score",margin,scoreA,scoreB,"wicket A","wicket B","overs B","overs A",Team1,Team2
+Fri," 22 Mar 2024",RCB,CSK,"1st Match "," Chennai, MA Chidambaram Stadium","173-6 (20)","176-4 (18.4)","Chennai Super Kings won by 6 wkts",173,176,6,4,18.4,20,lost,won
+Sat," 23 Mar 2024",DC,PBKS,"2nd Match "," Chandigarh, Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur","174-9 (20)","177-6 (19.2)","Punjab Kings won by 4 wkts",174,177,9,6,19.2,20,lost,won
+Sun," 24 Mar 2024",RR,LSG,"4th Match "," Jaipur, Sawai Mansingh Stadium","193-4 (20)","173-6 (20)","Rajasthan Royals won by 20 runs",193,173,4,6,20,20,won,lost
+Mon," 25 Mar 2024",PBKS,RCB,"6th Match "," Bengaluru, M.Chinnaswamy Stadium","176-6 (20)","178-6 (19.2)","Royal Challengers Bengaluru won by 4 wkts",176,178,6,6,19.2,20,lost,won
+Tue," 26 Mar 2024",CSK,GT,"7th Match "," Chennai, MA Chidambaram Stadium","206-6 (20)","143-8 (20)","Chennai Super Kings won by 63 runs",206,143,6,8,20,20,won,lost
+Wed," 27 Mar 2024",SRH,MI,"8th Match "," Hyderabad, Rajiv Gandhi International Stadium","277-3 (20)","246-5 (20)","Sunrisers Hyderabad won by 31 runs",277,246,3,5,20,20,won,lost
+Thu," 28 Mar 2024",RR,DC,"9th Match "," Jaipur, Sawai Mansingh Stadium","185-5 (20)","173-5 (20)","Rajasthan Royals won by 12 runs",185,173,5,5,20,20,won,lost
+Fri," 29 Mar 2024",RCB,KKR,"10th Match "," Bengaluru, M.Chinnaswamy Stadium","182-6 (20)","186-3 (16.5)","Kolkata Knight Riders won by 7 wkts",182,186,6,3,16.5,20,lost,won
+Sat," 30 Mar 2024",LSG,PBKS,"11th Match "," Lucknow, Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium","199-8 (20)","178-5 (20)","Lucknow Super Giants won by 21 runs",199,178,8,5,20,20,won,lost
+Sun," 31 Mar 2024",SRH,GT,"12th Match "," Ahmedabad, Narendra Modi Stadium","162-8 (20)","168-3 (19.1)","Gujarat Titans won by 7 wkts",162,168,8,3,19.1,20,lost,won
+Mon," 01 Apr 2024",MI,RR,"14th Match "," Mumbai, Wankhede Stadium","125-9 (20)","127-4 (15.3)","Rajasthan Royals won by 6 wkts",125,127,9,4,15.3,20,lost,won
+Tue," 02 Apr 2024",LSG,RCB,"15th Match "," Bengaluru, M.Chinnaswamy Stadium","181-5 (20)","153 (19.4)","Lucknow Super Giants won by 28 runs",181,153,5,10,19.4,20,won,lost
+Wed," 03 Apr 2024",KKR,DC,"16th Match "," Visakhapatnam, Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium","272-7 (20)","166 (17.2)","Kolkata Knight Riders won by 106 runs",272,166,7,10,17.2,20,won,lost
+Thu," 04 Apr 2024",GT,PBKS,"17th Match "," Ahmedabad, Narendra Modi Stadium","199-4 (20)","200-7 (19.5)","Punjab Kings won by 3 wkts",199,200,4,7,19.5,20,lost,won
+Fri," 05 Apr 2024",CSK,SRH,"18th Match "," Hyderabad, Rajiv Gandhi International Stadium","165-5 (20)","166-4 (18.1)","Sunrisers Hyderabad won by 6 wkts",165,166,5,4,18.1,20,lost,won
+Sat," 06 Apr 2024",RCB,RR,"19th Match "," Jaipur, Sawai Mansingh Stadium","183-3 (20)","189-4 (19.1)","Rajasthan Royals won by 6 wkts",183,189,3,4,19.1,20,lost,won
+Sun," 07 Apr 2024",MI,DC,"20th Match "," Mumbai, Wankhede Stadium","234-5 (20)","205-8 (20)","Mumbai Indians won by 29 runs",234,205,5,8,20,20,won,lost
+Mon," 08 Apr 2024",KKR,CSK,"22nd Match "," Chennai, MA Chidambaram Stadium","137-9 (20)","141-3 (17.4)","Chennai Super Kings won by 7 wkts",137,141,9,3,17.4,20,lost,won
+Tue," 09 Apr 2024",SRH,PBKS,"23rd Match "," Chandigarh, Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur","182-9 (20)","180-6 (20)","Sunrisers Hyderabad won by 2 runs",182,180,9,6,20,20,won,lost
+Wed," 10 Apr 2024",RR,GT,"24th Match "," Jaipur, Sawai Mansingh Stadium","196-3 (20)","199-7 (20)","Gujarat Titans won by 3 wkts",196,199,3,7,20,20,lost,won
+Thu," 11 Apr 2024",RCB,MI,"25th Match "," Mumbai, Wankhede Stadium","196-8 (20)","199-3 (15.3)","Mumbai Indians won by 7 wkts",196,199,8,3,15.3,20,lost,won
+Fri," 12 Apr 2024",LSG,DC,"26th Match "," Lucknow, Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium","167-7 (20)","170-4 (18.1)","Delhi Capitals won by 6 wkts",167,170,7,4,18.1,20,lost,won
+Sat," 13 Apr 2024",PBKS,RR,"27th Match "," Chandigarh, Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur","147-8 (20)","152-7 (19.5)","Rajasthan Royals won by 3 wkts",147,152,8,7,19.5,20,lost,won
+Sun," 14 Apr 2024",LSG,KKR,"28th Match "," Kolkata, Eden Gardens","161-7 (20)","162-2 (15.4)","Kolkata Knight Riders won by 8 wkts",161,162,7,2,15.4,20,lost,won
+Mon," 15 Apr 2024",SRH,RCB,"30th Match "," Bengaluru, M.Chinnaswamy Stadium","287-3 (20)","262-7 (20)","Sunrisers Hyderabad won by 25 runs",287,262,3,7,20,20,won,lost
+Tue," 16 Apr 2024",KKR,RR,"31st Match "," Kolkata, Eden Gardens","223-6 (20)","224-8 (20)","Rajasthan Royals won by 2 wkts",223,224,6,8,20,20,lost,won
+Wed," 17 Apr 2024",GT,DC,"32nd Match "," Ahmedabad, Narendra Modi Stadium","89 (17.3)","92-4 (8.5)","Delhi Capitals won by 6 wkts",89,92,10,4,8.5,17.3,lost,won
+Thu," 18 Apr 2024",MI,PBKS,"33rd Match "," Chandigarh, Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur","192-7 (20)","183 (19.1)","Mumbai Indians won by 9 runs",192,183,7,10,19.1,20,won,lost
+Fri," 19 Apr 2024",CSK,LSG,"34th Match "," Lucknow, Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium","176-6 (20)","180-2 (19)","Lucknow Super Giants won by 8 wkts",176,180,6,2,19,20,lost,won
+Sat," 20 Apr 2024",SRH,DC,"35th Match "," Delhi, Arun Jaitley Stadium","266-7 (20)","199 (19.1)","Sunrisers Hyderabad won by 67 runs",266,199,7,10,19.1,20,won,lost
+Sun," 21 Apr 2024",KKR,RCB,"36th Match "," Kolkata, Eden Gardens","222-6 (20)","221 (20)","Kolkata Knight Riders won by 1 run",222,221,6,10,20,20,won,lost
+Mon," 22 Apr 2024",MI,RR,"38th Match "," Jaipur, Sawai Mansingh Stadium","179-9 (20)","183-1 (18.4)","Rajasthan Royals won by 9 wkts",179,183,9,1,18.4,20,lost,won
+Tue," 23 Apr 2024",CSK,LSG,"39th Match "," Chennai, MA Chidambaram Stadium","210-4 (20)","213-4 (19.3)","Lucknow Super Giants won by 6 wkts",210,213,4,4,19.3,20,lost,won
+Wed," 24 Apr 2024",DC,GT,"40th Match "," Delhi, Arun Jaitley Stadium","224-4 (20)","220-8 (20)","Delhi Capitals won by 4 runs",224,220,4,8,20,20,won,lost
+Thu," 25 Apr 2024",RCB,SRH,"41st Match "," Hyderabad, Rajiv Gandhi International Stadium","206-7 (20)","171-8 (20)","Royal Challengers Bengaluru won by 35 runs",206,171,7,8,20,20,won,lost
+Fri," 26 Apr 2024",KKR,PBKS,"42nd Match "," Kolkata, Eden Gardens","261-6 (20)","262-2 (18.4)","Punjab Kings won by 8 wkts",261,262,6,2,18.4,20,lost,won
+Sat," 27 Apr 2024",DC,MI,"43rd Match "," Delhi, Arun Jaitley Stadium","257-4 (20)","247-9 (20)","Delhi Capitals won by 10 runs",257,247,4,9,20,20,won,lost
+Sun," 28 Apr 2024",GT,RCB,"45th Match "," Ahmedabad, Narendra Modi Stadium","200-3 (20)","206-1 (16)","Royal Challengers Bengaluru won by 9 wkts",200,206,3,1,16,20,lost,won
+Mon," 29 Apr 2024",DC,KKR,"47th Match "," Kolkata, Eden Gardens","153-9 (20)","157-3 (16.3)","Kolkata Knight Riders won by 7 wkts",153,157,9,3,16.3,20,lost,won
+Tue," 30 Apr 2024",MI,LSG,"48th Match "," Lucknow, Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium","144-7 (20)","145-6 (19.2)","Lucknow Super Giants won by 4 wkts",144,145,7,6,19.2,20,lost,won
+Wed," 01 May 2024",CSK,PBKS,"49th Match "," Chennai, MA Chidambaram Stadium","162-7 (20)","163-3 (17.5)","Punjab Kings won by 7 wkts",162,163,7,3,17.5,20,lost,won
+Thu," 02 May 2024",SRH,RR,"50th Match "," Hyderabad, Rajiv Gandhi International Stadium","201-3 (20)","200-7 (20)","Sunrisers Hyderabad won by 1 run",201,200,3,7,20,20,won,lost
+Fri," 03 May 2024",KKR,MI,"51st Match "," Mumbai, Wankhede Stadium","169 (19.5)","145 (18.5)","Kolkata Knight Riders won by 24 runs",169,145,10,10,18.5,19.5,won,lost
+Sat," 04 May 2024",GT,RCB,"52nd Match "," Bengaluru, M.Chinnaswamy Stadium","147 (19.3)","152-6 (13.4)","Royal Challengers Bengaluru won by 4 wkts",147,152,10,6,13.4,19.3,lost,won
+Sun," 05 May 2024",CSK,PBKS,"53rd Match "," Dharamsala, Himachal Pradesh Cricket Association Stadium","167-9 (20)","139-9 (20)","Chennai Super Kings won by 28 runs",167,139,9,9,20,20,won,lost
+Mon," 06 May 2024",SRH,MI,"55th Match "," Mumbai, Wankhede Stadium","173-8 (20)","174-3 (17.2)","Mumbai Indians won by 7 wkts",173,174,8,3,17.2,20,lost,won
+Tue," 07 May 2024",DC,RR,"56th Match "," Delhi, Arun Jaitley Stadium","221-8 (20)","201-8 (20)","Delhi Capitals won by 20 runs",221,201,8,8,20,20,won,lost
+Wed," 08 May 2024",LSG,SRH,"57th Match "," Hyderabad, Rajiv Gandhi International Stadium","165-4 (20)","167-0 (9.4)","Sunrisers Hyderabad won by 10 wkts",165,167,4,0,9.4,20,lost,won
+Thu," 09 May 2024",RCB,PBKS,"58th Match "," Dharamsala, Himachal Pradesh Cricket Association Stadium","241-7 (20)","181 (17)","Royal Challengers Bengaluru won by 60 runs",241,181,7,10,17,20,won,lost
+Fri," 10 May 2024",GT,CSK,"59th Match "," Ahmedabad, Narendra Modi Stadium","231-3 (20)","196-8 (20)","Gujarat Titans won by 35 runs",231,196,3,8,20,20,won,lost
+Sat," 11 May 2024",KKR,MI,"60th Match "," Kolkata, Eden Gardens","157-7 (16)","139-8 (16)","Kolkata Knight Riders won by 18 runs - 16 overs game - due to rain",157,139,7,8,16,16,won,lost
+Sun," 12 May 2024",RR,CSK,"61st Match "," Chennai, MA Chidambaram Stadium","141-5 (20)","145-5 (18.2)","Chennai Super Kings won by 5 wkts",141,145,5,5,18.2,20,lost,won
+Mon," 13 May 2024",GT,KKR,"63rd Match "," Ahmedabad, Narendra Modi Stadium",,,"Match abandoned without toss",0,0,10,10,0,0,lost,lost
+Tue," 14 May 2024",DC,LSG,"64th Match "," Delhi, Arun Jaitley Stadium","208-4 (20)","189-9 (20)","Delhi Capitals won by 19 runs",208,189,4,9,20,20,won,lost
+Wed," 15 May 2024",RR,PBKS,"65th Match "," Guwahati, Barsapara Cricket Stadium","144-9 (20)","145-5 (18.5)","Punjab Kings won by 5 wkts",144,145,9,5,18.5,20,lost,won
+Thu," 16 May 2024",SRH,GT,"66th Match "," Hyderabad, Rajiv Gandhi International Stadium",,,"Match abandoned without toss",0,0,10,10,0,0,lost,lost
+Fri," 17 May 2024",LSG,MI,"67th Match "," Mumbai, Wankhede Stadium","214-6 (20)","196-6 (20)","Lucknow Super Giants won by 18 runs",214,196,6,6,20,20,won,lost
+Sat," 18 May 2024",RCB,CSK,"68th Match "," Bengaluru, M.Chinnaswamy Stadium","218-5 (20)","191-7 (20)","Royal Challengers Bengaluru won by 27 runs",218,191,5,7,20,20,won,lost
+Sun," 19 May 2024",PBKS,SRH,"69th Match "," Hyderabad, Rajiv Gandhi International Stadium","214-5 (20)","215-6 (19.1)","Sunrisers Hyderabad won by 4 wkts",214,215,5,6,19.1,20,lost,won
+Tue," 21 May 2024",SRH,KKR,"Qualifier 1 "," Ahmedabad, Narendra Modi Stadium","159 (19.3)","164-2 (13.4)","Kolkata Knight Riders won by 8 wkts",159,164,10,2,13.4,19.3,lost,won
+Wed," 22 May 2024",RCB,RR,"Eliminator "," Ahmedabad, Narendra Modi Stadium","172-8 (20)","174-6 (19)","Rajasthan Royals won by 4 wkts",172,174,8,6,19,20,lost,won
+Fri," 24 May 2024",SRH,RR,"Qualifier 2 "," Chennai, MA Chidambaram Stadium","175-9 (20)","139-7 (20)","Sunrisers Hyderabad won by 36 runs",175,139,9,7,20,20,won,lost
+Sun," 26 May 2024",SRH,KKR,"Final "," Chennai, MA Chidambaram Stadium","113 (18.3)","114-2 (10.3)","Kolkata Knight Riders won by 8 wkts",113,114,10,2,10.3,18.3,lost,won
+Fri," 31 Mar 2023",CSK,GT,"1st Match "," Ahmedabad, Narendra Modi Stadium","178-7 (20)","182-5 (19.2)","Gujarat Titans won by 5 wkts",178,182,7,5,19.2,20,lost,won
+Sat," 01 Apr 2023",PBKS,KKR,"2nd Match "," Mohali, Punjab Cricket Association IS Bindra Stadium","191-5 (20)","146-7 (16)","Punjab Kings won by 7 runs (DLS method)",191,146,5,7,16,20,won,lost
+Sun," 02 Apr 2023",RR,SRH,"4th Match "," Hyderabad, Rajiv Gandhi International Stadium","203-5 (20)","131-8 (20)","Rajasthan Royals won by 72 runs",203,131,5,8,20,20,won,lost
+Mon," 03 Apr 2023",CSK,LSG,"6th Match "," Chennai, MA Chidambaram Stadium","217-7 (20)","205-7 (20)","Chennai Super Kings won by 12 runs",217,205,7,7,20,20,won,lost
+Tue," 04 Apr 2023",DC,GT,"7th Match "," Delhi, Arun Jaitley Stadium","162-8 (20)","163-4 (18.1)","Gujarat Titans won by 6 wkts",162,163,8,4,18.1,20,lost,won
+Wed," 05 Apr 2023",PBKS,RR,"8th Match "," Guwahati, Barsapara Cricket Stadium","197-4 (20)","192-7 (20)","Punjab Kings won by 5 runs",197,192,4,7,20,20,won,lost
+Thu," 06 Apr 2023",KKR,RCB,"9th Match "," Kolkata, Eden Gardens","204-7 (20)","123 (17.4)","Kolkata Knight Riders won by 81 runs",204,123,7,10,17.4,20,won,lost
+Fri," 07 Apr 2023",SRH,LSG,"10th Match "," Lucknow, Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium","121-8 (20)","127-5 (16)","Lucknow Super Giants won by 5 wkts",121,127,8,5,16,20,lost,won
+Sat," 08 Apr 2023",RR,DC,"11th Match "," Guwahati, Barsapara Cricket Stadium","199-4 (20)","142-9 (20)","Rajasthan Royals won by 57 runs",199,142,4,9,20,20,won,lost
+Sun," 09 Apr 2023",GT,KKR,"13th Match "," Ahmedabad, Narendra Modi Stadium","204-4 (20)","207-7 (20)","Kolkata Knight Riders won by 3 wkts",204,207,4,7,20,20,lost,won
+Mon," 10 Apr 2023",RCB,LSG,"15th Match "," Bengaluru, M.Chinnaswamy Stadium","212-2 (20)","213-9 (20)","Lucknow Super Giants won by 1 wkt",212,213,2,9,20,20,lost,won
+Tue," 11 Apr 2023",DC,MI,"16th Match "," Delhi, Arun Jaitley Stadium","172 (19.4)","173-4 (20)","Mumbai Indians won by 6 wkts",172,173,10,4,20,19.4,lost,won
+Wed," 12 Apr 2023",RR,CSK,"17th Match "," Chennai, MA Chidambaram Stadium","175-8 (20)","172-6 (20)","Rajasthan Royals won by 3 runs",175,172,8,6,20,20,won,lost
+Thu," 13 Apr 2023",PBKS,GT,"18th Match "," Mohali, Punjab Cricket Association IS Bindra Stadium","153-8 (20)","154-4 (19.5)","Gujarat Titans won by 6 wkts",153,154,8,4,19.5,20,lost,won
+Fri," 14 Apr 2023",SRH,KKR,"19th Match "," Kolkata, Eden Gardens","228-4 (20)","205-7 (20)","Sunrisers Hyderabad won by 23 runs",228,205,4,7,20,20,won,lost
+Sat," 15 Apr 2023",RCB,DC,"20th Match "," Bengaluru, M.Chinnaswamy Stadium","174-6 (20)","151-9 (20)","Royal Challengers Bangalore won by 23 runs",174,151,6,9,20,20,won,lost
+Sun," 16 Apr 2023",KKR,MI,"22nd Match "," Mumbai, Wankhede Stadium","185-6 (20)","186-5 (17.4)","Mumbai Indians won by 5 wkts",185,186,6,5,17.4,20,lost,won
+Mon," 17 Apr 2023",CSK,RCB,"24th Match "," Bengaluru, M.Chinnaswamy Stadium","226-6 (20)","218-8 (20)","Chennai Super Kings won by 8 runs",226,218,6,8,20,20,won,lost
+Tue," 18 Apr 2023",MI,SRH,"25th Match "," Hyderabad, Rajiv Gandhi International Stadium","192-5 (20)","178 (19.5)","Mumbai Indians won by 14 runs",192,178,5,10,19.5,20,won,lost
+Wed," 19 Apr 2023",LSG,RR,"26th Match "," Jaipur, Sawai Mansingh Stadium","154-7 (20)","144-6 (20)","Lucknow Super Giants won by 10 runs",154,144,7,6,20,20,won,lost
+Thu," 20 Apr 2023",RCB,PBKS,"27th Match "," Mohali, Punjab Cricket Association IS Bindra Stadium","174-4 (20)","150 (18.2)","Royal Challengers Bangalore won by 24 runs",174,150,4,10,18.2,20,won,lost
+Fri," 21 Apr 2023",SRH,CSK,"29th Match "," Chennai, MA Chidambaram Stadium","134-7 (20)","138-3 (18.4)","Chennai Super Kings won by 7 wkts",134,138,7,3,18.4,20,lost,won
+Sat," 22 Apr 2023",GT,LSG,"30th Match "," Lucknow, Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium","135-6 (20)","128-7 (20)","Gujarat Titans won by 7 runs",135,128,6,7,20,20,won,lost
+Sun," 23 Apr 2023",RCB,RR,"32nd Match "," Bengaluru, M.Chinnaswamy Stadium","189-9 (20)","182-6 (20)","Royal Challengers Bangalore won by 7 runs",189,182,9,6,20,20,won,lost
+Mon," 24 Apr 2023",DC,SRH,"34th Match "," Hyderabad, Rajiv Gandhi International Stadium","144-9 (20)","137-6 (20)","Delhi Capitals won by 7 runs",144,137,9,6,20,20,won,lost
+Tue," 25 Apr 2023",GT,MI,"35th Match "," Ahmedabad, Narendra Modi Stadium","207-6 (20)","152-9 (20)","Gujarat Titans won by 55 runs",207,152,6,9,20,20,won,lost
+Wed," 26 Apr 2023",KKR,RCB,"36th Match "," Bengaluru, M.Chinnaswamy Stadium","200-5 (20)","179-8 (20)","Kolkata Knight Riders won by 21 runs",200,179,5,8,20,20,won,lost
+Thu," 27 Apr 2023",RR,CSK,"37th Match "," Jaipur, Sawai Mansingh Stadium","202-5 (20)","170-6 (20)","Rajasthan Royals won by 32 runs",202,170,5,6,20,20,won,lost
+Fri," 28 Apr 2023",LSG,PBKS,"38th Match "," Mohali, Punjab Cricket Association IS Bindra Stadium","257-5 (20)","201 (19.5)","Lucknow Super Giants won by 56 runs",257,201,5,10,19.5,20,won,lost
+Sat," 29 Apr 2023",KKR,GT,"39th Match "," Kolkata, Eden Gardens","179-7 (20)","180-3 (17.5)","Gujarat Titans won by 7 wkts",179,180,7,3,17.5,20,lost,won
+Sun," 30 Apr 2023",CSK,PBKS,"41st Match "," Chennai, MA Chidambaram Stadium","200-4 (20)","201-6 (20)","Punjab Kings won by 4 wkts",200,201,4,6,20,20,lost,won
+Mon," 01 May 2023",RCB,LSG,"43rd Match "," Lucknow, Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium","126-9 (20)","108 (19.5)","Royal Challengers Bangalore won by 18 runs",126,108,9,10,19.5,20,won,lost
+Tue," 02 May 2023",DC,GT,"44th Match "," Ahmedabad, Narendra Modi Stadium","130-8 (20)","125-6 (20)","Delhi Capitals won by 5 runs",130,125,8,6,20,20,won,lost
+Wed," 03 May 2023",LSG,CSK,"45th Match "," Lucknow, Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium","125-7 (19.2)",,"No result",125,0,7,10,0,19.2,won,lost
+Thu," 04 May 2023",KKR,SRH,"47th Match "," Hyderabad, Rajiv Gandhi International Stadium","171-9 (20)","166-8 (20)","Kolkata Knight Riders won by 5 runs",171,166,9,8,20,20,won,lost
+Fri," 05 May 2023",RR,GT,"48th Match "," Jaipur, Sawai Mansingh Stadium","118 (17.5)","119-1 (13.5)","Gujarat Titans won by 9 wkts",118,119,10,1,13.5,17.5,lost,won
+Sat," 06 May 2023",MI,CSK,"49th Match "," Chennai, MA Chidambaram Stadium","139-8 (20)","140-4 (17.4)","Chennai Super Kings won by 6 wkts",139,140,8,4,17.4,20,lost,won
+Sun," 07 May 2023",GT,LSG,"51st Match "," Ahmedabad, Narendra Modi Stadium","227-2 (20)","171-7 (20)","Gujarat Titans won by 56 runs",227,171,2,7,20,20,won,lost
+Mon," 08 May 2023",PBKS,KKR,"53rd Match "," Kolkata, Eden Gardens","179-7 (20)","182-5 (20)","Kolkata Knight Riders won by 5 wkts",179,182,7,5,20,20,lost,won
+Tue," 09 May 2023",RCB,MI,"54th Match "," Mumbai, Wankhede Stadium","199-6 (20)","200-4 (16.3)","Mumbai Indians won by 6 wkts",199,200,6,4,16.3,20,lost,won
+Wed," 10 May 2023",CSK,DC,"55th Match "," Chennai, MA Chidambaram Stadium","167-8 (20)","140-8 (20)","Chennai Super Kings won by 27 runs",167,140,8,8,20,20,won,lost
+Thu," 11 May 2023",KKR,RR,"56th Match "," Kolkata, Eden Gardens","149-8 (20)","151-1 (13.1)","Rajasthan Royals won by 9 wkts",149,151,8,1,13.1,20,lost,won
+Fri," 12 May 2023",MI,GT,"57th Match "," Mumbai, Wankhede Stadium","218-5 (20)","191-8 (20)","Mumbai Indians won by 27 runs",218,191,5,8,20,20,won,lost
+Sat," 13 May 2023",SRH,LSG,"58th Match "," Hyderabad, Rajiv Gandhi International Stadium","182-6 (20)","185-3 (19.2)","Lucknow Super Giants won by 7 wkts",182,185,6,3,19.2,20,lost,won
+Sun," 14 May 2023",RCB,RR,"60th Match "," Jaipur, Sawai Mansingh Stadium","171-5 (20)","59 (10.3)","Royal Challengers Bangalore won by 112 runs",171,59,5,10,10.3,20,won,lost
+Mon," 15 May 2023",GT,SRH,"62nd Match "," Ahmedabad, Narendra Modi Stadium","188-9 (20)","154-9 (20)","Gujarat Titans won by 34 runs",188,154,9,9,20,20,won,lost
+Tue," 16 May 2023",LSG,MI,"63rd Match "," Lucknow, Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium","177-3 (20)","172-5 (20)","Lucknow Super Giants won by 5 runs",177,172,3,5,20,20,won,lost
+Wed," 17 May 2023",DC,PBKS,"64th Match "," Dharamsala, Himachal Pradesh Cricket Association Stadium","213-2 (20)","198-8 (20)","Delhi Capitals won by 15 runs",213,198,2,8,20,20,won,lost
+Thu," 18 May 2023",SRH,RCB,"65th Match "," Hyderabad, Rajiv Gandhi International Stadium","186-5 (20)","187-2 (19.2)","Royal Challengers Bangalore won by 8 wkts",186,187,5,2,19.2,20,lost,won
+Fri," 19 May 2023",PBKS,RR,"66th Match "," Dharamsala, Himachal Pradesh Cricket Association Stadium","187-5 (20)","189-6 (19.4)","Rajasthan Royals won by 4 wkts",187,189,5,6,19.4,20,lost,won
+Sat," 20 May 2023",CSK,DC,"67th Match "," Delhi, Arun Jaitley Stadium","223-3 (20)","146-9 (20)","Chennai Super Kings won by 77 runs",223,146,3,9,20,20,won,lost
+Sun," 21 May 2023",SRH,MI,"69th Match "," Mumbai, Wankhede Stadium","200-5 (20)","201-2 (18)","Mumbai Indians won by 8 wkts",200,201,5,2,18,20,lost,won
+Tue," 23 May 2023",CSK,GT,"Qualifier 1 "," Chennai, MA Chidambaram Stadium","172-7 (20)","157 (20)","Chennai Super Kings won by 15 runs",172,157,7,10,20,20,won,lost
+Wed," 24 May 2023",MI,LSG,"Eliminator "," Chennai, MA Chidambaram Stadium","182-8 (20)","101 (16.3)","Mumbai Indians won by 81 runs",182,101,8,10,16.3,20,won,lost
+Fri," 26 May 2023",GT,MI,"Qualifier 2 "," Ahmedabad, Narendra Modi Stadium","233-3 (20)","171 (18.2)","Gujarat Titans won by 62 runs",233,171,3,10,18.2,20,won,lost
+Sun," 28 May 2023",CSK,GT,"Final "," Ahmedabad, Narendra Modi Stadium",,,"Match postponed to Monday due to rain",0,0,10,10,0,0,lost,lost
+Mon," 29 May 2023",GT,CSK,"Final (Reserve day) "," Ahmedabad, Narendra Modi Stadium","214-4 (20)","171-5 (15)","Chennai Super Kings won by 5 wkts (DLS method)",214,171,4,5,15,20,won,lost
+Sat," 26 Mar 2022",CSK,KKR,"1st Match "," Mumbai, Wankhede Stadium","131-5 (20)","133-4 (18.3)","Kolkata Knight Riders won by 6 wkts",131,133,5,4,18.3,20,lost,won
+Sun," 27 Mar 2022",MI,DC,"2nd Match "," Mumbai, Brabourne Stadium","177-5 (20)","179-6 (18.2)","Delhi Capitals won by 4 wkts",177,179,5,6,18.2,20,lost,won
+Mon," 28 Mar 2022",LSG,GT,"4th Match "," Mumbai, Wankhede Stadium","158-6 (20)","161-5 (19.4)","Gujarat Titans won by 5 wkts",158,161,6,5,19.4,20,lost,won
+Tue," 29 Mar 2022",RR,SRH,"5th Match "," Pune, Maharashtra Cricket Association Stadium","210-6 (20)","149-7 (20)","Rajasthan Royals won by 61 runs",210,149,6,7,20,20,won,lost
+Wed," 30 Mar 2022",KKR,RCB,"6th Match "," Navi Mumbai , Dr DY Patil Sports Academy","128 (18.5)","132-7 (19.2)","Royal Challengers Bangalore won by 3 wkts",128,132,10,7,19.2,18.5,lost,won
+Thu," 31 Mar 2022",CSK,LSG,"7th Match "," Mumbai, Brabourne Stadium","210-7 (20)","211-4 (19.3)","Lucknow Super Giants won by 6 wkts",210,211,7,4,19.3,20,lost,won
+Fri," 01 Apr 2022",PBKS,KKR,"8th Match "," Mumbai, Wankhede Stadium","137 (18.2)","141-4 (14.3)","Kolkata Knight Riders won by 6 wkts",137,141,10,4,14.3,18.2,lost,won
+Sat," 02 Apr 2022",RR,MI,"9th Match "," Navi Mumbai , Dr DY Patil Sports Academy","193-8 (20)","170-8 (20)","Rajasthan Royals won by 23 runs",193,170,8,8,20,20,won,lost
+Sun," 03 Apr 2022",PBKS,CSK,"11th Match "," Mumbai, Brabourne Stadium","180-8 (20)","126 (18)","Punjab Kings won by 54 runs",180,126,8,10,18,20,won,lost
+Mon," 04 Apr 2022",LSG,SRH,"12th Match "," Navi Mumbai , Dr DY Patil Sports Academy","169-7 (20)","157-9 (20)","Lucknow Super Giants won by 12 runs",169,157,7,9,20,20,won,lost
+Tue," 05 Apr 2022",RR,RCB,"13th Match "," Mumbai, Wankhede Stadium","169-3 (20)","173-6 (19.1)","Royal Challengers Bangalore won by 4 wkts",169,173,3,6,19.1,20,lost,won
+Wed," 06 Apr 2022",MI,KKR,"14th Match "," Pune, Maharashtra Cricket Association Stadium","161-4 (20)","162-5 (16)","Kolkata Knight Riders won by 5 wkts",161,162,4,5,16,20,lost,won
+Thu," 07 Apr 2022",DC,LSG,"15th Match "," Navi Mumbai , Dr DY Patil Sports Academy","149-3 (20)","155-4 (19.4)","Lucknow Super Giants won by 6 wkts",149,155,3,4,19.4,20,lost,won
+Fri," 08 Apr 2022",PBKS,GT,"16th Match "," Mumbai, Brabourne Stadium","189-9 (20)","190-4 (20)","Gujarat Titans won by 6 wkts",189,190,9,4,20,20,lost,won
+Sat," 09 Apr 2022",CSK,SRH,"17th Match "," Navi Mumbai , Dr DY Patil Sports Academy","154-7 (20)","155-2 (17.4)","Sunrisers Hyderabad won by 8 wkts",154,155,7,2,17.4,20,lost,won
+Sun," 10 Apr 2022",DC,KKR,"19th Match "," Mumbai, Brabourne Stadium","215-5 (20)","171 (19.4)","Delhi Capitals won by 44 runs",215,171,5,10,19.4,20,won,lost
+Mon," 11 Apr 2022",GT,SRH,"21st Match "," Navi Mumbai , Dr DY Patil Sports Academy","162-7 (20)","168-2 (19.1)","Sunrisers Hyderabad won by 8 wkts",162,168,7,2,19.1,20,lost,won
+Tue," 12 Apr 2022",CSK,RCB,"22nd Match "," Navi Mumbai , Dr DY Patil Sports Academy","216-4 (20)","193-9 (20)","Chennai Super Kings won by 23 runs",216,193,4,9,20,20,won,lost
+Wed," 13 Apr 2022",PBKS,MI,"23rd Match "," Pune, Maharashtra Cricket Association Stadium","198-5 (20)","186-9 (20)","Punjab Kings won by 12 runs",198,186,5,9,20,20,won,lost
+Thu," 14 Apr 2022",GT,RR,"24th Match "," Navi Mumbai , Dr DY Patil Sports Academy","192-4 (20)","155-9 (20)","Gujarat Titans won by 37 runs",192,155,4,9,20,20,won,lost
+Fri," 15 Apr 2022",KKR,SRH,"25th Match "," Mumbai, Brabourne Stadium","175-8 (20)","176-3 (17.5)","Sunrisers Hyderabad won by 7 wkts",175,176,8,3,17.5,20,lost,won
+Sat," 16 Apr 2022",LSG,MI,"26th Match "," Mumbai, Brabourne Stadium","199-4 (20)","181-9 (20)","Lucknow Super Giants won by 18 runs",199,181,4,9,20,20,won,lost
+Sun," 17 Apr 2022",PBKS,SRH,"28th Match "," Navi Mumbai , Dr DY Patil Sports Academy","151 (20)","152-3 (18.5)","Sunrisers Hyderabad won by 7 wkts",151,152,10,3,18.5,20,lost,won
+Mon," 18 Apr 2022",RR,KKR,"30th Match "," Mumbai, Brabourne Stadium","217-5 (20)","210 (19.4)","Rajasthan Royals won by 7 runs",217,210,5,10,19.4,20,won,lost
+Tue," 19 Apr 2022",RCB,LSG,"31st Match "," Navi Mumbai , Dr DY Patil Sports Academy","181-6 (20)","163-8 (20)","Royal Challengers Bangalore won by 18 runs",181,163,6,8,20,20,won,lost
+Wed," 20 Apr 2022",PBKS,DC,"32nd Match "," Mumbai, Brabourne Stadium","115 (20)","119-1 (10.3)","Delhi Capitals won by 9 wkts",115,119,10,1,10.3,20,lost,won
+Thu," 21 Apr 2022",MI,CSK,"33rd Match "," Navi Mumbai , Dr DY Patil Sports Academy","155-7 (20)","156-7 (20)","Chennai Super Kings won by 3 wkts",155,156,7,7,20,20,lost,won
+Fri," 22 Apr 2022",RR,DC,"34th Match "," Mumbai, Wankhede Stadium","222-2 (20)","207-8 (20)","Rajasthan Royals won by 15 runs",222,207,2,8,20,20,won,lost
+Sat," 23 Apr 2022",GT,KKR,"35th Match "," Navi Mumbai , Dr DY Patil Sports Academy","156-9 (20)","148-8 (20)","Gujarat Titans won by 8 runs",156,148,9,8,20,20,won,lost
+Sun," 24 Apr 2022",LSG,MI,"37th Match "," Mumbai, Wankhede Stadium","168-6 (20)","132-8 (20)","Lucknow Super Giants won by 36 runs",168,132,6,8,20,20,won,lost
+Mon," 25 Apr 2022",PBKS,CSK,"38th Match "," Mumbai, Wankhede Stadium","187-4 (20)","176-6 (20)","Punjab Kings won by 11 runs",187,176,4,6,20,20,won,lost
+Tue," 26 Apr 2022",RR,RCB,"39th Match "," Pune, Maharashtra Cricket Association Stadium","144-8 (20)","115 (19.3)","Rajasthan Royals won by 29 runs",144,115,8,10,19.3,20,won,lost
+Wed," 27 Apr 2022",SRH,GT,"40th Match "," Mumbai, Wankhede Stadium","195-6 (20)","199-5 (20)","Gujarat Titans won by 5 wkts",195,199,6,5,20,20,lost,won
+Thu," 28 Apr 2022",KKR,DC,"41st Match "," Mumbai, Wankhede Stadium","146-9 (20)","150-6 (19)","Delhi Capitals won by 4 wkts",146,150,9,6,19,20,lost,won
+Fri," 29 Apr 2022",LSG,PBKS,"42nd Match "," Pune, Maharashtra Cricket Association Stadium","153-8 (20)","133-8 (20)","Lucknow Super Giants won by 20 runs",153,133,8,8,20,20,won,lost
+Sat," 30 Apr 2022",RCB,GT,"43rd Match "," Mumbai, Brabourne Stadium","170-6 (20)","174-4 (19.3)","Gujarat Titans won by 6 wkts",170,174,6,4,19.3,20,lost,won
+Sun," 01 May 2022",LSG,DC,"45th Match "," Mumbai, Wankhede Stadium","195-3 (20)","189-7 (20)","Lucknow Super Giants won by 6 runs",195,189,3,7,20,20,won,lost
+Mon," 02 May 2022",RR,KKR,"47th Match "," Mumbai, Wankhede Stadium","152-5 (20)","158-3 (19.1)","Kolkata Knight Riders won by 7 wkts",152,158,5,3,19.1,20,lost,won
+Tue," 03 May 2022",GT,PBKS,"48th Match "," Navi Mumbai , Dr DY Patil Sports Academy","143-8 (20)","145-2 (16)","Punjab Kings won by 8 wkts",143,145,8,2,16,20,lost,won
+Wed," 04 May 2022",RCB,CSK,"49th Match "," Pune, Maharashtra Cricket Association Stadium","173-8 (20)","160-8 (20)","Royal Challengers Bangalore won by 13 runs",173,160,8,8,20,20,won,lost
+Thu," 05 May 2022",DC,SRH,"50th Match "," Mumbai, Brabourne Stadium","207-3 (20)","186-8 (20)","Delhi Capitals won by 21 runs",207,186,3,8,20,20,won,lost
+Fri," 06 May 2022",MI,GT,"51st Match "," Mumbai, Brabourne Stadium","177-6 (20)","172-5 (20)","Mumbai Indians won by 5 runs",177,172,6,5,20,20,won,lost
+Sat," 07 May 2022",PBKS,RR,"52nd Match "," Mumbai, Wankhede Stadium","189-5 (20)","190-4 (19.4)","Rajasthan Royals won by 6 wkts",189,190,5,4,19.4,20,lost,won
+Sun," 08 May 2022",RCB,SRH,"54th Match "," Mumbai, Wankhede Stadium","192-3 (20)","125 (19.2)","Royal Challengers Bangalore won by 67 runs",192,125,3,10,19.2,20,won,lost
+Mon," 09 May 2022",KKR,MI,"56th Match "," Navi Mumbai , Dr DY Patil Sports Academy","165-9 (20)","113 (17.3)","Kolkata Knight Riders won by 52 runs",165,113,9,10,17.3,20,won,lost
+Tue," 10 May 2022",GT,LSG,"57th Match "," Pune, Maharashtra Cricket Association Stadium","144-4 (20)","82 (13.5)","Gujarat Titans won by 62 runs",144,82,4,10,13.5,20,won,lost
+Wed," 11 May 2022",RR,DC,"58th Match "," Navi Mumbai , Dr DY Patil Sports Academy","160-6 (20)","161-2 (18.1)","Delhi Capitals won by 8 wkts",160,161,6,2,18.1,20,lost,won
+Thu," 12 May 2022",CSK,MI,"59th Match "," Mumbai, Wankhede Stadium","97 (16)","103-5 (14.5)","Mumbai Indians won by 5 wkts",97,103,10,5,14.5,16,lost,won
+Fri," 13 May 2022",PBKS,RCB,"60th Match "," Mumbai, Brabourne Stadium","209-9 (20)","155-9 (20)","Punjab Kings won by 54 runs",209,155,9,9,20,20,won,lost
+Sat," 14 May 2022",KKR,SRH,"61st Match "," Pune, Maharashtra Cricket Association Stadium","177-6 (20)","123-8 (20)","Kolkata Knight Riders won by 54 runs",177,123,6,8,20,20,won,lost
+Sun," 15 May 2022",CSK,GT,"62nd Match "," Mumbai, Wankhede Stadium","133-5 (20)","137-3 (19.1)","Gujarat Titans won by 7 wkts",133,137,5,3,19.1,20,lost,won
+Mon," 16 May 2022",DC,PBKS,"64th Match "," Navi Mumbai , Dr DY Patil Sports Academy","159-7 (20)","142-9 (20)","Delhi Capitals won by 17 runs",159,142,7,9,20,20,won,lost
+Tue," 17 May 2022",SRH,MI,"65th Match "," Mumbai, Wankhede Stadium","193-6 (20)","190-7 (20)","Sunrisers Hyderabad won by 3 runs",193,190,6,7,20,20,won,lost
+Wed," 18 May 2022",LSG,KKR,"66th Match "," Navi Mumbai , Dr DY Patil Sports Academy","210-0 (20)","208-8 (20)","Lucknow Super Giants won by 2 runs",210,208,0,8,20,20,won,lost
+Thu," 19 May 2022",GT,RCB,"67th Match "," Mumbai, Wankhede Stadium","168-5 (20)","170-2 (18.4)","Royal Challengers Bangalore won by 8 wkts",168,170,5,2,18.4,20,lost,won
+Fri," 20 May 2022",CSK,RR,"68th Match "," Mumbai, Brabourne Stadium","150-6 (20)","151-5 (19.4)","Rajasthan Royals won by 5 wkts",150,151,6,5,19.4,20,lost,won
+Sat," 21 May 2022",DC,MI,"69th Match "," Mumbai, Wankhede Stadium","159-7 (20)","160-5 (19.1)","Mumbai Indians won by 5 wkts",159,160,7,5,19.1,20,lost,won
+Sun," 22 May 2022",SRH,PBKS,"70th Match "," Mumbai, Wankhede Stadium","157-8 (20)","160-5 (15.1)","Punjab Kings won by 5 wkts",157,160,8,5,15.1,20,lost,won
+Tue," 24 May 2022",RR,GT,"Qualifier 1 "," Kolkata, Eden Gardens","188-6 (20)","191-3 (19.3)","Gujarat Titans won by 7 wkts",188,191,6,3,19.3,20,lost,won
+Wed," 25 May 2022",RCB,LSG,"Eliminator "," Kolkata, Eden Gardens","207-4 (20)","193-6 (20)","Royal Challengers Bangalore won by 14 runs",207,193,4,6,20,20,won,lost
+Fri," 27 May 2022",RCB,RR,"Qualifier 2 "," Ahmedabad, Narendra Modi Stadium","157-8 (20)","161-3 (18.1)","Rajasthan Royals won by 7 wkts",157,161,8,3,18.1,20,lost,won
+Sun," 29 May 2022",RR,GT,"Final "," Ahmedabad, Narendra Modi Stadium","130-9 (20)","133-3 (18.1)","Gujarat Titans won by 7 wkts",130,133,9,3,18.1,20,lost,won
+Fri," 09 Apr 2021",MI,RCB,"1st Match "," Chennai, MA Chidambaram Stadium","159-9 (20)","160-8 (20)","Royal Challengers Bangalore won by 2 wkts",159,160,9,8,20,20,lost,won
+Sat," 10 Apr 2021",CSK,DC,"2nd Match "," Mumbai, Wankhede Stadium","188-7 (20)","190-3 (18.4)","Delhi Capitals won by 7 wkts",188,190,7,3,18.4,20,lost,won
+Sun," 11 Apr 2021",KKR,SRH,"3rd Match "," Chennai, MA Chidambaram Stadium","187-6 (20)","177-5 (20)","Kolkata Knight Riders won by 10 runs",187,177,6,5,20,20,won,lost
+Mon," 12 Apr 2021",PBKS,RR,"4th Match "," Mumbai, Wankhede Stadium","221-6 (20)","217-7 (20)","Punjab Kings won by 4 runs",221,217,6,7,20,20,won,lost
+Tue," 13 Apr 2021",MI,KKR,"5th Match "," Chennai, MA Chidambaram Stadium","152 (20)","142-7 (20)","Mumbai Indians won by 10 runs",152,142,10,7,20,20,won,lost
+Wed," 14 Apr 2021",RCB,SRH,"6th Match "," Chennai, MA Chidambaram Stadium","149-8 (20)","143-9 (20)","Royal Challengers Bangalore won by 6 runs",149,143,8,9,20,20,won,lost
+Thu," 15 Apr 2021",DC,RR,"7th Match "," Mumbai, Wankhede Stadium","147-8 (20)","150-7 (19.4)","Rajasthan Royals won by 3 wkts",147,150,8,7,19.4,20,lost,won
+Fri," 16 Apr 2021",PBKS,CSK,"8th Match "," Mumbai, Wankhede Stadium","106-8 (20)","107-4 (15.4)","Chennai Super Kings won by 6 wkts",106,107,8,4,15.4,20,lost,won
+Sat," 17 Apr 2021",MI,SRH,"9th Match "," Chennai, MA Chidambaram Stadium","150-5 (20)","137 (19.4)","Mumbai Indians won by 13 runs",150,137,5,10,19.4,20,won,lost
+Sun," 18 Apr 2021",RCB,KKR,"10th Match "," Chennai, MA Chidambaram Stadium","204-4 (20)","166-8 (20)","Royal Challengers Bangalore won by 38 runs",204,166,4,8,20,20,won,lost
+Mon," 19 Apr 2021",CSK,RR,"12th Match "," Mumbai, Wankhede Stadium","188-9 (20)","143-9 (20)","Chennai Super Kings won by 45 runs",188,143,9,9,20,20,won,lost
+Tue," 20 Apr 2021",MI,DC,"13th Match "," Chennai, MA Chidambaram Stadium","137-9 (20)","138-4 (19.1)","Delhi Capitals won by 6 wkts",137,138,9,4,19.1,20,lost,won
+Wed," 21 Apr 2021",PBKS,SRH,"14th Match "," Chennai, MA Chidambaram Stadium","120 (19.4)","121-1 (18.4)","Sunrisers Hyderabad won by 9 wkts",120,121,10,1,18.4,19.4,lost,won
+Thu," 22 Apr 2021",RR,RCB,"16th Match "," Mumbai, Wankhede Stadium","177-9 (20)","181-0 (16.3)","Royal Challengers Bangalore won by 10 wkts",177,181,9,0,16.3,20,lost,won
+Fri," 23 Apr 2021",MI,PBKS,"17th Match "," Chennai, MA Chidambaram Stadium","131-6 (20)","132-1 (17.4)","Punjab Kings won by 9 wkts",131,132,6,1,17.4,20,lost,won
+Sat," 24 Apr 2021",KKR,RR,"18th Match "," Mumbai, Wankhede Stadium","133-9 (20)","134-4 (18.5)","Rajasthan Royals won by 6 wkts",133,134,9,4,18.5,20,lost,won
+Sun," 25 Apr 2021",CSK,RCB,"19th Match "," Mumbai, Wankhede Stadium","191-4 (20)","122-9 (20)","Chennai Super Kings won by 69 runs",191,122,4,9,20,20,won,lost
+Mon," 26 Apr 2021",PBKS,KKR,"21st Match "," Ahmedabad, Narendra Modi Stadium","123-9 (20)","126-5 (16.4)","Kolkata Knight Riders won by 5 wkts",123,126,9,5,16.4,20,lost,won
+Tue," 27 Apr 2021",RCB,DC,"22nd Match "," Ahmedabad, Narendra Modi Stadium","171-5 (20)","170-4 (20)","Royal Challengers Bangalore won by 1 run",171,170,5,4,20,20,won,lost
+Wed," 28 Apr 2021",SRH,CSK,"23rd Match "," Delhi, Arun Jaitley Stadium","171-3 (20)","173-3 (18.3)","Chennai Super Kings won by 7 wkts",171,173,3,3,18.3,20,lost,won
+Thu," 29 Apr 2021",RR,MI,"24th Match "," Delhi, Arun Jaitley Stadium","171-4 (20)","172-3 (18.3)","Mumbai Indians won by 7 wkts",171,172,4,3,18.3,20,lost,won
+Fri," 30 Apr 2021",PBKS,RCB,"26th Match "," Ahmedabad, Narendra Modi Stadium","179-5 (20)","145-8 (20)","Punjab Kings won by 34 runs",179,145,5,8,20,20,won,lost
+Sat," 01 May 2021",CSK,MI,"27th Match "," Delhi, Arun Jaitley Stadium","218-4 (20)","219-6 (20)","Mumbai Indians won by 4 wkts",218,219,4,6,20,20,lost,won
+Sun," 02 May 2021",RR,SRH,"28th Match "," Delhi, Arun Jaitley Stadium","220-3 (20)","165-8 (20)","Rajasthan Royals won by 55 runs",220,165,3,8,20,20,won,lost
+Mon," 03 May 2021",KKR,RCB,"30th Match "," Ahmedabad, Narendra Modi Stadium",,,"Match rescheduled due to Covid-19 pandemic",0,0,10,10,0,0,lost,lost
+Tue," 04 May 2021",SRH,MI,"31st Match "," Delhi, Arun Jaitley Stadium",,,"Match postponed due to Covid-19 pandemic",0,0,10,10,0,0,lost,lost
+Sun," 19 Sep 2021",CSK,MI,"30th Match "," Dubai, Dubai International Cricket Stadium","156-6 (20)","136-8 (20)","Chennai Super Kings won by 20 runs",156,136,6,8,20,20,won,lost
+Mon," 20 Sep 2021",RCB,KKR,"31st Match "," Abu Dhabi, Sheikh Zayed Stadium","92 (19)","94-1 (10)","Kolkata Knight Riders won by 9 wkts",92,1,10,1,10,19,won,lost
+Tue," 21 Sep 2021",RR,PBKS,"32nd Match "," Dubai, Dubai International Cricket Stadium","185 (20)","183-4 (20)","Rajasthan Royals won by 2 runs",185,183,10,4,20,20,won,lost
+Wed," 22 Sep 2021",SRH,DC,"33rd Match "," Dubai, Dubai International Cricket Stadium","134-9 (20)","139-2 (17.5)","Delhi Capitals won by 8 wkts",134,139,9,2,17.5,20,lost,won
+Thu," 23 Sep 2021",MI,KKR,"34th Match "," Abu Dhabi, Sheikh Zayed Stadium","155-6 (20)","159-3 (15.1)","Kolkata Knight Riders won by 7 wkts",155,159,6,3,15.1,20,lost,won
+Fri," 24 Sep 2021",RCB,CSK,"35th Match "," Sharjah, Sharjah Cricket Stadium","156-6 (20)","157-4 (18.1)","Chennai Super Kings won by 6 wkts",156,157,6,4,18.1,20,lost,won
+Sat," 25 Sep 2021",DC,RR,"36th Match "," Abu Dhabi, Sheikh Zayed Stadium","154-6 (20)","121-6 (20)","Delhi Capitals won by 33 runs",154,121,6,6,20,20,won,lost
+Sun," 26 Sep 2021",KKR,CSK,"38th Match "," Abu Dhabi, Sheikh Zayed Stadium","171-6 (20)","172-8 (20)","Chennai Super Kings won by 2 wkts",171,172,6,8,20,20,lost,won
+Mon," 27 Sep 2021",RR,SRH,"40th Match "," Dubai, Dubai International Cricket Stadium","164-5 (20)","167-3 (18.3)","Sunrisers Hyderabad won by 7 wkts",164,167,5,3,18.3,20,lost,won
+Tue," 28 Sep 2021",DC,KKR,"41st Match "," Sharjah, Sharjah Cricket Stadium","127-9 (20)","130-7 (18.2)","Kolkata Knight Riders won by 3 wkts",127,130,9,7,18.2,20,lost,won
+Wed," 29 Sep 2021",RR,RCB,"43rd Match "," Dubai, Dubai International Cricket Stadium","149-9 (20)","153-3 (17.1)","Royal Challengers Bangalore won by 7 wkts",149,153,9,3,17.1,20,lost,won
+Thu," 30 Sep 2021",SRH,CSK,"44th Match "," Sharjah, Sharjah Cricket Stadium","134-7 (20)","139-4 (19.4)","Chennai Super Kings won by 6 wkts",134,139,7,4,19.4,20,lost,won
+Fri," 01 Oct 2021",KKR,PBKS,"45th Match "," Dubai, Dubai International Cricket Stadium","165-7 (20)","168-5 (19.3)","Punjab Kings won by 5 wkts",165,168,7,5,19.3,20,lost,won
+Sat," 02 Oct 2021",MI,DC,"46th Match "," Sharjah, Sharjah Cricket Stadium","129-8 (20)","132-6 (19.1)","Delhi Capitals won by 4 wkts",129,132,8,6,19.1,20,lost,won
+Sun," 03 Oct 2021",RCB,PBKS,"48th Match "," Sharjah, Sharjah Cricket Stadium","164-7 (20)","158-6 (20)","Royal Challengers Bangalore won by 6 runs",164,158,7,6,20,20,won,lost
+Mon," 04 Oct 2021",CSK,DC,"50th Match "," Dubai, Dubai International Cricket Stadium","136-5 (20)","139-7 (19.4)","Delhi Capitals won by 3 wkts",136,139,5,7,19.4,20,lost,won
+Tue," 05 Oct 2021",RR,MI,"51st Match "," Sharjah, Sharjah Cricket Stadium","90-9 (20)","94-2 (8.2)","Mumbai Indians won by 8 wkts",90,94,9,2,8.2,20,lost,won
+Wed," 06 Oct 2021",SRH,RCB,"52nd Match "," Abu Dhabi, Sheikh Zayed Stadium","141-7 (20)","137-6 (20)","Sunrisers Hyderabad won by 4 runs",141,137,7,6,20,20,won,lost
+Thu," 07 Oct 2021",CSK,PBKS,"53rd Match "," Dubai, Dubai International Cricket Stadium","134-6 (20)","139-4 (13)","Punjab Kings won by 6 wkts",134,139,6,4,13,20,lost,won
+Fri," 08 Oct 2021",MI,SRH,"55th Match "," Abu Dhabi, Sheikh Zayed Stadium","235-9 (20)","193-8 (20)","Mumbai Indians won by 42 runs",235,193,9,8,20,20,won,lost
+Sun," 10 Oct 2021",DC,CSK,"Qualifier 1 "," Dubai, Dubai International Cricket Stadium","172-5 (20)","173-6 (19.4)","Chennai Super Kings won by 4 wkts",172,173,5,6,19.4,20,lost,won
+Mon," 11 Oct 2021",RCB,KKR,"Eliminator "," Sharjah, Sharjah Cricket Stadium","138-7 (20)","139-6 (19.4)","Kolkata Knight Riders won by 4 wkts",138,139,7,6,19.4,20,lost,won
+Wed," 13 Oct 2021",DC,KKR,"Qualifier 2 "," Sharjah, Sharjah Cricket Stadium","135-5 (20)","136-7 (19.5)","Kolkata Knight Riders won by 3 wkts",135,136,5,7,19.5,20,lost,won
+Fri," 15 Oct 2021",CSK,KKR,"Final "," Dubai, Dubai International Cricket Stadium","192-3 (20)","165-9 (20)","Chennai Super Kings won by 27 runs",192,165,3,9,20,20,won,lost
+Sat," 19 Sep 2020",MI,CSK,"1st Match "," Abu Dhabi, Sheikh Zayed Stadium","162-9 (20)","166-5 (19.2)","Chennai Super Kings won by 5 wkts",162,166,9,5,19.2,20,lost,won
+Sun," 20 Sep 2020",DC,PBKS,"2nd Match "," Dubai, Dubai International Cricket Stadium","157-8 (20)","157-8 (20)","Match tied (Delhi Capitals won the Super Over)",157,157,8,8,20,20,lost,lost
+Mon," 21 Sep 2020",RCB,SRH,"3rd Match "," Dubai, Dubai International Cricket Stadium","163-5 (20)","153 (19.4)","Royal Challengers Bangalore won by 10 runs",163,153,5,10,19.4,20,won,lost
+Tue," 22 Sep 2020",RR,CSK,"4th Match "," Sharjah, Sharjah Cricket Stadium","216-7 (20)","200-6 (20)","Rajasthan Royals won by 16 runs",216,200,7,6,20,20,won,lost
+Wed," 23 Sep 2020",MI,KKR,"5th Match "," Abu Dhabi, Sheikh Zayed Stadium","195-5 (20)","146-9 (20)","Mumbai Indians won by 49 runs",195,146,5,9,20,20,won,lost
+Thu," 24 Sep 2020",PBKS,RCB,"6th Match "," Dubai, Dubai International Cricket Stadium","206-3 (20)","109 (17)","Kings XI Punjab won by 97 runs",206,109,3,10,17,20,won,lost
+Fri," 25 Sep 2020",DC,CSK,"7th Match "," Dubai, Dubai International Cricket Stadium","175-3 (20)","131-7 (20)","Delhi Capitals won by 44 runs",175,131,3,7,20,20,won,lost
+Sat," 26 Sep 2020",SRH,KKR,"8th Match "," Abu Dhabi, Sheikh Zayed Stadium","142-4 (20)","145-3 (18)","Kolkata Knight Riders won by 7 wkts",142,145,4,3,18,20,lost,won
+Sun," 27 Sep 2020",PBKS,RR,"9th Match "," Sharjah, Sharjah Cricket Stadium","223-2 (20)","226-6 (19.3)","Rajasthan Royals won by 4 wkts",223,226,2,6,19.3,20,lost,won
+Mon," 28 Sep 2020",RCB,MI,"10th Match "," Dubai, Dubai International Cricket Stadium","201-3 (20)","201-5 (20)","Match tied (Royal Challengers Bangalore won the Super Over)",201,201,3,5,20,20,lost,lost
+Tue," 29 Sep 2020",SRH,DC,"11th Match "," Abu Dhabi, Sheikh Zayed Stadium","162-4 (20)","147-7 (20)","Sunrisers Hyderabad won by 15 runs",162,147,4,7,20,20,won,lost
+Wed," 30 Sep 2020",KKR,RR,"12th Match "," Dubai, Dubai International Cricket Stadium","174-6 (20)","137-9 (20)","Kolkata Knight Riders won by 37 runs",174,137,6,9,20,20,won,lost
+Thu," 01 Oct 2020",MI,PBKS,"13th Match "," Abu Dhabi, Sheikh Zayed Stadium","191-4 (20)","143-8 (20)","Mumbai Indians won by 48 runs",191,143,4,8,20,20,won,lost
+Fri," 02 Oct 2020",SRH,CSK,"14th Match "," Dubai, Dubai International Cricket Stadium","164-5 (20)","157-5 (20)","Sunrisers Hyderabad won by 7 runs",164,157,5,5,20,20,won,lost
+Sat," 03 Oct 2020",RR,RCB,"15th Match "," Abu Dhabi, Sheikh Zayed Stadium","154-6 (20)","158-2 (19.1)","Royal Challengers Bangalore won by 8 wkts",154,158,6,2,19.1,20,lost,won
+Sun," 04 Oct 2020",MI,SRH,"17th Match "," Sharjah, Sharjah Cricket Stadium","208-5 (20)","174-7 (20)","Mumbai Indians won by 34 runs",208,174,5,7,20,20,won,lost
+Mon," 05 Oct 2020",DC,RCB,"19th Match "," Dubai, Dubai International Cricket Stadium","196-4 (20)","137-9 (20)","Delhi Capitals won by 59 runs",196,137,4,9,20,20,won,lost
+Tue," 06 Oct 2020",MI,RR,"20th Match "," Abu Dhabi, Sheikh Zayed Stadium","193-4 (20)","136 (18.1)","Mumbai Indians won by 57 runs",193,136,4,10,18.1,20,won,lost
+Wed," 07 Oct 2020",KKR,CSK,"21st Match "," Abu Dhabi, Sheikh Zayed Stadium","167 (20)","157-5 (20)","Kolkata Knight Riders won by 10 runs",167,157,10,5,20,20,won,lost
+Thu," 08 Oct 2020",SRH,PBKS,"22nd Match "," Dubai, Dubai International Cricket Stadium","201-6 (20)","132 (16.5)","Sunrisers Hyderabad won by 69 runs",201,132,6,10,16.5,20,won,lost
+Fri," 09 Oct 2020",DC,RR,"23rd Match "," Sharjah, Sharjah Cricket Stadium","184-8 (20)","138 (19.4)","Delhi Capitals won by 46 runs",184,138,8,10,19.4,20,won,lost
+Sat," 10 Oct 2020",KKR,PBKS,"24th Match "," Abu Dhabi, Sheikh Zayed Stadium","164-6 (20)","162-5 (20)","Kolkata Knight Riders won by 2 runs",164,162,6,5,20,20,won,lost
+Sun," 11 Oct 2020",SRH,RR,"26th Match "," Dubai, Dubai International Cricket Stadium","158-4 (20)","163-5 (19.5)","Rajasthan Royals won by 5 wkts",158,163,4,5,19.5,20,lost,won
+Mon," 12 Oct 2020",RCB,KKR,"28th Match "," Sharjah, Sharjah Cricket Stadium","194-2 (20)","112-9 (20)","Royal Challengers Bangalore won by 82 runs",194,112,2,9,20,20,won,lost
+Tue," 13 Oct 2020",CSK,SRH,"29th Match "," Dubai, Dubai International Cricket Stadium","167-6 (20)","147-8 (20)","Chennai Super Kings won by 20 runs",167,147,6,8,20,20,won,lost
+Wed," 14 Oct 2020",DC,RR,"30th Match "," Dubai, Dubai International Cricket Stadium","161-7 (20)","148-8 (20)","Delhi Capitals won by 13 runs",161,148,7,8,20,20,won,lost
+Thu," 15 Oct 2020",RCB,PBKS,"31st Match "," Sharjah, Sharjah Cricket Stadium","171-6 (20)","177-2 (20)","Kings XI Punjab won by 8 wkts",171,177,6,2,20,20,lost,won
+Fri," 16 Oct 2020",KKR,MI,"32nd Match "," Abu Dhabi, Sheikh Zayed Stadium","148-5 (20)","149-2 (16.5)","Mumbai Indians won by 8 wkts",148,149,5,2,16.5,20,lost,won
+Sat," 17 Oct 2020",RR,RCB,"33rd Match "," Dubai, Dubai International Cricket Stadium","177-6 (20)","179-3 (19.4)","Royal Challengers Bangalore won by 7 wkts",177,179,6,3,19.4,20,lost,won
+Sun," 18 Oct 2020",KKR,SRH,"35th Match "," Abu Dhabi, Sheikh Zayed Stadium","163-5 (20)","163-6 (20)","Match tied (Kolkata Knight Riders won the Super Over)",163,163,5,6,20,20,lost,lost
+Mon," 19 Oct 2020",CSK,RR,"37th Match "," Abu Dhabi, Sheikh Zayed Stadium","125-5 (20)","126-3 (17.3)","Rajasthan Royals won by 7 wkts",125,126,5,3,17.3,20,lost,won
+Tue," 20 Oct 2020",DC,PBKS,"38th Match "," Dubai, Dubai International Cricket Stadium","164-5 (20)","167-5 (19)","Kings XI Punjab won by 5 wkts",164,167,5,5,19,20,lost,won
+Wed," 21 Oct 2020",KKR,RCB,"39th Match "," Abu Dhabi, Sheikh Zayed Stadium","84-8 (20)","85-2 (13.3)","Royal Challengers Bangalore won by 8 wkts",84,85,8,2,13.3,20,lost,won
+Thu," 22 Oct 2020",RR,SRH,"40th Match "," Dubai, Dubai International Cricket Stadium","154-6 (20)","156-2 (18.1)","Sunrisers Hyderabad won by 8 wkts",154,156,6,2,18.1,20,lost,won
+Fri," 23 Oct 2020",CSK,MI,"41st Match "," Sharjah, Sharjah Cricket Stadium","114-9 (20)","116-0 (12.2)","Mumbai Indians won by 10 wkts",114,116,9,0,12.2,20,lost,won
+Sat," 24 Oct 2020",KKR,DC,"42nd Match "," Abu Dhabi, Sheikh Zayed Stadium","194-6 (20)","135-9 (20)","Kolkata Knight Riders won by 59 runs",194,135,6,9,20,20,won,lost
+Sun," 25 Oct 2020",RCB,CSK,"44th Match "," Dubai, Dubai International Cricket Stadium","145-6 (20)","150-2 (18.4)","Chennai Super Kings won by 8 wkts",145,150,6,2,18.4,20,lost,won
+Mon," 26 Oct 2020",KKR,PBKS,"46th Match "," Sharjah, Sharjah Cricket Stadium","149-9 (20)","150-2 (18.5)","Kings XI Punjab won by 8 wkts",149,150,9,2,18.5,20,lost,won
+Tue," 27 Oct 2020",SRH,DC,"47th Match "," Dubai, Dubai International Cricket Stadium","219-2 (20)","131 (19)","Sunrisers Hyderabad won by 88 runs",219,131,2,10,19,20,won,lost
+Wed," 28 Oct 2020",RCB,MI,"48th Match "," Abu Dhabi, Sheikh Zayed Stadium","164-6 (20)","166-5 (19.1)","Mumbai Indians won by 5 wkts",164,166,6,5,19.1,20,lost,won
+Thu," 29 Oct 2020",KKR,CSK,"49th Match "," Dubai, Dubai International Cricket Stadium","172-5 (20)","178-4 (20)","Chennai Super Kings won by 6 wkts",172,178,5,4,20,20,lost,won
+Fri," 30 Oct 2020",PBKS,RR,"50th Match "," Abu Dhabi, Sheikh Zayed Stadium","185-4 (20)","186-3 (17.3)","Rajasthan Royals won by 7 wkts",185,186,4,3,17.3,20,lost,won
+Sat," 31 Oct 2020",DC,MI,"51st Match "," Dubai, Dubai International Cricket Stadium","110-9 (20)","111-1 (14.2)","Mumbai Indians won by 9 wkts",110,111,9,1,14.2,20,lost,won
+Sun," 01 Nov 2020",PBKS,CSK,"53rd Match "," Abu Dhabi, Sheikh Zayed Stadium","153-6 (20)","154-1 (18.5)","Chennai Super Kings won by 9 wkts",153,154,6,1,18.5,20,lost,won
+Mon," 02 Nov 2020",RCB,DC,"55th Match "," Abu Dhabi, Sheikh Zayed Stadium","152-7 (20)","154-4 (19)","Delhi Capitals won by 6 wkts",152,154,7,4,19,20,lost,won
+Tue," 03 Nov 2020",MI,SRH,"56th Match "," Sharjah, Sharjah Cricket Stadium","149-8 (20)","151-0 (17.1)","Sunrisers Hyderabad won by 10 wkts",149,151,8,0,17.1,20,lost,won
+Thu," 05 Nov 2020",MI,DC,"Qualifier 1 "," Dubai, Dubai International Cricket Stadium","200-5 (20)","143-8 (20)","Mumbai Indians won by 57 runs",200,143,5,8,20,20,won,lost
+Fri," 06 Nov 2020",RCB,SRH,"Eliminator "," Abu Dhabi, Sheikh Zayed Stadium","131-7 (20)","132-4 (19.4)","Sunrisers Hyderabad won by 6 wkts",131,132,7,4,19.4,20,lost,won
+Sun," 08 Nov 2020",DC,SRH,"Qualifier 2 "," Abu Dhabi, Sheikh Zayed Stadium","189-3 (20)","172-8 (20)","Delhi Capitals won by 17 runs",189,172,3,8,20,20,won,lost
+Tue," 10 Nov 2020",DC,MI,"Final "," Dubai, Dubai International Cricket Stadium","156-7 (20)","157-5 (18.4)","Mumbai Indians won by 5 wkts",156,157,7,5,18.4,20,lost,won
+Sat," 23 Mar 2019",RCB,CSK,"1st Match "," Chennai, MA Chidambaram Stadium","70 (17.1)","71-3 (17.4)","Chennai Super Kings won by 7 wkts",70,71,10,3,17.4,17.1,lost,won
+Sun," 24 Mar 2019",SRH,KKR,"2nd Match "," Kolkata, Eden Gardens","181-3 (20)","183-4 (19.4)","Kolkata Knight Riders won by 6 wkts",181,183,3,4,19.4,20,lost,won
+Mon," 25 Mar 2019",PBKS,RR,"4th Match "," Jaipur, Sawai Mansingh Stadium","184-4 (20)","170-9 (20)","Kings XI Punjab won by 14 runs",184,170,4,9,20,20,won,lost
+Tue," 26 Mar 2019",DC,CSK,"5th Match "," Delhi, Arun Jaitley Stadium","147-6 (20)","150-4 (19.4)","Chennai Super Kings won by 6 wkts",147,150,6,4,19.4,20,lost,won
+Wed," 27 Mar 2019",KKR,PBKS,"6th Match "," Kolkata, Eden Gardens","218-4 (20)","190-4 (20)","Kolkata Knight Riders won by 28 runs",218,190,4,4,20,20,won,lost
+Thu," 28 Mar 2019",MI,RCB,"7th Match "," Bengaluru, M.Chinnaswamy Stadium","187-8 (20)","181-5 (20)","Mumbai Indians won by 6 runs",187,181,8,5,20,20,won,lost
+Fri," 29 Mar 2019",RR,SRH,"8th Match "," Hyderabad, Rajiv Gandhi International Stadium","198-2 (20)","201-5 (19)","Sunrisers Hyderabad won by 5 wkts",198,201,2,5,19,20,lost,won
+Sat," 30 Mar 2019",MI,PBKS,"9th Match "," Mohali, Punjab Cricket Association IS Bindra Stadium","176-7 (20)","177-2 (18.4)","Kings XI Punjab won by 8 wkts",176,177,7,2,18.4,20,lost,won
+Sun," 31 Mar 2019",SRH,RCB,"11th Match "," Hyderabad, Rajiv Gandhi International Stadium","231-2 (20)","113 (19.5)","Sunrisers Hyderabad won by 118 runs",231,113,2,10,19.5,20,won,lost
+Mon," 01 Apr 2019",PBKS,DC,"13th Match "," Mohali, Punjab Cricket Association IS Bindra Stadium","166-9 (20)","152 (19.2)","Kings XI Punjab won by 14 runs",166,152,9,10,19.2,20,won,lost
+Tue," 02 Apr 2019",RCB,RR,"14th Match "," Jaipur, Sawai Mansingh Stadium","158-4 (20)","164-3 (19.5)","Rajasthan Royals won by 7 wkts",158,164,4,3,19.5,20,lost,won
+Wed," 03 Apr 2019",MI,CSK,"15th Match "," Mumbai, Wankhede Stadium","170-5 (20)","133-8 (20)","Mumbai Indians won by 37 runs",170,133,5,8,20,20,won,lost
+Thu," 04 Apr 2019",DC,SRH,"16th Match "," Delhi, Arun Jaitley Stadium","129-8 (20)","131-5 (18.3)","Sunrisers Hyderabad won by 5 wkts",129,131,8,5,18.3,20,lost,won
+Fri," 05 Apr 2019",RCB,KKR,"17th Match "," Bengaluru, M.Chinnaswamy Stadium","205-3 (20)","206-5 (19.1)","Kolkata Knight Riders won by 5 wkts",205,206,3,5,19.1,20,lost,won
+Sat," 06 Apr 2019",CSK,PBKS,"18th Match "," Chennai, MA Chidambaram Stadium","160-3 (20)","138-5 (20)","Chennai Super Kings won by 22 runs",160,138,3,5,20,20,won,lost
+Sun," 07 Apr 2019",RCB,DC,"20th Match "," Bengaluru, M.Chinnaswamy Stadium","149-8 (20)","152-6 (18.5)","Delhi Capitals won by 4 wkts",149,152,8,6,18.5,20,lost,won
+Mon," 08 Apr 2019",SRH,PBKS,"22nd Match "," Mohali, Punjab Cricket Association IS Bindra Stadium","150-4 (20)","151-4 (19.5)","Kings XI Punjab won by 6 wkts",150,151,4,4,19.5,20,lost,won
+Tue," 09 Apr 2019",KKR,CSK,"23rd Match "," Chennai, MA Chidambaram Stadium","108-9 (20)","111-3 (17.2)","Chennai Super Kings won by 7 wkts",108,111,9,3,17.2,20,lost,won
+Wed," 10 Apr 2019",PBKS,MI,"24th Match "," Mumbai, Wankhede Stadium","197-4 (20)","198-7 (20)","Mumbai Indians won by 3 wkts",197,198,4,7,20,20,lost,won
+Thu," 11 Apr 2019",RR,CSK,"25th Match "," Jaipur, Sawai Mansingh Stadium","151-7 (20)","155-6 (20)","Chennai Super Kings won by 4 wkts",151,155,7,6,20,20,lost,won
+Fri," 12 Apr 2019",KKR,DC,"26th Match "," Kolkata, Eden Gardens","178-7 (20)","180-3 (18.5)","Delhi Capitals won by 7 wkts",178,180,7,3,18.5,20,lost,won
+Sat," 13 Apr 2019",MI,RR,"27th Match "," Mumbai, Wankhede Stadium","187-5 (20)","188-6 (19.3)","Rajasthan Royals won by 4 wkts",187,188,5,6,19.3,20,lost,won
+Sun," 14 Apr 2019",KKR,CSK,"29th Match "," Kolkata, Eden Gardens","161-8 (20)","162-5 (19.4)","Chennai Super Kings won by 5 wkts",161,162,8,5,19.4,20,lost,won
+Mon," 15 Apr 2019",RCB,MI,"31st Match "," Mumbai, Wankhede Stadium","171-7 (20)","172-5 (19)","Mumbai Indians won by 5 wkts",171,172,7,5,19,20,lost,won
+Tue," 16 Apr 2019",PBKS,RR,"32nd Match "," Mohali, Punjab Cricket Association IS Bindra Stadium","182-6 (20)","170-7 (20)","Kings XI Punjab won by 12 runs",182,170,6,7,20,20,won,lost
+Wed," 17 Apr 2019",CSK,SRH,"33rd Match "," Hyderabad, Rajiv Gandhi International Stadium","132-5 (20)","137-4 (16.5)","Sunrisers Hyderabad won by 6 wkts",132,137,5,4,16.5,20,lost,won
+Thu," 18 Apr 2019",MI,DC,"34th Match "," Delhi, Arun Jaitley Stadium","168-5 (20)","128-9 (20)","Mumbai Indians won by 40 runs",168,128,5,9,20,20,won,lost
+Fri," 19 Apr 2019",RCB,KKR,"35th Match "," Kolkata, Eden Gardens","213-4 (20)","203-5 (20)","Royal Challengers Bangalore won by 10 runs",213,203,4,5,20,20,won,lost
+Sat," 20 Apr 2019",MI,RR,"36th Match "," Jaipur, Sawai Mansingh Stadium","161-5 (20)","162-5 (19.1)","Rajasthan Royals won by 5 wkts",161,162,5,5,19.1,20,lost,won
+Sun," 21 Apr 2019",KKR,SRH,"38th Match "," Hyderabad, Rajiv Gandhi International Stadium","159-8 (20)","161-1 (15)","Sunrisers Hyderabad won by 9 wkts",159,161,8,1,15,20,lost,won
+Mon," 22 Apr 2019",RR,DC,"40th Match "," Jaipur, Sawai Mansingh Stadium","191-6 (20)","193-4 (19.2)","Delhi Capitals won by 6 wkts",191,193,6,4,19.2,20,lost,won
+Tue," 23 Apr 2019",SRH,CSK,"41st Match "," Chennai, MA Chidambaram Stadium","175-3 (20)","176-4 (19.5)","Chennai Super Kings won by 6 wkts",175,176,3,4,19.5,20,lost,won
+Wed," 24 Apr 2019",RCB,PBKS,"42nd Match "," Bengaluru, M.Chinnaswamy Stadium","202-4 (20)","185-7 (20)","Royal Challengers Bangalore won by 17 runs",202,185,4,7,20,20,won,lost
+Thu," 25 Apr 2019",KKR,RR,"43rd Match "," Kolkata, Eden Gardens","175-6 (20)","177-7 (19.2)","Rajasthan Royals won by 3 wkts",175,177,6,7,19.2,20,lost,won
+Fri," 26 Apr 2019",MI,CSK,"44th Match "," Chennai, MA Chidambaram Stadium","155-4 (20)","109 (17.4)","Mumbai Indians won by 46 runs",155,109,4,10,17.4,20,won,lost
+Sat," 27 Apr 2019",SRH,RR,"45th Match "," Jaipur, Sawai Mansingh Stadium","160-8 (20)","161-3 (19.1)","Rajasthan Royals won by 7 wkts",160,161,8,3,19.1,20,lost,won
+Sun," 28 Apr 2019",DC,RCB,"46th Match "," Delhi, Arun Jaitley Stadium","187-5 (20)","171-7 (20)","Delhi Capitals won by 16 runs",187,171,5,7,20,20,won,lost
+Mon," 29 Apr 2019",SRH,PBKS,"48th Match "," Hyderabad, Rajiv Gandhi International Stadium","212-6 (20)","167-8 (20)","Sunrisers Hyderabad won by 45 runs",212,167,6,8,20,20,won,lost
+Tue," 30 Apr 2019",RCB,RR,"49th Match "," Bengaluru, M.Chinnaswamy Stadium","62-7 (5)","41-1 (3.2)","No result",62,41,7,1,3.2,5,won,lost
+Wed," 01 May 2019",CSK,DC,"50th Match "," Chennai, MA Chidambaram Stadium","179-4 (20)","99 (16.2)","Chennai Super Kings won by 80 runs",179,99,4,10,16.2,20,won,lost
+Thu," 02 May 2019",MI,SRH,"51st Match "," Mumbai, Wankhede Stadium","162-5 (20)","162-6 (20)","Match tied (Mumbai Indians won the Super Over)",162,162,5,6,20,20,lost,lost
+Fri," 03 May 2019",PBKS,KKR,"52nd Match "," Mohali, Punjab Cricket Association IS Bindra Stadium","183-6 (20)","185-3 (18)","Kolkata Knight Riders won by 7 wkts",183,185,6,3,18,20,lost,won
+Sat," 04 May 2019",RR,DC,"53rd Match "," Delhi, Arun Jaitley Stadium","115-9 (20)","121-5 (16.1)","Delhi Capitals won by 5 wkts",115,121,9,5,16.1,20,lost,won
+Sun," 05 May 2019",CSK,PBKS,"55th Match "," Mohali, Punjab Cricket Association IS Bindra Stadium","170-5 (20)","173-4 (18)","Kings XI Punjab won by 6 wkts",170,173,5,4,18,20,lost,won
+Tue," 07 May 2019",CSK,MI,"Qualifier 1 "," Chennai, MA Chidambaram Stadium","131-4 (20)","132-4 (18.3)","Mumbai Indians won by 6 wkts",131,132,4,4,18.3,20,lost,won
+Wed," 08 May 2019",SRH,DC,"Eliminator "," Visakhapatnam, Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium","162-8 (20)","165-8 (19.5)","Delhi Capitals won by 2 wkts",162,165,8,8,19.5,20,lost,won
+Fri," 10 May 2019",DC,CSK,"Qualifier 2 "," Visakhapatnam, Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium","147-9 (20)","151-4 (19)","Chennai Super Kings won by 6 wkts",147,151,9,4,19,20,lost,won
+Sun," 12 May 2019",MI,CSK,"Final "," Hyderabad, Rajiv Gandhi International Stadium","149-8 (20)","148-7 (20)","Mumbai Indians won by 1 run",149,148,8,7,20,20,won,lost
+Sat," 07 Apr 2018",MI,CSK,"1st Match "," Mumbai, Wankhede Stadium","165-4 (20)","169-9 (19.5)","Chennai Super Kings won by 1 wkt",165,169,4,9,19.5,20,lost,won
+Sun," 08 Apr 2018",DC,PBKS,"2nd Match "," Mohali, Punjab Cricket Association IS Bindra Stadium","166-7 (20)","167-4 (18.5)","Kings XI Punjab won by 6 wkts",166,167,7,4,18.5,20,lost,won
+Mon," 09 Apr 2018",RR,SRH,"4th Match "," Hyderabad, Rajiv Gandhi International Stadium","125-9 (20)","127-1 (15.5)","Sunrisers Hyderabad won by 9 wkts",125,127,9,1,15.5,20,lost,won
+Tue," 10 Apr 2018",KKR,CSK,"5th Match "," Chennai, MA Chidambaram Stadium","202-6 (20)","205-5 (19.5)","Chennai Super Kings won by 5 wkts",202,205,6,5,19.5,20,lost,won
+Wed," 11 Apr 2018",RR,DC,"6th Match "," Jaipur, Sawai Mansingh Stadium","153-5 (17.5)","60-4 (6)","Rajasthan Royals won by 10 runs (DLS method)",153,60,5,4,6,17.5,won,lost
+Thu," 12 Apr 2018",MI,SRH,"7th Match "," Hyderabad, Rajiv Gandhi International Stadium","147-8 (20)","151-9 (20)","Sunrisers Hyderabad won by 1 wkt",147,151,8,9,20,20,lost,won
+Fri," 13 Apr 2018",PBKS,RCB,"8th Match "," Bengaluru, M.Chinnaswamy Stadium","155 (19.2)","159-6 (19.3)","Royal Challengers Bangalore won by 4 wkts",155,159,10,6,19.3,19.2,lost,won
+Sat," 14 Apr 2018",MI,DC,"9th Match "," Mumbai, Wankhede Stadium","194-7 (20)","195-3 (20)","Delhi Daredevils won by 7 wkts",194,195,7,3,20,20,lost,won
+Sun," 15 Apr 2018",RR,RCB,"11th Match "," Bengaluru, M.Chinnaswamy Stadium","217-4 (20)","198-6 (20)","Rajasthan Royals won by 19 runs",217,198,4,6,20,20,won,lost
+Mon," 16 Apr 2018",KKR,DC,"13th Match "," Kolkata, Eden Gardens","200-9 (20)","129 (14.2)","Kolkata Knight Riders won by 71 runs",200,129,9,10,14.2,20,won,lost
+Tue," 17 Apr 2018",MI,RCB,"14th Match "," Mumbai, Wankhede Stadium","213-6 (20)","167-8 (20)","Mumbai Indians won by 46 runs",213,167,6,8,20,20,won,lost
+Wed," 18 Apr 2018",RR,KKR,"15th Match "," Jaipur, Sawai Mansingh Stadium","160-8 (20)","163-3 (18.5)","Kolkata Knight Riders won by 7 wkts",160,163,8,3,18.5,20,lost,won
+Thu," 19 Apr 2018",PBKS,SRH,"16th Match "," Mohali, Punjab Cricket Association IS Bindra Stadium","193-3 (20)","178-4 (20)","Kings XI Punjab won by 15 runs",193,178,3,4,20,20,won,lost
+Fri," 20 Apr 2018",CSK,RR,"17th Match "," Pune, Maharashtra Cricket Association Stadium","204-5 (20)","140 (18.3)","Chennai Super Kings won by 64 runs",204,140,5,10,18.3,20,won,lost
+Sat," 21 Apr 2018",KKR,PBKS,"18th Match "," Kolkata, Eden Gardens","191-7 (20)","126-1 (11.1)","Kings XI Punjab won by 9 wkts (DLS method)",191,126,7,1,11.1,20,won,lost
+Sun," 22 Apr 2018",CSK,SRH,"20th Match "," Hyderabad, Rajiv Gandhi International Stadium","182-3 (20)","178-6 (20)","Chennai Super Kings won by 4 runs",182,178,3,6,20,20,won,lost
+Mon," 23 Apr 2018",PBKS,DC,"22nd Match "," Delhi, Arun Jaitley Stadium","143-8 (20)","139-8 (20)","Kings XI Punjab won by 4 runs",143,139,8,8,20,20,won,lost
+Tue," 24 Apr 2018",SRH,MI,"23rd Match "," Mumbai, Wankhede Stadium","118 (18.4)","87 (18.5)","Sunrisers Hyderabad won by 31 runs",118,87,10,10,18.5,18.4,won,lost
+Wed," 25 Apr 2018",RCB,CSK,"24th Match "," Bengaluru, M.Chinnaswamy Stadium","205-8 (20)","207-5 (19.4)","Chennai Super Kings won by 5 wkts",205,207,8,5,19.4,20,lost,won
+Thu," 26 Apr 2018",SRH,PBKS,"25th Match "," Hyderabad, Rajiv Gandhi International Stadium","132-6 (20)","119 (19.2)","Sunrisers Hyderabad won by 13 runs",132,119,6,10,19.2,20,won,lost
+Fri," 27 Apr 2018",DC,KKR,"26th Match "," Delhi, Arun Jaitley Stadium","219-4 (20)","164-9 (20)","Delhi Daredevils won by 55 runs",219,164,4,9,20,20,won,lost
+Sat," 28 Apr 2018",CSK,MI,"27th Match "," Pune, Maharashtra Cricket Association Stadium","169-5 (20)","170-2 (19.4)","Mumbai Indians won by 8 wkts",169,170,5,2,19.4,20,lost,won
+Sun," 29 Apr 2018",SRH,RR,"28th Match "," Jaipur, Sawai Mansingh Stadium","151-7 (20)","140-6 (20)","Sunrisers Hyderabad won by 11 runs",151,140,7,6,20,20,won,lost
+Mon," 30 Apr 2018",CSK,DC,"30th Match "," Pune, Maharashtra Cricket Association Stadium","211-4 (20)","198-5 (20)","Chennai Super Kings won by 13 runs",211,198,4,5,20,20,won,lost
+Tue," 01 May 2018",RCB,MI,"31st Match "," Bengaluru, M.Chinnaswamy Stadium","167-7 (20)","153-7 (20)","Royal Challengers Bangalore won by 14 runs",167,153,7,7,20,20,won,lost
+Wed," 02 May 2018",DC,RR,"32nd Match "," Delhi, Arun Jaitley Stadium","196-6 (17.1)","146-5 (12)","Delhi Daredevils won by 4 runs (DLS method)",196,146,6,5,12,17.1,won,lost
+Thu," 03 May 2018",CSK,KKR,"33rd Match "," Kolkata, Eden Gardens","177-5 (20)","180-4 (17.4)","Kolkata Knight Riders won by 6 wkts",177,180,5,4,17.4,20,lost,won
+Fri," 04 May 2018",PBKS,MI,"34th Match "," Indore, Holkar Cricket Stadium","174-6 (20)","176-4 (19)","Mumbai Indians won by 6 wkts",174,176,6,4,19,20,lost,won
+Sat," 05 May 2018",RCB,CSK,"35th Match "," Pune, Maharashtra Cricket Association Stadium","127-9 (20)","128-4 (18)","Chennai Super Kings won by 6 wkts",127,128,9,4,18,20,lost,won
+Sun," 06 May 2018",MI,KKR,"37th Match "," Mumbai, Wankhede Stadium","181-4 (20)","168-6 (20)","Mumbai Indians won by 13 runs",181,168,4,6,20,20,won,lost
+Mon," 07 May 2018",SRH,RCB,"39th Match "," Hyderabad, Rajiv Gandhi International Stadium","146 (20)","141-6 (20)","Sunrisers Hyderabad won by 5 runs",146,141,10,6,20,20,won,lost
+Tue," 08 May 2018",RR,PBKS,"40th Match "," Jaipur, Sawai Mansingh Stadium","158-8 (20)","143-7 (20)","Rajasthan Royals won by 15 runs",158,143,8,7,20,20,won,lost
+Wed," 09 May 2018",MI,KKR,"41st Match "," Kolkata, Eden Gardens","210-6 (20)","108 (18.1)","Mumbai Indians won by 102 runs",210,108,6,10,18.1,20,won,lost
+Thu," 10 May 2018",DC,SRH,"42nd Match "," Delhi, Arun Jaitley Stadium","187-5 (20)","191-1 (18.5)","Sunrisers Hyderabad won by 9 wkts",187,191,5,1,18.5,20,lost,won
+Fri," 11 May 2018",CSK,RR,"43rd Match "," Jaipur, Sawai Mansingh Stadium","176-4 (20)","177-6 (19.5)","Rajasthan Royals won by 4 wkts",176,177,4,6,19.5,20,lost,won
+Sat," 12 May 2018",KKR,PBKS,"44th Match "," Indore, Holkar Cricket Stadium","245-6 (20)","214-8 (20)","Kolkata Knight Riders won by 31 runs",245,214,6,8,20,20,won,lost
+Sun," 13 May 2018",SRH,CSK,"46th Match "," Pune, Maharashtra Cricket Association Stadium","179-4 (20)","180-2 (19)","Chennai Super Kings won by 8 wkts",179,180,4,2,19,20,lost,won
+Mon," 14 May 2018",PBKS,RCB,"48th Match "," Indore, Holkar Cricket Stadium","88 (15.1)","92-0 (8.1)","Royal Challengers Bangalore won by 10 wkts",88,92,10,0,8.1,15.1,lost,won
+Tue," 15 May 2018",RR,KKR,"49th Match "," Kolkata, Eden Gardens","142 (19)","145-4 (18)","Kolkata Knight Riders won by 6 wkts",142,145,10,4,18,19,lost,won
+Wed," 16 May 2018",MI,PBKS,"50th Match "," Mumbai, Wankhede Stadium","186-8 (20)","183-5 (20)","Mumbai Indians won by 3 runs",186,183,8,5,20,20,won,lost
+Thu," 17 May 2018",RCB,SRH,"51st Match "," Bengaluru, M.Chinnaswamy Stadium","218-6 (20)","204-3 (20)","Royal Challengers Bangalore won by 14 runs",218,204,6,3,20,20,won,lost
+Fri," 18 May 2018",DC,CSK,"52nd Match "," Delhi, Arun Jaitley Stadium","162-5 (20)","128-6 (20)","Delhi Daredevils won by 34 runs",162,128,5,6,20,20,won,lost
+Sat," 19 May 2018",RR,RCB,"53rd Match "," Jaipur, Sawai Mansingh Stadium","164-5 (20)","134 (19.2)","Rajasthan Royals won by 30 runs",164,134,5,10,19.2,20,won,lost
+Sun," 20 May 2018",DC,MI,"55th Match "," Delhi, Arun Jaitley Stadium","174-4 (20)","163 (19.3)","Delhi Daredevils won by 11 runs",174,163,4,10,19.3,20,won,lost
+Tue," 22 May 2018",SRH,CSK,"Qualifier 1 "," Mumbai, Wankhede Stadium","139-7 (20)","140-8 (19.1)","Chennai Super Kings won by 2 wkts",139,140,7,8,19.1,20,lost,won
+Wed," 23 May 2018",KKR,RR,"Eliminator "," Kolkata, Eden Gardens","169-7 (20)","144-4 (20)","Kolkata Knight Riders won by 25 runs",169,144,7,4,20,20,won,lost
+Fri," 25 May 2018",SRH,KKR,"Qualifier 2 "," Kolkata, Eden Gardens","174-7 (20)","160-9 (20)","Sunrisers Hyderabad won by 14 runs",174,160,7,9,20,20,won,lost
+Sun," 27 May 2018",SRH,CSK,"Final "," Mumbai, Wankhede Stadium","178-6 (20)","181-2 (18.3)","Chennai Super Kings won by 8 wkts",178,181,6,2,18.3,20,lost,won
+Wed," 05 Apr 2017",SRH,RCB,"1st Match "," Hyderabad, Rajiv Gandhi International Stadium","207-4 (20)","172 (19.4)","Sunrisers Hyderabad won by 35 runs",207,172,4,10,19.4,20,won,lost
+Thu," 06 Apr 2017",MI,RPS,"2nd Match "," Pune, Maharashtra Cricket Association Stadium","184-8 (20)","187-3 (19.5)","Rising Pune Supergiant won by 7 wkts",184,187,8,3,19.5,20,lost,won
+Fri," 07 Apr 2017",GL,KKR,"3rd Match "," Rajkot, Saurashtra Cricket Association Stadium","183-4 (20)","184-0 (14.5)","Kolkata Knight Riders won by 10 wkts",183,184,4,0,14.5,20,lost,won
+Sat," 08 Apr 2017",RPS,PBKS,"4th Match "," Indore, Holkar Cricket Stadium","163-6 (20)","164-4 (19)","Kings XI Punjab won by 6 wkts",163,164,6,4,19,20,lost,won
+Sun," 09 Apr 2017",GL,SRH,"6th Match "," Hyderabad, Rajiv Gandhi International Stadium","135-7 (20)","140-1 (15.3)","Sunrisers Hyderabad won by 9 wkts",135,140,7,1,15.3,20,lost,won
+Mon," 10 Apr 2017",RCB,PBKS,"8th Match "," Indore, Holkar Cricket Stadium","148-4 (20)","150-2 (14.3)","Kings XI Punjab won by 8 wkts",148,150,4,2,14.3,20,lost,won
+Tue," 11 Apr 2017",DC,RPS,"9th Match "," Pune, Maharashtra Cricket Association Stadium","205-4 (20)","108 (16.1)","Delhi Daredevils won by 97 runs",205,108,4,10,16.1,20,won,lost
+Wed," 12 Apr 2017",SRH,MI,"10th Match "," Mumbai, Wankhede Stadium","158-8 (20)","159-6 (18.4)","Mumbai Indians won by 4 wkts",158,159,8,6,18.4,20,lost,won
+Thu," 13 Apr 2017",PBKS,KKR,"11th Match "," Kolkata, Eden Gardens","170-9 (20)","171-2 (16.3)","Kolkata Knight Riders won by 8 wkts",170,171,9,2,16.3,20,lost,won
+Fri," 14 Apr 2017",RCB,MI,"12th Match "," Bengaluru, M.Chinnaswamy Stadium","142-5 (20)","145-6 (18.5)","Mumbai Indians won by 4 wkts",142,145,5,6,18.5,20,lost,won
+Sat," 15 Apr 2017",KKR,SRH,"14th Match "," Kolkata, Eden Gardens","172-6 (20)","155-6 (20)","Kolkata Knight Riders won by 17 runs",172,155,6,6,20,20,won,lost
+Sun," 16 Apr 2017",GL,MI,"16th Match "," Mumbai, Wankhede Stadium","176-4 (20)","177-4 (19.3)","Mumbai Indians won by 6 wkts",176,177,4,4,19.3,20,lost,won
+Mon," 17 Apr 2017",DC,KKR,"18th Match "," Delhi, Arun Jaitley Stadium","168-7 (20)","169-6 (19.5)","Kolkata Knight Riders won by 4 wkts",168,169,7,6,19.5,20,lost,won
+Tue," 18 Apr 2017",RCB,GL,"20th Match "," Rajkot, Saurashtra Cricket Association Stadium","213-2 (20)","192-7 (20)","Royal Challengers Bangalore won by 21 runs",213,192,2,7,20,20,won,lost
+Wed," 19 Apr 2017",SRH,DC,"21st Match "," Hyderabad, Rajiv Gandhi International Stadium","191-4 (20)","176-5 (20)","Sunrisers Hyderabad won by 15 runs",191,176,4,5,20,20,won,lost
+Thu," 20 Apr 2017",PBKS,MI,"22nd Match "," Indore, Holkar Cricket Stadium","198-4 (20)","199-2 (15.3)","Mumbai Indians won by 8 wkts",198,199,4,2,15.3,20,lost,won
+Fri," 21 Apr 2017",KKR,GL,"23rd Match "," Kolkata, Eden Gardens","187-5 (20)","188-6 (18.2)","Gujarat Lions won by 4 wkts",187,188,5,6,18.2,20,lost,won
+Sat," 22 Apr 2017",SRH,RPS,"24th Match "," Pune, Maharashtra Cricket Association Stadium","176-3 (20)","179-4 (20)","Rising Pune Supergiant won by 6 wkts",176,179,3,4,20,20,lost,won
+Sun," 23 Apr 2017",PBKS,GL,"26th match "," Rajkot, Saurashtra Cricket Association Stadium","188-7 (20)","162-7 (20)","Kings XI Punjab won by 26 runs",188,162,7,7,20,20,won,lost
+Mon," 24 Apr 2017",RPS,MI,"28th Match "," Mumbai, Wankhede Stadium","160-6 (20)","157-8 (20)","Rising Pune Supergiant won by 3 runs",160,157,6,8,20,20,won,lost
+Tue," 25 Apr 2017",RCB,SRH,"29th Match "," Bengaluru, M.Chinnaswamy Stadium",,,"Match abandoned without a ball being bowled",0,0,10,10,0,0,lost,lost
+Wed," 26 Apr 2017",RPS,KKR,"30th Match "," Pune, Maharashtra Cricket Association Stadium","182-5 (20)","184-3 (18.1)","Kolkata Knight Riders won by 7 wkts",182,184,5,3,18.1,20,lost,won
+Thu," 27 Apr 2017",RCB,GL,"31st Match "," Bengaluru, M.Chinnaswamy Stadium","134 (20)","135-3 (13.5)","Gujarat Lions won by 7 wkts",134,135,10,3,13.5,20,lost,won
+Fri," 28 Apr 2017",DC,KKR,"32nd Match "," Kolkata, Eden Gardens","160-6 (20)","161-3 (16.2)","Kolkata Knight Riders won by 7 wkts",160,161,6,3,16.2,20,lost,won
+Sat," 29 Apr 2017",RPS,RCB,"34th Match "," Pune, Maharashtra Cricket Association Stadium","157-3 (20)","96-9 (20)","Rising Pune Supergiant won by 61 runs",157,96,3,9,20,20,won,lost
+Sun," 30 Apr 2017",DC,PBKS,"36th Match "," Mohali, Punjab Cricket Association IS Bindra Stadium","67 (17.1)","68-0 (7.5)","Kings XI Punjab won by 10 wkts",67,68,10,0,7.5,17.1,lost,won
+Mon," 01 May 2017",RCB,MI,"38th Match "," Mumbai, Wankhede Stadium","162-8 (20)","165-5 (19.5)","Mumbai Indians won by 5 wkts",162,165,8,5,19.5,20,lost,won
+Tue," 02 May 2017",SRH,DC,"40th Match "," Delhi, Arun Jaitley Stadium","185-3 (20)","189-4 (19.1)","Delhi Daredevils won by 6 wkts",185,189,3,4,19.1,20,lost,won
+Wed," 03 May 2017",KKR,RPS,"41st Match "," Kolkata, Eden Gardens","155-8 (20)","158-6 (19.2)","Rising Pune Supergiant won by 4 wkts",155,158,8,6,19.2,20,lost,won
+Thu," 04 May 2017",GL,DC,"42nd Match "," Delhi, Arun Jaitley Stadium","208-7 (20)","214-3 (17.3)","Delhi Daredevils won by 7 wkts",208,214,7,3,17.3,20,lost,won
+Fri," 05 May 2017",PBKS,RCB,"43rd Match "," Bengaluru, M.Chinnaswamy Stadium","138-7 (20)","119 (19)","Kings XI Punjab won by 19 runs",138,119,7,10,19,20,won,lost
+Sat," 06 May 2017",RPS,SRH,"44th Match "," Hyderabad, Rajiv Gandhi International Stadium","148-8 (20)","136-9 (20)","Rising Pune Supergiant won by 12 runs",148,136,8,9,20,20,won,lost
+Sun," 07 May 2017",RCB,KKR,"46th Match "," Bengaluru, M.Chinnaswamy Stadium","158-6 (20)","159-4 (15.1)","Kolkata Knight Riders won by 6 wkts",158,159,6,4,15.1,20,lost,won
+Mon," 08 May 2017",MI,SRH,"48th Match "," Hyderabad, Rajiv Gandhi International Stadium","138-7 (20)","140-3 (18.2)","Sunrisers Hyderabad won by 7 wkts",138,140,7,3,18.2,20,lost,won
+Tue," 09 May 2017",PBKS,KKR,"49th Match "," Mohali, Punjab Cricket Association IS Bindra Stadium","167-6 (20)","153-6 (20)","Kings XI Punjab won by 14 runs",167,153,6,6,20,20,won,lost
+Wed," 10 May 2017",GL,DC,"50th Match "," Kanpur, Green Park","195-5 (20)","197-8 (19.4)","Delhi Daredevils won by 2 wkts",195,197,5,8,19.4,20,lost,won
+Thu," 11 May 2017",PBKS,MI,"51st Match "," Mumbai, Wankhede Stadium","230-3 (20)","223-6 (20)","Kings XI Punjab won by 7 runs",230,223,3,6,20,20,won,lost
+Fri," 12 May 2017",DC,RPS,"52nd Match "," Delhi, Arun Jaitley Stadium","168-8 (20)","161-7 (20)","Delhi Daredevils won by 7 runs",168,161,8,7,20,20,won,lost
+Sat," 13 May 2017",GL,SRH,"53rd Match "," Kanpur, Green Park","154 (19.2)","158-2 (18.1)","Sunrisers Hyderabad won by 8 wkts",154,158,10,2,18.1,19.2,lost,won
+Sun," 14 May 2017",PBKS,RPS,"55th Match "," Pune, Maharashtra Cricket Association Stadium","73 (15.5)","78-1 (12)","Rising Pune Supergiant won by 9 wkts",73,78,10,1,12,15.5,lost,won
+Tue," 16 May 2017",RPS,MI,"Qualifier 1 "," Mumbai, Wankhede Stadium","162-4 (20)","142-9 (20)","Rising Pune Supergiant won by 20 runs",162,142,4,9,20,20,won,lost
+Wed," 17 May 2017",SRH,KKR,"Eliminator "," Bengaluru, M.Chinnaswamy Stadium","128-7 (20)","48-3 (5.2)","Kolkata Knight Riders won by 7 wkts (DLS method - Match reduced to 6 overs due to rain (target 48))",128,48,7,3,5.2,20,won,lost
+Fri," 19 May 2017",KKR,MI,"Qualifier 2 "," Bengaluru, M.Chinnaswamy Stadium","107 (18.5)","111-4 (14.3)","Mumbai Indians won by 6 wkts",107,111,10,4,14.3,18.5,lost,won
+Sun," 21 May 2017",MI,RPS,"Final "," Hyderabad, Rajiv Gandhi International Stadium","129-8 (20)","128-6 (20)","Mumbai Indians won by 1 run",129,128,8,6,20,20,won,lost
+Sat," 09 Apr 2016",MI,RPS,"1st Match "," Mumbai, Wankhede Stadium","121-8 (20)","126-1 (14.4)","Rising Pune Supergiants won by 9 wkts",121,126,8,1,14.4,20,lost,won
+Sun," 10 Apr 2016",DC,KKR,"2nd Match "," Kolkata, Eden Gardens","98 (17.4)","99-1 (14.1)","Kolkata Knight Riders won by 9 wkts",98,99,10,1,14.1,17.4,lost,won
+Mon," 11 Apr 2016",PBKS,GL,"3rd Match "," Mohali, Punjab Cricket Association IS Bindra Stadium","161-6 (20)","162-5 (17.4)","Gujarat Lions won by 5 wkts",161,162,6,5,17.4,20,lost,won
+Tue," 12 Apr 2016",RCB,SRH,"4th Match "," Bengaluru, M.Chinnaswamy Stadium","227-4 (20)","182-6 (20)","Royal Challengers Bangalore won by 45 runs",227,182,4,6,20,20,won,lost
+Wed," 13 Apr 2016",KKR,MI,"5th Match "," Kolkata, Eden Gardens","187-5 (20)","188-4 (19.1)","Mumbai Indians won by 6 wkts",187,188,5,4,19.1,20,lost,won
+Thu," 14 Apr 2016",RPS,GL,"6th Match "," Rajkot, Saurashtra Cricket Association Stadium","163-5 (20)","164-3 (18)","Gujarat Lions won by 7 wkts",163,164,5,3,18,20,lost,won
+Fri," 15 Apr 2016",PBKS,DC,"7th Match "," Delhi, Arun Jaitley Stadium","111-9 (20)","113-2 (13.3)","Delhi Daredevils won by 8 wkts",111,113,9,2,13.3,20,lost,won
+Sat," 16 Apr 2016",SRH,KKR,"8th Match "," Hyderabad, Rajiv Gandhi International Stadium","142-7 (20)","146-2 (18.2)","Kolkata Knight Riders won by 8 wkts",142,146,7,2,18.2,20,lost,won
+Sun," 17 Apr 2016",RPS,PBKS,"10th Match "," Mohali, Punjab Cricket Association IS Bindra Stadium","152-7 (20)","153-4 (18.4)","Kings XI Punjab won by 6 wkts",152,153,7,4,18.4,20,lost,won
+Mon," 18 Apr 2016",MI,SRH,"12th Match "," Hyderabad, Rajiv Gandhi International Stadium","142-6 (20)","145-3 (17.3)","Sunrisers Hyderabad won by 7 wkts",142,145,6,3,17.3,20,lost,won
+Tue," 19 Apr 2016",PBKS,KKR,"13th Match "," Mohali, Punjab Cricket Association IS Bindra Stadium","138-8 (20)","141-4 (17.1)","Kolkata Knight Riders won by 6 wkts",138,141,8,4,17.1,20,lost,won
+Wed," 20 Apr 2016",RCB,MI,"14th Match "," Mumbai, Wankhede Stadium","170-7 (20)","171-4 (18)","Mumbai Indians won by 6 wkts",170,171,7,4,18,20,lost,won
+Thu," 21 Apr 2016",GL,SRH,"15th Match "," Rajkot, Saurashtra Cricket Association Stadium","135-8 (20)","137-0 (14.5)","Sunrisers Hyderabad won by 10 wkts",135,137,8,0,14.5,20,lost,won
+Fri," 22 Apr 2016",RCB,RPS,"16th Match "," Pune, Maharashtra Cricket Association Stadium","185-3 (20)","172-8 (20)","Royal Challengers Bangalore won by 13 runs",185,172,3,8,20,20,won,lost
+Sat," 23 Apr 2016",DC,MI,"17th Match "," Delhi, Arun Jaitley Stadium","164-4 (20)","154-7 (20)","Delhi Daredevils won by 10 runs",164,154,4,7,20,20,won,lost
+Sun," 24 Apr 2016",RCB,GL,"19th Match "," Rajkot, Saurashtra Cricket Association Stadium","180-2 (20)","182-4 (19.3)","Gujarat Lions won by 6 wkts",180,182,2,4,19.3,20,lost,won
+Mon," 25 Apr 2016",MI,PBKS,"21st Match "," Mohali, Punjab Cricket Association IS Bindra Stadium","189-6 (20)","164-7 (20)","Mumbai Indians won by 25 runs",189,164,6,7,20,20,won,lost
+Tue," 26 Apr 2016",SRH,RPS,"22nd Match "," Hyderabad, Rajiv Gandhi International Stadium","118-8 (20)","94-3 (11)","Rising Pune Supergiants won by 34 runs (DLS method)",118,94,8,3,11,20,won,lost
+Wed," 27 Apr 2016",GL,DC,"23rd Match "," Delhi, Arun Jaitley Stadium","172-6 (20)","171-5 (20)","Gujarat Lions won by 1 run",172,171,6,5,20,20,won,lost
+Thu," 28 Apr 2016",KKR,MI,"24th Match "," Mumbai, Wankhede Stadium","174-5 (20)","178-4 (18)","Mumbai Indians won by 6 wkts",174,178,5,4,18,20,lost,won
+Fri," 29 Apr 2016",RPS,GL,"25th Match "," Pune, Maharashtra Cricket Association Stadium","195-3 (20)","196-7 (20)","Gujarat Lions won by 3 wkts",195,196,3,7,20,20,lost,won
+Sat," 30 Apr 2016",DC,KKR,"26th Match "," Delhi, Arun Jaitley Stadium","186-8 (20)","159 (18.3)","Delhi Daredevils won by 27 runs",186,159,8,10,18.3,20,won,lost
+Sun," 01 May 2016",PBKS,GL,"28th Match "," Rajkot, Saurashtra Cricket Association Stadium","154 (19.5)","131-9 (20)","Kings XI Punjab won by 23 runs",154,131,10,9,20,19.5,won,lost
+Mon," 02 May 2016",RCB,KKR,"30th Match "," Bengaluru, M.Chinnaswamy Stadium","185-7 (20)","189-5 (19.1)","Kolkata Knight Riders won by 5 wkts",185,189,7,5,19.1,20,lost,won
+Tue," 03 May 2016",GL,DC,"31st Match "," Rajkot, Saurashtra Cricket Association Stadium","149-7 (20)","150-2 (17.2)","Delhi Daredevils won by 8 wkts",149,150,7,2,17.2,20,lost,won
+Wed," 04 May 2016",KKR,PBKS,"32nd Match "," Kolkata, Eden Gardens","164-3 (20)","157-9 (20)","Kolkata Knight Riders won by 7 runs",164,157,3,9,20,20,won,lost
+Thu," 05 May 2016",DC,RPS,"33rd Match "," Delhi, Arun Jaitley Stadium","162-7 (20)","166-3 (19.1)","Rising Pune Supergiants won by 7 wkts",162,166,7,3,19.1,20,lost,won
+Fri," 06 May 2016",GL,SRH,"34th Match "," Hyderabad, Rajiv Gandhi International Stadium","126-6 (20)","129-5 (19)","Sunrisers Hyderabad won by 5 wkts",126,129,6,5,19,20,lost,won
+Sat," 07 May 2016",RPS,RCB,"35th Match "," Bengaluru, M.Chinnaswamy Stadium","191-6 (20)","195-3 (19.3)","Royal Challengers Bangalore won by 7 wkts",191,195,6,3,19.3,20,lost,won
+Sun," 08 May 2016",SRH,MI,"37th Match "," Visakhapatnam, Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium","177-3 (20)","92 (16.3)","Sunrisers Hyderabad won by 85 runs",177,92,3,10,16.3,20,won,lost
+Mon," 09 May 2016",RCB,PBKS,"39th Match "," Mohali, Punjab Cricket Association IS Bindra Stadium","175-6 (20)","174-4 (20)","Royal Challengers Bangalore won by 1 run",175,174,6,4,20,20,won,lost
+Tue," 10 May 2016",SRH,RPS,"40th Match "," Visakhapatnam, Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium","137-8 (20)","133-8 (20)","Sunrisers Hyderabad won by 4 runs",137,133,8,8,20,20,won,lost
+Wed," 11 May 2016",RCB,MI,"41st Match "," Bengaluru, M.Chinnaswamy Stadium","151-4 (20)","153-4 (18.4)","Mumbai Indians won by 6 wkts",151,153,4,4,18.4,20,lost,won
+Thu," 12 May 2016",SRH,DC,"42nd Match "," Hyderabad, Rajiv Gandhi International Stadium","146-8 (20)","150-3 (18.1)","Delhi Daredevils won by 7 wkts",146,150,8,3,18.1,20,lost,won
+Fri," 13 May 2016",MI,PBKS,"43rd Match "," Visakhapatnam, Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium","124-9 (20)","127-3 (17)","Kings XI Punjab won by 7 wkts",124,127,9,3,17,20,lost,won
+Sat," 14 May 2016",RCB,GL,"44th Match "," Bengaluru, M.Chinnaswamy Stadium","248-3 (20)","104 (18.4)","Royal Challengers Bangalore won by 144 runs",248,104,3,10,18.4,20,won,lost
+Sun," 15 May 2016",PBKS,SRH,"46th Match "," Mohali, Punjab Cricket Association IS Bindra Stadium","179-4 (20)","180-3 (19.4)","Sunrisers Hyderabad won by 7 wkts",179,180,4,3,19.4,20,lost,won
+Mon," 16 May 2016",KKR,RCB,"48th Match "," Kolkata, Eden Gardens","183-5 (20)","186-1 (18.4)","Royal Challengers Bangalore won by 9 wkts",183,186,5,1,18.4,20,lost,won
+Tue," 17 May 2016",DC,RPS,"49th Match "," Visakhapatnam, Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium","121-6 (20)","76-1 (11)","Rising Pune Supergiants won by 19 runs (DLS method)",121,76,6,1,11,20,won,lost
+Wed," 18 May 2016",RCB,PBKS,"50th Match "," Bengaluru, M.Chinnaswamy Stadium","211-3 (15)","120-9 (14)","Royal Challengers Bangalore won by 82 runs (DLS Method)",211,120,3,9,14,15,won,lost
+Thu," 19 May 2016",KKR,GL,"51st Match "," Kanpur, Green Park","124-8 (20)","125-4 (13.3)","Gujarat Lions won by 6 wkts",124,125,8,4,13.3,20,lost,won
+Fri," 20 May 2016",SRH,DC,"52nd Match "," Raipur, Shaheed Veer Narayan Singh International Stadium","158-7 (20)","161-4 (20)","Delhi Daredevils won by 6 wkts",158,161,7,4,20,20,lost,won
+Sat," 21 May 2016",PBKS,RPS,"53rd Match "," Visakhapatnam, Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium","172-7 (20)","173-6 (20)","Rising Pune Supergiants won by 4 wkts",172,173,7,6,20,20,lost,won
+Sun," 22 May 2016",KKR,SRH,"55th Match "," Kolkata, Eden Gardens","171-6 (20)","149-8 (20)","Kolkata Knight Riders won by 22 runs",171,149,6,8,20,20,won,lost
+Tue," 24 May 2016",GL,RCB,"Qualifier 1 "," Bengaluru, M.Chinnaswamy Stadium","158 (20)","159-6 (18.2)","Royal Challengers Bangalore won by 4 wkts",158,159,10,6,18.2,20,lost,won
+Wed," 25 May 2016",SRH,KKR,"Eliminator "," Delhi, Arun Jaitley Stadium","162-8 (20)","140-8 (20)","Sunrisers Hyderabad won by 22 runs",162,140,8,8,20,20,won,lost
+Fri," 27 May 2016",GL,SRH,"Qualifier 2 "," Delhi, Arun Jaitley Stadium","162-7 (20)","163-6 (19.2)","Sunrisers Hyderabad won by 4 wkts",162,163,7,6,19.2,20,lost,won
+Sun," 29 May 2016",SRH,RCB,"Final "," Bengaluru, M.Chinnaswamy Stadium","208-7 (20)","200-7 (20)","Sunrisers Hyderabad won by 8 runs",208,200,7,7,20,20,won,lost
+Wed," 08 Apr 2015",MI,KKR,"1st Match "," Kolkata, Eden Gardens","168-3 (20)","170-3 (18.3)","Kolkata Knight Riders won by 7 wkts",168,170,3,3,18.3,20,lost,won
+Thu," 09 Apr 2015",CSK,DC,"2nd Match "," Chennai, MA Chidambaram Stadium","150-7 (20)","149-9 (20)","Chennai Super Kings won by 1 run",150,149,7,9,20,20,won,lost
+Fri," 10 Apr 2015",RR,PBKS,"3rd Match "," Pune, Maharashtra Cricket Association Stadium","162-7 (20)","136-8 (20)","Rajasthan Royals won by 26 runs",162,136,7,8,20,20,won,lost
+Sat," 11 Apr 2015",CSK,SRH,"4th Match "," Chennai, MA Chidambaram Stadium","209-4 (20)","164-6 (20)","Chennai Super Kings won by 45 runs",209,164,4,6,20,20,won,lost
+Sun," 12 Apr 2015",DC,RR,"6th Match "," Delhi, Arun Jaitley Stadium","184-3 (20)","186-7 (20)","Rajasthan Royals won by 3 wkts",184,186,3,7,20,20,lost,won
+Mon," 13 Apr 2015",RCB,SRH,"8th Match "," Bengaluru, M.Chinnaswamy Stadium","166 (19.5)","172-2 (17.2)","Sunrisers Hyderabad won by 8 wkts",166,172,10,2,17.2,19.5,lost,won
+Tue," 14 Apr 2015",MI,RR,"9th Match "," Ahmedabad, Narendra Modi Stadium","164-5 (20)","165-3 (19.1)","Rajasthan Royals won by 7 wkts",164,165,5,3,19.1,20,lost,won
+Wed," 15 Apr 2015",PBKS,DC,"10th Match "," Pune, Maharashtra Cricket Association Stadium","165-7 (20)","169-5 (19.5)","Delhi Daredevils won by 5 wkts",165,169,7,5,19.5,20,lost,won
+Thu," 16 Apr 2015",SRH,RR,"11th Match "," Visakhapatnam, Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium","127-5 (20)","131-4 (20)","Rajasthan Royals won by 6 wkts",127,131,5,4,20,20,lost,won
+Fri," 17 Apr 2015",MI,CSK,"12th Match "," Mumbai, Wankhede Stadium","183-7 (20)","189-4 (16.4)","Chennai Super Kings won by 6 wkts",183,189,7,4,16.4,20,lost,won
+Sat," 18 Apr 2015",DC,SRH,"13th Match "," Visakhapatnam, Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium","167-4 (20)","163-8 (20)","Delhi Daredevils won by 4 runs",167,163,4,8,20,20,won,lost
+Sun," 19 Apr 2015",CSK,RR,"15th Match "," Ahmedabad, Narendra Modi Stadium","156-4 (20)","157-2 (18.2)","Rajasthan Royals won by 8 wkts",156,157,4,2,18.2,20,lost,won
+Mon," 20 Apr 2015",DC,KKR,"17th Match "," Delhi, Arun Jaitley Stadium","146-8 (20)","147-4 (18.1)","Kolkata Knight Riders won by 6 wkts",146,147,8,4,18.1,20,lost,won
+Tue," 21 Apr 2015",RR,PBKS,"18th Match "," Ahmedabad, Narendra Modi Stadium","191-6 (20)","191-6 (20)","Match tied (Kings XI Punjab won the one-over eliminator)",191,191,6,6,20,20,lost,lost
+Wed," 22 Apr 2015",SRH,KKR,"19th Match "," Visakhapatnam, Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium","176-4 (20)","101-4 (12)","Sunrisers Hyderabad won by 16 runs (D/L method)",176,101,4,4,12,20,won,lost
+Thu," 23 Apr 2015",DC,MI,"21st Match "," Delhi, Arun Jaitley Stadium","190-4 (20)","153-9 (20)","Delhi Daredevils won by 37 runs",190,153,4,9,20,20,won,lost
+Fri," 24 Apr 2015",RR,RCB,"22nd Match "," Ahmedabad, Narendra Modi Stadium","130-9 (20)","134-1 (16.1)","Royal Challengers Bangalore won by 9 wkts",130,134,9,1,16.1,20,lost,won
+Sat," 25 Apr 2015",MI,SRH,"23rd Match "," Mumbai, Wankhede Stadium","157-8 (20)","137-8 (20)","Mumbai Indians won by 20 runs",157,137,8,8,20,20,won,lost
+Sun," 26 Apr 2015",KKR,RR,"25th Match "," Kolkata, Eden Gardens",,,"Match abandoned without a ball being bowled",0,0,10,10,0,0,lost,lost
+Mon," 27 Apr 2015",SRH,PBKS,"27th Match "," Mohali, Punjab Cricket Association IS Bindra Stadium","150-6 (20)","130-9 (20)","Sunrisers Hyderabad won by 20 runs",150,130,6,9,20,20,won,lost
+Tue," 28 Apr 2015",CSK,KKR,"28th Match "," Chennai, MA Chidambaram Stadium","134-6 (20)","132-9 (20)","Chennai Super Kings won by 2 runs",134,132,6,9,20,20,won,lost
+Wed," 29 Apr 2015",RCB,RR,"29th Match "," Bengaluru, M.Chinnaswamy Stadium","200-7 (20)",,"No result",200,0,7,10,0,20,won,lost
+Thu," 30 Apr 2015",CSK,KKR,"30th Match "," Kolkata, Eden Gardens","165-9 (20)","169-3 (19.5)","Kolkata Knight Riders won by 7 wkts",165,169,9,3,19.5,20,lost,won
+Fri," 01 May 2015",PBKS,DC,"31st Match "," Delhi, Arun Jaitley Stadium","118-8 (20)","119-1 (13.5)","Delhi Daredevils won by 9 wkts",118,119,8,1,13.5,20,lost,won
+Sat," 02 May 2015",KKR,RCB,"33rd Match "," Bengaluru, M.Chinnaswamy Stadium","111-4 (10)","115-3 (9.4)","Royal Challengers Bangalore won by 7 wkts",111,115,4,3,9.4,10,lost,won
+Sun," 03 May 2015",MI,PBKS,"35th Match "," Mohali, Punjab Cricket Association IS Bindra Stadium","172-3 (20)","149-7 (20)","Mumbai Indians won by 23 runs",172,149,3,7,20,20,won,lost
+Mon," 04 May 2015",CSK,RCB,"37th Match "," Chennai, MA Chidambaram Stadium","148-9 (20)","124 (19.4)","Chennai Super Kings won by 24 runs",148,124,9,10,19.4,20,won,lost
+Tue," 05 May 2015",DC,MI,"39th Match "," Mumbai, Wankhede Stadium","152-6 (20)","153-5 (19.3)","Mumbai Indians won by 5 wkts",152,153,6,5,19.3,20,lost,won
+Wed," 06 May 2015",RCB,PBKS,"40th Match "," Bengaluru, M.Chinnaswamy Stadium","226-3 (20)","88 (13.4)","Royal Challengers Bangalore won by 138 runs",226,88,3,10,13.4,20,won,lost
+Thu," 07 May 2015",SRH,RR,"41st Match "," Mumbai, Brabourne Stadium","201-4 (20)","194-7 (20)","Sunrisers Hyderabad won by 7 runs",201,194,4,7,20,20,won,lost
+Fri," 08 May 2015",CSK,MI,"43rd Match "," Chennai, MA Chidambaram Stadium","158-5 (20)","159-4 (19.2)","Mumbai Indians won by 6 wkts",158,159,5,4,19.2,20,lost,won
+Sat," 09 May 2015",PBKS,KKR,"44th Match "," Kolkata, Eden Gardens","183-5 (20)","184-9 (19.5)","Kolkata Knight Riders won by 1 wkt",183,184,5,9,19.5,20,lost,won
+Sun," 10 May 2015",RCB,MI,"46th Match "," Mumbai, Wankhede Stadium","235-1 (20)","196-7 (20)","Royal Challengers Bangalore won by 39 runs",235,196,1,7,20,20,won,lost
+Mon," 11 May 2015",SRH,PBKS,"48th Match "," Hyderabad, Rajiv Gandhi International Stadium","185-5 (20)","180-7 (20)","Sunrisers Hyderabad won by 5 runs",185,180,5,7,20,20,won,lost
+Tue," 12 May 2015",CSK,DC,"49th Match "," Raipur, Shaheed Veer Narayan Singh International Stadium","119-6 (20)","120-4 (16.4)","Delhi Daredevils won by 6 wkts",119,120,6,4,16.4,20,lost,won
+Wed," 13 May 2015",PBKS,RCB,"50th Match "," Mohali, Punjab Cricket Association IS Bindra Stadium","106-6 (10)","84-6 (10)","Kings XI Punjab won by 22 runs",106,6,6,6,10,10,won,lost
+Thu," 14 May 2015",MI,KKR,"51st Match "," Mumbai, Wankhede Stadium","171-4 (20)","166-7 (20)","Mumbai Indians won by 5 runs",171,166,4,7,20,20,won,lost
+Fri," 15 May 2015",SRH,RCB,"52nd Match "," Hyderabad, Rajiv Gandhi International Stadium","135-3 (11)","83-4 (5.5)","Royal Challengers Bangalore won by 6 wkts (D/L method)",135,83,3,4,5.5,11,won,lost
+Sat," 16 May 2015",PBKS,CSK,"53rd Match "," Mohali, Punjab Cricket Association IS Bindra Stadium","130-7 (20)","134-3 (16.5)","Chennai Super Kings won by 7 wkts",130,134,7,3,16.5,20,lost,won
+Sun," 17 May 2015",DC,RCB,"55th Match "," Bengaluru, M.Chinnaswamy Stadium","187-5 (20)","2-0 (1.1)","No result",187,2,5,0,1.1,20,won,lost
+Tue," 19 May 2015",MI,CSK,"Qualifier 1 "," Mumbai, Wankhede Stadium","187-6 (20)","162 (19)","Mumbai Indians won by 25 runs",187,162,6,10,19,20,won,lost
+Wed," 20 May 2015",RCB,RR,"Eliminator "," Pune, Maharashtra Cricket Association Stadium","180-4 (20)","109 (19)","Royal Challengers Bangalore won by 71 runs",180,109,4,10,19,20,won,lost
+Fri," 22 May 2015",RCB,CSK,"Qualifier 2 "," Ranchi, JSCA International Stadium Complex","139-8 (20)","140-7 (19.5)","Chennai Super Kings won by 3 wkts",139,140,8,7,19.5,20,lost,won
+Sun," 24 May 2015",MI,CSK,"Final "," Kolkata, Eden Gardens","202-5 (20)","161-8 (20)","Mumbai Indians won by 41 runs",202,161,5,8,20,20,won,lost
+Wed," 16 Apr 2014",KKR,MI,"1st Match "," Abu Dhabi, Sheikh Zayed Stadium","163-5 (20)","122-7 (20)","Kolkata Knight Riders won by 41 runs",163,122,5,7,20,20,won,lost
+Thu," 17 Apr 2014",DC,RCB,"2nd Match "," Sharjah, Sharjah Cricket Stadium","145-4 (20)","146-2 (16.4)","Royal Challengers Bangalore won by 8 wkts",145,146,4,2,16.4,20,lost,won
+Fri," 18 Apr 2014",CSK,PBKS,"3rd Match "," Abu Dhabi, Sheikh Zayed Stadium","205-4 (20)","206-4 (18.5)","Kings XI Punjab won by 6 wkts",205,206,4,4,18.5,20,lost,won
+Sat," 19 Apr 2014",MI,RCB,"5th Match "," Dubai, Dubai International Cricket Stadium","115-9 (20)","116-3 (17.3)","Royal Challengers Bangalore won by 7 wkts",115,116,9,3,17.3,20,lost,won
+Sun," 20 Apr 2014",RR,PBKS,"7th Match "," Sharjah, Sharjah Cricket Stadium","191-5 (20)","193-3 (18.4)","Kings XI Punjab won by 7 wkts",191,193,5,3,18.4,20,lost,won
+Mon," 21 Apr 2014",CSK,DC,"8th Match "," Abu Dhabi, Sheikh Zayed Stadium","177-7 (20)","84 (15.4)","Chennai Super Kings won by 93 runs",177,84,7,10,15.4,20,won,lost
+Tue," 22 Apr 2014",PBKS,SRH,"9th Match "," Sharjah, Sharjah Cricket Stadium","193-6 (20)","121 (19.2)","Kings XI Punjab won by 72 runs",193,121,6,10,19.2,20,won,lost
+Wed," 23 Apr 2014",CSK,RR,"10th Match "," Dubai, Dubai International Cricket Stadium","140-6 (20)","133 (19.5)","Chennai Super Kings won by 7 runs",140,133,6,10,19.5,20,won,lost
+Thu," 24 Apr 2014",KKR,RCB,"11th Match "," Sharjah, Sharjah Cricket Stadium","150-7 (20)","148-5 (20)","Kolkata Knight Riders won by 2 runs",150,148,7,5,20,20,won,lost
+Fri," 25 Apr 2014",SRH,DC,"12th Match "," Dubai, Dubai International Cricket Stadium","184-1 (20)","180-4 (20)","Sunrisers Hyderabad won by 4 runs",184,180,1,4,20,20,won,lost
+Sat," 26 Apr 2014",RCB,RR,"14th Match "," Abu Dhabi, Sheikh Zayed Stadium","70 (15)","71-4 (13)","Rajasthan Royals won by 6 wkts",70,71,10,4,13,15,lost,won
+Sun," 27 Apr 2014",MI,DC,"16th Match "," Sharjah, Sharjah Cricket Stadium","125-6 (20)","126-4 (18.5)","Delhi Daredevils won by 6 wkts",125,126,6,4,18.5,20,lost,won
+Mon," 28 Apr 2014",RCB,PBKS,"18th Match "," Dubai, Dubai International Cricket Stadium","124-8 (20)","127-5 (18.5)","Kings XI Punjab won by 5 wkts",124,127,8,5,18.5,20,lost,won
+Tue," 29 Apr 2014",RR,KKR,"19th Match "," Abu Dhabi, Sheikh Zayed Stadium","152-5 (20)","152-8 (20)","Match tied (Rajasthan won the one-over eliminator via boundary countback)",152,152,5,8,20,20,lost,lost
+Wed," 30 Apr 2014",SRH,MI,"20th Match "," Dubai, Dubai International Cricket Stadium","172-5 (20)","157-7 (20)","Sunrisers Hyderabad won by 15 runs",172,157,5,7,20,20,won,lost
+Fri," 02 May 2014",CSK,KKR,"21st Match "," Ranchi, JSCA International Stadium Complex","148-3 (17)","114-9 (17)","Chennai Super Kings won by 34 runs",148,114,3,9,17,17,won,lost
+Sat," 03 May 2014",PBKS,MI,"22nd Match "," Mumbai, Wankhede Stadium","168-5 (20)","170-5 (19.1)","Mumbai Indians won by 5 wkts",168,170,5,5,19.1,20,lost,won
+Sun," 04 May 2014",SRH,RCB,"24th Match "," Bengaluru, M.Chinnaswamy Stadium","155-6 (20)","158-6 (19.5)","Royal Challengers Bangalore won by 4 wkts",155,158,6,6,19.5,20,lost,won
+Mon," 05 May 2014",RR,KKR,"25th Match "," Ahmedabad, Narendra Modi Stadium","170-6 (20)","160-6 (20)","Rajasthan Royals won by 10 runs",170,160,6,6,20,20,won,lost
+Tue," 06 May 2014",MI,RCB,"27th Match "," Mumbai, Wankhede Stadium","187-5 (20)","168-8 (20)","Mumbai Indians won by 19 runs",187,168,5,8,20,20,won,lost
+Wed," 07 May 2014",DC,KKR,"28th Match "," Delhi, Arun Jaitley Stadium","160-5 (20)","161-2 (18.2)","Kolkata Knight Riders won by 8 wkts",160,161,5,2,18.2,20,lost,won
+Thu," 08 May 2014",SRH,RR,"30th Match "," Ahmedabad, Narendra Modi Stadium","134-9 (20)","102 (19.5)","Sunrisers Hyderabad won by 32 runs",134,102,9,10,19.5,20,won,lost
+Fri," 09 May 2014",PBKS,RCB,"31st Match "," Bengaluru, M.Chinnaswamy Stadium","198-8 (20)","166-9 (20)","Kings XI Punjab won by 32 runs",198,166,8,9,20,20,won,lost
+Sat," 10 May 2014",DC,SRH,"32nd Match "," Delhi, Arun Jaitley Stadium","143-7 (20)","44-2 (4.2)","Hyderabad won by 8 wkts (D/L method)",143,44,7,2,4.2,20,won,lost
+Sun," 11 May 2014",PBKS,KKR,"34th Match "," Cuttack, Barabati Stadium","149-8 (20)","150-1 (18)","Kolkata Knight Riders won by 9 wkts",149,150,8,1,18,20,lost,won
+Mon," 12 May 2014",SRH,MI,"36th Match "," Hyderabad, Rajiv Gandhi International Stadium","157-3 (20)","160-3 (18.4)","Mumbai Indians won by 7 wkts",157,160,3,3,18.4,20,lost,won
+Tue," 13 May 2014",RR,CSK,"37th Match "," Ranchi, JSCA International Stadium Complex","148-8 (20)","149-5 (19.4)","Chennai Super Kings won by 5 wkts",148,149,8,5,19.4,20,lost,won
+Wed," 14 May 2014",SRH,PBKS,"39th Match "," Hyderabad, Rajiv Gandhi International Stadium","205-5 (20)","211-4 (18.4)","Kings XI Punjab won by 6 wkts",205,211,5,4,18.4,20,lost,won
+Thu," 15 May 2014",RR,DC,"41st Match "," Ahmedabad, Narendra Modi Stadium","201-6 (20)","139-9 (20)","Rajasthan Royals won by 62 runs",201,139,6,9,20,20,won,lost
+Sun," 18 May 2014",CSK,RCB,"42nd Match "," Ranchi, JSCA International Stadium Complex","138-4 (20)","142-5 (19.5)","Royal Challengers Bangalore won by 5 wkts",138,142,4,5,19.5,20,lost,won
+Mon," 19 May 2014",MI,RR,"44th Match "," Ahmedabad, Narendra Modi Stadium","178-3 (20)","153-8 (20)","Mumbai Indians won by 25 runs",178,153,3,8,20,20,won,lost
+Tue," 20 May 2014",RCB,SRH,"46th Match "," Hyderabad, Rajiv Gandhi International Stadium","160-6 (20)","161-3 (19.4)","Sunrisers Hyderabad won by 7 wkts",160,161,6,3,19.4,20,lost,won
+Wed," 21 May 2014",PBKS,MI,"48th Match "," Mohali, Punjab Cricket Association IS Bindra Stadium","156-8 (20)","159-3 (19)","Mumbai Indians won by 7 wkts",156,159,8,3,19,20,lost,won
+Thu," 22 May 2014",KKR,RCB,"49th Match "," Kolkata, Eden Gardens","195-4 (20)","165-5 (20)","Kolkata Knight Riders won by 30 runs",195,165,4,5,20,20,won,lost
+Fri," 23 May 2014",MI,DC,"51st Match "," Mumbai, Wankhede Stadium","173 (19.3)","158-4 (20)","Mumbai Indians won by 15 runs",173,158,10,4,20,19.3,won,lost
+Sat," 24 May 2014",RCB,CSK,"53rd Match "," Bengaluru, M.Chinnaswamy Stadium","154-6 (20)","160-2 (17.4)","Chennai Super Kings won by 8 wkts",154,160,6,2,17.4,20,lost,won
+Sun," 25 May 2014",DC,PBKS,"55th Match "," Mohali, Punjab Cricket Association IS Bindra Stadium","115 (18.1)","119-3 (13.5)","Kings XI Punjab won by 7 wkts",115,119,10,3,13.5,18.1,lost,won
+Wed," 28 May 2014",KKR,PBKS,"Qualifier 1 "," Kolkata, Eden Gardens","163-8 (20)","135-8 (20)","Kolkata Knight Riders won by 28 runs",163,135,8,8,20,20,won,lost
+Fri," 30 May 2014",PBKS,CSK,"Qualifier 2 "," Mumbai, Wankhede Stadium","226-6 (20)","202-7 (20)","Kings XI Punjab won by 24 runs",226,202,6,7,20,20,won,lost
+Sun," 01 Jun 2014",PBKS,KKR,"Final "," Bengaluru, M.Chinnaswamy Stadium","199-4 (20)","200-7 (19.3)","Kolkata Knight Riders won by 3 wkts",199,200,4,7,19.3,20,lost,won
+Wed," 03 Apr 2013",DC,KKR,"1st Match "," Kolkata, Eden Gardens","128 (20)","129-4 (18.4)","Kolkata Knight Riders won by 6 wkts",128,129,10,4,18.4,20,lost,won
+Thu," 04 Apr 2013",RCB,MI,"2nd Match "," Bengaluru, M.Chinnaswamy Stadium","156-5 (20)","154-5 (20)","Royal Challengers Bangalore won by 2 runs",156,154,5,5,20,20,won,lost
+Fri," 05 Apr 2013",SRH,PWI,"3rd Match "," Hyderabad, Rajiv Gandhi International Stadium","126-6 (20)","104 (18.5)","Sunrisers Hyderabad won by 22 runs",126,104,6,10,18.5,20,won,lost
+Sat," 06 Apr 2013",RR,DC,"4th Match "," Delhi, Arun Jaitley Stadium","165-7 (20)","160-6 (20)","Rajasthan Royals won by 5 runs",165,160,7,6,20,20,won,lost
+Sun," 07 Apr 2013",PWI,PBKS,"6th Match "," Pune, Maharashtra Cricket Association Stadium","99-9 (20)","100-2 (12.2)","Kings XI Punjab won by 8 wkts",99,100,9,2,12.2,20,lost,won
+Mon," 08 Apr 2013",RR,KKR,"8th Match "," Jaipur, Sawai Mansingh Stadium","144-6 (20)","125 (19)","Rajasthan Royals won by 19 runs",144,125,6,10,19,20,won,lost
+Tue," 09 Apr 2013",SRH,RCB,"9th Match "," Bengaluru, M.Chinnaswamy Stadium","161-6 (20)","162-3 (17.4)","Royal Challengers Bangalore won by 7 wkts",161,162,6,3,17.4,20,lost,won
+Wed," 10 Apr 2013",PBKS,CSK,"11th Match "," Mohali, Punjab Cricket Association IS Bindra Stadium","138 (19.5)","139-0 (17.2)","Chennai Super Kings won by 10 wkts",138,139,10,0,17.2,19.5,lost,won
+Thu," 11 Apr 2013",KKR,RCB,"12th Match "," Bengaluru, M.Chinnaswamy Stadium","154-8 (20)","158-2 (17.3)","Royal Challengers Bangalore won by 8 wkts",154,158,8,2,17.3,20,lost,won
+Fri," 12 Apr 2013",DC,SRH,"14th Match "," Delhi, Arun Jaitley Stadium","114-8 (20)","115-7 (19.2)","Sunrisers Hyderabad won by 3 wkts",114,115,8,7,19.2,20,lost,won
+Sat," 13 Apr 2013",MI,PWI,"15th Match "," Mumbai, Wankhede Stadium","183-3 (20)","142-8 (20)","Mumbai Indians won by 41 runs",183,142,3,8,20,20,won,lost
+Sun," 14 Apr 2013",KKR,SRH,"17th Match "," Kolkata, Eden Gardens","180-4 (20)","132-7 (20)","Kolkata Knight Riders won by 48 runs",180,132,4,7,20,20,won,lost
+Mon," 15 Apr 2013",PWI,CSK,"19th Match "," Chennai, MA Chidambaram Stadium","159-5 (20)","135-8 (20)","Pune Warriors won by 24 runs",159,135,5,8,20,20,won,lost
+Tue," 16 Apr 2013",PBKS,KKR,"20th Match "," Mohali, Punjab Cricket Association IS Bindra Stadium","157-9 (20)","153-9 (20)","Kings XI Punjab won by 4 runs",157,153,9,9,20,20,won,lost
+Wed," 17 Apr 2013",SRH,PWI,"22nd Match "," Pune, Maharashtra Cricket Association Stadium","119-8 (20)","108 (19)","Sunrisers Hyderabad won by 11 runs",119,108,8,10,19,20,won,lost
+Thu," 18 Apr 2013",CSK,DC,"24th Match "," Delhi, Arun Jaitley Stadium","169-4 (20)","83 (17.3)","Chennai Super Kings won by 86 runs",169,83,4,10,17.3,20,won,lost
+Fri," 19 Apr 2013",PBKS,SRH,"25th Match "," Hyderabad, Rajiv Gandhi International Stadium","123-9 (20)","127-5 (18.5)","Sunrisers Hyderabad won by 5 wkts",123,127,9,5,18.5,20,lost,won
+Sat," 20 Apr 2013",KKR,CSK,"26th Match "," Kolkata, Eden Gardens","119-9 (20)","124-6 (19.1)","Chennai Super Kings won by 4 wkts",119,124,9,6,19.1,20,lost,won
+Sun," 21 Apr 2013",MI,DC,"28th Match "," Delhi, Arun Jaitley Stadium","161-4 (20)","165-1 (17)","Delhi Daredevils won by 9 wkts",161,165,4,1,17,20,lost,won
+Mon," 22 Apr 2013",RR,CSK,"30th Match "," Chennai, MA Chidambaram Stadium","185-4 (20)","186-5 (19.5)","Chennai Super Kings won by 5 wkts",185,186,4,5,19.5,20,lost,won
+Tue," 23 Apr 2013",RCB,PWI,"31st Match "," Bengaluru, M.Chinnaswamy Stadium","263-5 (20)","133-9 (20)","Royal Challengers Bangalore won by 130 runs",263,133,5,9,20,20,won,lost
+Wed," 24 Apr 2013",KKR,MI,"33rd Match "," Kolkata, Eden Gardens","159-6 (20)","162-5 (19.5)","Mumbai Indians won by 5 wkts",159,162,6,5,19.5,20,lost,won
+Thu," 25 Apr 2013",SRH,CSK,"34th Match "," Chennai, MA Chidambaram Stadium","159-6 (20)","160-5 (19.4)","Chennai Super Kings won by 5 wkts",159,160,6,5,19.4,20,lost,won
+Fri," 26 Apr 2013",PBKS,KKR,"35th Match "," Kolkata, Eden Gardens","149-6 (20)","150-4 (18.2)","Kolkata Knight Riders won by 6 wkts",149,150,6,4,18.2,20,lost,won
+Sat," 27 Apr 2013",SRH,RR,"36th Match "," Jaipur, Sawai Mansingh Stadium","144-9 (20)","146-2 (17.5)","Rajasthan Royals won by 8 wkts",144,146,9,2,17.5,20,lost,won
+Sun," 28 Apr 2013",CSK,KKR,"38th Match "," Chennai, MA Chidambaram Stadium","200-3 (20)","186-4 (20)","Chennai Super Kings won by 14 runs",200,186,3,4,20,20,won,lost
+Mon," 29 Apr 2013",RCB,RR,"40th Match "," Jaipur, Sawai Mansingh Stadium","171-6 (20)","173-6 (19.5)","Rajasthan Royals won by 4 wkts",171,173,6,6,19.5,20,lost,won
+Tue," 30 Apr 2013",CSK,PWI,"42nd Match "," Pune, Maharashtra Cricket Association Stadium","164-3 (20)","127-9 (20)","Chennai Super Kings won by 37 runs",164,127,3,9,20,20,won,lost
+Wed," 01 May 2013",MI,SRH,"43rd Match "," Hyderabad, Rajiv Gandhi International Stadium","129-4 (20)","130-3 (18)","Sunrisers Hyderabad won by 7 wkts",129,130,4,3,18,20,lost,won
+Thu," 02 May 2013",CSK,PBKS,"45th Match "," Chennai, MA Chidambaram Stadium","186-4 (20)","171-6 (20)","Chennai Super Kings won by 15 runs",186,171,4,6,20,20,won,lost
+Fri," 03 May 2013",RR,KKR,"47th Match "," Kolkata, Eden Gardens","132-6 (20)","133-2 (17.2)","Kolkata Knight Riders won by 8 wkts",132,133,6,2,17.2,20,lost,won
+Sat," 04 May 2013",DC,SRH,"48th Match "," Hyderabad, Rajiv Gandhi International Stadium","80 (19.1)","81-4 (13.5)","Sunrisers Hyderabad won by 6 wkts",80,81,10,4,13.5,19.1,lost,won
+Sun," 05 May 2013",MI,CSK,"49th Match "," Mumbai, Wankhede Stadium","139-5 (20)","79 (15.2)","Mumbai Indians won by 60 runs",139,79,5,10,15.2,20,won,lost
+Mon," 06 May 2013",RCB,PBKS,"51st Match "," Mohali, Punjab Cricket Association IS Bindra Stadium","190-3 (20)","194-4 (18)","Kings XI Punjab won by 6 wkts",190,194,3,4,18,20,lost,won
+Tue," 07 May 2013",DC,RR,"52nd Match "," Jaipur, Sawai Mansingh Stadium","154-4 (20)","155-1 (17.5)","Rajasthan Royals won by 9 wkts",154,155,4,1,17.5,20,lost,won
+Wed," 08 May 2013",CSK,SRH,"54th Match "," Hyderabad, Rajiv Gandhi International Stadium","223-3 (20)","146-8 (20)","Chennai Super Kings won by 77 runs",223,146,3,8,20,20,won,lost
+Thu," 09 May 2013",PBKS,RR,"55th Match "," Mohali, Punjab Cricket Association IS Bindra Stadium","145-6 (20)","147-2 (19)","Rajasthan Royals won by 8 wkts",145,147,6,2,19,20,lost,won
+Fri," 10 May 2013",RCB,DC,"57th Match "," Delhi, Arun Jaitley Stadium","183-4 (20)","179-7 (20)","Royal Challengers Bangalore won by 4 runs",183,179,4,7,20,20,won,lost
+Sat," 11 May 2013",PWI,MI,"58th Match "," Pune, Maharashtra Cricket Association Stadium","112-8 (20)","116-5 (18.5)","Mumbai Indians won by 5 wkts",112,116,8,5,18.5,20,lost,won
+Sun," 12 May 2013",RCB,KKR,"60th Match "," Ranchi, JSCA International Stadium Complex","115-9 (20)","116-5 (19.2)","Kolkata Knight Riders won by 5 wkts",115,116,9,5,19.2,20,lost,won
+Mon," 13 May 2013",SRH,MI,"62nd Match "," Mumbai, Wankhede Stadium","178-3 (20)","184-3 (19.3)","Mumbai Indians won by 7 wkts",178,184,3,3,19.3,20,lost,won
+Tue," 14 May 2013",RCB,PBKS,"63rd Match "," Bengaluru, M.Chinnaswamy Stadium","174-5 (20)","176-3 (18.1)","Kings XI Punjab won by 7 wkts",174,176,5,3,18.1,20,lost,won
+Wed," 15 May 2013",PWI,KKR,"65th Match "," Ranchi, JSCA International Stadium Complex","170-4 (20)","163-7 (20)","Pune Warriors won by 7 runs",170,163,4,7,20,20,won,lost
+Thu," 16 May 2013",PBKS,DC,"67th Match "," Dharamsala, Himachal Pradesh Cricket Association Stadium","171-4 (20)","164-7 (20)","Kings XI Punjab won by 7 runs",171,164,4,7,20,20,won,lost
+Fri," 17 May 2013",SRH,RR,"68th Match "," Hyderabad, Rajiv Gandhi International Stadium","136-9 (20)","113-9 (20)","Sunrisers Hyderabad won by 23 runs",136,113,9,9,20,20,won,lost
+Sat," 18 May 2013",PBKS,MI,"69th Match "," Dharamsala, Himachal Pradesh Cricket Association Stadium","183-8 (20)","133 (19.1)","Kings XI Punjab won by 50 runs",183,133,8,10,19.1,20,won,lost
+Sun," 19 May 2013",PWI,DC,"71st Match "," Pune, Maharashtra Cricket Association Stadium","172-5 (20)","134-9 (20)","Pune Warriors won by 38 runs",172,134,5,9,20,20,won,lost
+Tue," 21 May 2013",CSK,MI,"Qualifier 1 "," Delhi, Arun Jaitley Stadium","192-1 (20)","144 (18.4)","Chennai Super Kings won by 48 runs",192,144,1,10,18.4,20,won,lost
+Wed," 22 May 2013",SRH,RR,"Eliminator "," Delhi, Arun Jaitley Stadium","132-7 (20)","135-6 (19.2)","Rajasthan Royals won by 4 wkts",132,135,7,6,19.2,20,lost,won
+Fri," 24 May 2013",RR,MI,"Qualifier 2 "," Kolkata, Eden Gardens","165-6 (20)","169-6 (19.5)","Mumbai Indians won by 4 wkts",165,169,6,6,19.5,20,lost,won
+Sun," 26 May 2013",MI,CSK,"Final "," Kolkata, Eden Gardens","148-9 (20)","125-9 (20)","Mumbai Indians won by 23 runs",148,125,9,9,20,20,won,lost
+Wed," 04 Apr 2012",CSK,MI,"1st Match "," Chennai, MA Chidambaram Stadium","112 (19.5)","115-2 (16.5)","Mumbai Indians won by 8 wkts",112,115,10,2,16.5,19.5,lost,won
+Thu," 05 Apr 2012",KKR,DC,"2nd Match "," Kolkata, Eden Gardens","97-9 (12)","100-2 (11.1)","Delhi Daredevils won by 8 wkts",97,100,9,2,11.1,12,lost,won
+Fri," 06 Apr 2012",PWI,MI,"3rd Match "," Mumbai, Wankhede Stadium","129-9 (20)","101-9 (20)","Pune Warriors won by 28 runs",129,101,9,9,20,20,won,lost
+Sat," 07 Apr 2012",RCB,DC,"5th Match "," Bengaluru, M.Chinnaswamy Stadium","157-8 (20)","137-7 (20)","Royal Challengers Bangalore won by 20 runs",157,137,8,7,20,20,won,lost
+Sun," 08 Apr 2012",RR,KKR,"7th Match "," Jaipur, Sawai Mansingh Stadium","164-5 (20)","142 (20)","Rajasthan Royals won by 22 runs",164,142,5,10,20,20,won,lost
+Mon," 09 Apr 2012",DCG,MI,"9th Match "," Visakhapatnam, Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium","138-9 (20)","142-5 (20)","Mumbai Indians won by 5 wkts",138,142,9,5,20,20,lost,won
+Tue," 10 Apr 2012",KKR,RCB,"10th Match "," Bengaluru, M.Chinnaswamy Stadium","165-8 (20)","123-9 (20)","Kolkata Knight Riders won by 42 runs",165,123,8,9,20,20,won,lost
+Wed," 11 Apr 2012",MI,RR,"12th Match "," Mumbai, Wankhede Stadium","197-6 (20)","170 (19.4)","Mumbai Indians won by 27 runs",197,170,6,10,19.4,20,won,lost
+Thu," 12 Apr 2012",RCB,CSK,"13th Match "," Chennai, MA Chidambaram Stadium","205-8 (20)","208-5 (20)","Chennai Super Kings won by 5 wkts",205,208,8,5,20,20,lost,won
+Fri," 13 Apr 2012",RR,KKR,"15th Match "," Kolkata, Eden Gardens","131-5 (20)","137-5 (19.2)","Kolkata Knight Riders won by 5 wkts",131,137,5,5,19.2,20,lost,won
+Sat," 14 Apr 2012",CSK,PWI,"16th Match "," Pune, Maharashtra Cricket Association Stadium","155-5 (20)","156-3 (19.2)","Pune Warriors won by 7 wkts",155,156,5,3,19.2,20,lost,won
+Sun," 15 Apr 2012",PBKS,KKR,"17th Match "," Kolkata, Eden Gardens","134-9 (20)","132-7 (20)","Kings XI Punjab won by 2 runs",134,132,9,7,20,20,won,lost
+Mon," 16 Apr 2012",MI,DC,"19th Match "," Mumbai, Wankhede Stadium","92 (19.2)","93-3 (14.5)","Delhi Daredevils won by 7 wkts",92,93,10,3,14.5,19.2,lost,won
+Tue," 17 Apr 2012",DCG,RR,"20th Match "," Jaipur, Sawai Mansingh Stadium","196-2 (20)","197-5 (19.4)","Rajasthan Royals won by 5 wkts",196,197,2,5,19.4,20,lost,won
+Wed," 18 Apr 2012",PBKS,KKR,"22nd Match "," Mohali, Punjab Cricket Association IS Bindra Stadium","124-7 (20)","127-2 (16.3)","Kolkata Knight Riders won by 8 wkts",124,127,7,2,16.3,20,lost,won
+Thu," 19 Apr 2012",DCG,DC,"23rd Match "," Delhi, Arun Jaitley Stadium","157-8 (20)","162-5 (19.1)","Delhi Daredevils won by 5 wkts",157,162,8,5,19.1,20,lost,won
+Fri," 20 Apr 2012",PBKS,RCB,"25th Match "," Mohali, Punjab Cricket Association IS Bindra Stadium","163-6 (20)","166-5 (19.3)","Royal Challengers Bangalore won by 5 wkts",163,166,6,5,19.3,20,lost,won
+Sat," 21 Apr 2012",RR,CSK,"26th Match "," Chennai, MA Chidambaram Stadium","146-4 (20)","147-3 (20)","Chennai Super Kings won by 7 wkts",146,147,4,3,20,20,lost,won
+Sun," 22 Apr 2012",MI,PBKS,"28th Match "," Mumbai, Wankhede Stadium","163-6 (20)","164-4 (19.3)","Kings XI Punjab won by 6 wkts",163,164,6,4,19.3,20,lost,won
+Mon," 23 Apr 2012",RCB,RR,"30th Match "," Jaipur, Sawai Mansingh Stadium","189-3 (20)","143-7 (20)","Royal Challengers Bangalore won by 46 runs",189,143,3,7,20,20,won,lost
+Tue," 24 Apr 2012",PWI,DC,"31st Match "," Pune, Maharashtra Cricket Association Stadium","146-2 (20)","148-2 (16)","Delhi Daredevils won by 8 wkts",146,148,2,2,16,20,lost,won
+Wed," 25 Apr 2012",PBKS,MI,"33rd Match "," Mohali, Punjab Cricket Association IS Bindra Stadium","168-3 (20)","171-6 (19.5)","Mumbai Indians won by 4 wkts",168,171,3,6,19.5,20,lost,won
+Thu," 26 Apr 2012",DCG,PWI,"35th Match "," Pune, Maharashtra Cricket Association Stadium","177-4 (20)","159-7 (20)","Deccan Chargers won by 18 runs",177,159,4,7,20,20,won,lost
+Fri," 27 Apr 2012",DC,MI,"36th Match "," Delhi, Arun Jaitley Stadium","207-5 (20)","170-9 (20)","Delhi Daredevils won by 37 runs",207,170,5,9,20,20,won,lost
+Sat," 28 Apr 2012",PBKS,CSK,"37th Match "," Chennai, MA Chidambaram Stadium","156-8 (20)","149-8 (20)","Kings XI Punjab won by 7 runs",156,149,8,8,20,20,won,lost
+Sun," 29 Apr 2012",DC,RR,"39th Match "," Delhi, Arun Jaitley Stadium","152-6 (20)","151-3 (20)","Delhi Daredevils won by 1 run",152,151,6,3,20,20,won,lost
+Mon," 30 Apr 2012",CSK,KKR,"41st Match "," Chennai, MA Chidambaram Stadium","139-5 (20)","140-5 (19.4)","Kolkata Knight Riders won by 5 wkts",139,140,5,5,19.4,20,lost,won
+Tue," 01 May 2012",DCG,PWI,"42nd Match "," Cuttack, Barabati Stadium","186-4 (20)","173-5 (20)","Deccan Chargers won by 13 runs",186,173,4,5,20,20,won,lost
+Wed," 02 May 2012",RCB,PBKS,"44th Match "," Bengaluru, M.Chinnaswamy Stadium","158-5 (20)","163-6 (19.5)","Kings XI Punjab won by 4 wkts",158,163,5,6,19.5,20,lost,won
+Thu," 03 May 2012",MI,PWI,"45th Match "," Pune, Maharashtra Cricket Association Stadium","120-9 (20)","119-6 (20)","Mumbai Indians won by 1 run",120,119,9,6,20,20,won,lost
+Fri," 04 May 2012",CSK,DCG,"46th Match "," Chennai, MA Chidambaram Stadium","160-6 (20)","150-5 (20)","Chennai Super Kings won by 10 runs",160,150,6,5,20,20,won,lost
+Sat," 05 May 2012",KKR,PWI,"47th Match "," Kolkata, Eden Gardens","150-5 (20)","143-8 (20)","Kolkata Knight Riders won by 7 runs",150,143,5,8,20,20,won,lost
+Sun," 06 May 2012",CSK,MI,"49th Match "," Mumbai, Wankhede Stadium","173-8 (20)","174-8 (20)","Mumbai Indians won by 2 wkts",173,174,8,8,20,20,lost,won
+Mon," 07 May 2012",DC,KKR,"51st Match "," Delhi, Arun Jaitley Stadium","153-9 (20)","154-4 (18.4)","Kolkata Knight Riders won by 6 wkts",153,154,9,4,18.4,20,lost,won
+Tue," 08 May 2012",PWI,RR,"52nd Match "," Pune, Maharashtra Cricket Association Stadium","125-6 (20)","126-3 (16.2)","Rajasthan Royals won by 7 wkts",125,126,6,3,16.2,20,lost,won
+Wed," 09 May 2012",MI,RCB,"54th Match "," Mumbai, Wankhede Stadium","141-6 (20)","142-1 (18)","Royal Challengers Bangalore won by 9 wkts",141,142,6,1,18,20,lost,won
+Thu," 10 May 2012",DCG,DC,"55th Match "," Hyderabad, Rajiv Gandhi International Stadium","187-4 (20)","193-1 (16.4)","Delhi Daredevils won by 9 wkts",187,193,4,1,16.4,20,lost,won
+Fri," 11 May 2012",RCB,PWI,"57th Match "," Pune, Maharashtra Cricket Association Stadium","173-3 (20)","138-9 (20)","Royal Challengers Bangalore won by 35 runs",173,138,3,9,20,20,won,lost
+Sat," 12 May 2012",MI,KKR,"58th Match "," Kolkata, Eden Gardens","182-1 (20)","155-4 (20)","Mumbai Indians won by 27 runs",182,155,1,4,20,20,won,lost
+Sun," 13 May 2012",RR,PWI,"60th Match "," Jaipur, Sawai Mansingh Stadium","170-4 (20)","125-9 (20)","Rajasthan Royals won by 45 runs",170,125,4,9,20,20,won,lost
+Mon," 14 May 2012",RCB,MI,"62nd Match "," Bengaluru, M.Chinnaswamy Stadium","171-6 (20)","173-5 (19.4)","Mumbai Indians won by 5 wkts",171,173,6,5,19.4,20,lost,won
+Tue," 15 May 2012",PBKS,DC,"64th Match "," Delhi, Arun Jaitley Stadium","136-8 (20)","140-5 (19)","Delhi Daredevils won by 5 wkts",136,140,8,5,19,20,lost,won
+Wed," 16 May 2012",KKR,MI,"65th Match "," Mumbai, Wankhede Stadium","140-7 (20)","108 (19.1)","Kolkata Knight Riders won by 32 runs",140,108,7,10,19.1,20,won,lost
+Thu," 17 May 2012",CSK,PBKS,"66th Match "," Dharamsala, Himachal Pradesh Cricket Association Stadium","120-7 (20)","123-4 (16.3)","Kings XI Punjab won by 6 wkts",120,123,7,4,16.3,20,lost,won
+Fri," 18 May 2012",RR,DCG,"68th Match "," Hyderabad, Rajiv Gandhi International Stadium","126-8 (20)","128-5 (18.4)","Deccan Chargers won by 5 wkts",126,128,8,5,18.4,20,lost,won
+Sat," 19 May 2012",PBKS,DC,"69th Match "," Dharamsala, Himachal Pradesh Cricket Association Stadium","141-8 (20)","145-4 (18.2)","Delhi Daredevils won by 6 wkts",141,145,8,4,18.2,20,lost,won
+Sun," 20 May 2012",DCG,RCB,"71st Match "," Hyderabad, Rajiv Gandhi International Stadium","132-7 (20)","123-9 (20)","Deccan Chargers won by 9 runs",132,123,7,9,20,20,won,lost
+Tue," 22 May 2012",KKR,DC,"Qualifier 1 (1st v 2nd) "," Pune, Maharashtra Cricket Association Stadium","162-4 (20)","144-8 (20)","Kolkata Knight Riders won by 18 runs",162,144,4,8,20,20,won,lost
+Wed," 23 May 2012",CSK,MI,"Eliminator (3rd v 4th) "," Bengaluru, M.Chinnaswamy Stadium","187-5 (20)","149-9 (20)","Chennai Super Kings won by 38 runs",187,149,5,9,20,20,won,lost
+Fri," 25 May 2012",CSK,DC,"Qualifier 2 "," Chennai, MA Chidambaram Stadium","222-5 (20)","136 (16.5)","Chennai Super Kings won by 86 runs",222,136,5,10,16.5,20,won,lost
+Sun," 27 May 2012",CSK,KKR,"Final "," Chennai, MA Chidambaram Stadium","190-3 (20)","192-5 (19.4)","Kolkata Knight Riders won by 5 wkts",190,192,3,5,19.4,20,lost,won
+Fri," 08 Apr 2011",CSK,KKR,"1st match "," Chennai, MA Chidambaram Stadium","153-4 (20)","151-7 (20)","Chennai Super Kings won by 2 runs",153,151,4,7,20,20,won,lost
+Sat," 09 Apr 2011",DCG,RR,"2nd match "," Hyderabad, Rajiv Gandhi International Stadium","137-8 (20)","141-2 (18.5)","Rajasthan Royals won by 8 wkts",137,141,8,2,18.5,20,lost,won
+Sun," 10 Apr 2011",DC,MI,"4th match "," Delhi, Arun Jaitley Stadium","95 (17.4)","99-2 (16.5)","Mumbai Indians won by 8 wkts",95,99,10,2,16.5,17.4,lost,won
+Mon," 11 Apr 2011",KKR,DCG,"6th match "," Kolkata, Eden Gardens","163-4 (20)","154-8 (20)","Kolkata Knight Riders won by 9 runs",163,154,4,8,20,20,won,lost
+Tue," 12 Apr 2011",DC,RR,"7th match "," Jaipur, Sawai Mansingh Stadium","151-6 (20)","152-4 (18.3)","Rajasthan Royals won by 6 wkts",151,152,6,4,18.3,20,lost,won
+Wed," 13 Apr 2011",CSK,PBKS,"9th match "," Mohali, Punjab Cricket Association IS Bindra Stadium","188-4 (20)","193-4 (19.1)","Kings XI Punjab won by 6 wkts",188,193,4,4,19.1,20,lost,won
+Thu," 14 Apr 2011",DCG,RCB,"11th match "," Hyderabad, Rajiv Gandhi International Stadium","175-5 (20)","142-9 (20)","Deccan Chargers won by 33 runs",175,142,5,9,20,20,won,lost
+Fri," 15 Apr 2011",RR,KKR,"12th match "," Jaipur, Sawai Mansingh Stadium","159-4 (20)","160-1 (18.3)","Kolkata Knight Riders won by 9 wkts",159,160,4,1,18.3,20,lost,won
+Sat," 16 Apr 2011",CSK,RCB,"14th match "," Chennai, MA Chidambaram Stadium","183-5 (20)","162-7 (20)","Chennai Super Kings won by 21 runs",183,162,5,7,20,20,won,lost
+Sun," 17 Apr 2011",PWI,DC,"16th match "," Navi Mumbai , Dr DY Patil Sports Academy","187-5 (20)","190-7 (19.2)","Delhi Daredevils won by 3 wkts",187,190,5,7,19.2,20,lost,won
+Mon," 18 Apr 2011",CSK,KTK,"18th match "," Kochi, Nehru Stadium","131-4 (17)","135-3 (15)","Kochi Tuskers Kerala won by 7 wkts (D/L method)",131,135,4,3,15,17,lost,won
+Tue," 19 Apr 2011",DCG,DC,"19th match "," Delhi, Arun Jaitley Stadium","168-4 (20)","152-7 (20)","Deccan Chargers won by 16 runs",168,152,4,7,20,20,won,lost
+Wed," 20 Apr 2011",PWI,MI,"21st match "," Mumbai, Wankhede Stadium","118 (17.2)","124-3 (20)","Mumbai Indians won by 7 wkts",118,124,10,3,20,17.2,lost,won
+Thu," 21 Apr 2011",PBKS,RR,"23rd match "," Mohali, Punjab Cricket Association IS Bindra Stadium","195-7 (20)","147-7 (20)","Kings XI Punjab won by 48 runs",195,147,7,7,20,20,won,lost
+Fri," 22 Apr 2011",KKR,RCB,"24th match "," Kolkata, Eden Gardens","171-5 (20)","175-1 (18.1)","Royal Challengers Bangalore won by 9 wkts",171,175,5,1,18.1,20,lost,won
+Sat," 23 Apr 2011",DC,PBKS,"26th match "," Delhi, Arun Jaitley Stadium","231-4 (20)","202-6 (20)","Delhi Daredevils won by 29 runs",231,202,4,6,20,20,won,lost
+Sun," 24 Apr 2011",MI,DCG,"27th match "," Hyderabad, Rajiv Gandhi International Stadium","172-4 (20)","135-8 (20)","Mumbai Indians won by 37 runs",172,135,4,8,20,20,won,lost
+Mon," 25 Apr 2011",CSK,PWI,"29th match "," Chennai, MA Chidambaram Stadium","142-6 (20)","117-9 (20)","Chennai Super Kings won by 25 runs",142,117,6,9,20,20,won,lost
+Tue," 26 Apr 2011",DC,RCB,"30th match "," Delhi, Arun Jaitley Stadium","160-6 (20)","161-7 (19.3)","Royal Challengers Bangalore won by 3 wkts",160,161,6,7,19.3,20,lost,won
+Wed," 27 Apr 2011",PWI,CSK,"31st match "," Navi Mumbai , Dr DY Patil Sports Academy","141-6 (20)","145-2 (19.3)","Chennai Super Kings won by 8 wkts",141,145,6,2,19.3,20,lost,won
+Thu," 28 Apr 2011",KKR,DC,"33rd match "," Delhi, Arun Jaitley Stadium","148-7 (20)","131-9 (20)","Kolkata Knight Riders won by 17 runs",148,131,7,9,20,20,won,lost
+Fri," 29 Apr 2011",MI,RR,"34th match "," Jaipur, Sawai Mansingh Stadium","94-8 (20)","95-3 (18.1)","Rajasthan Royals won by 7 wkts",94,95,8,3,18.1,20,lost,won
+Sat," 30 Apr 2011",DC,KTK,"36th match "," Kochi, Nehru Stadium","157-7 (20)","119 (18.5)","Delhi Daredevils won by 38 runs",157,119,7,10,18.5,20,won,lost
+Sun," 01 May 2011",PWI,RR,"38th match "," Jaipur, Sawai Mansingh Stadium","143-7 (20)","144-4 (19.3)","Rajasthan Royals won by 6 wkts",143,144,7,4,19.3,20,lost,won
+Mon," 02 May 2011",MI,PBKS,"40th match "," Mumbai, Wankhede Stadium","159-5 (20)","136-8 (20)","Mumbai Indians won by 23 runs",159,136,5,8,20,20,won,lost
+Tue," 03 May 2011",KKR,DCG,"42nd match "," Hyderabad, Rajiv Gandhi International Stadium","169-4 (20)","149-6 (20)","Kolkata Knight Riders won by 20 runs",169,149,4,6,20,20,won,lost
+Wed," 04 May 2011",RR,CSK,"43rd match "," Chennai, MA Chidambaram Stadium","147-6 (20)","149-2 (18.4)","Chennai Super Kings won by 8 wkts",147,149,6,2,18.4,20,lost,won
+Thu," 05 May 2011",KTK,KKR,"45th match "," Kochi, Nehru Stadium","156-5 (20)","139-7 (20)","Kochi Tuskers Kerala won by 17 runs",156,139,5,7,20,20,won,lost
+Fri," 06 May 2011",RCB,PBKS,"47th match "," Bengaluru, M.Chinnaswamy Stadium","205-6 (20)","120-9 (20)","Royal Challengers Bangalore won by 85 runs",205,120,6,9,20,20,won,lost
+Sat," 07 May 2011",CSK,KKR,"48th match "," Kolkata, Eden Gardens","114-4 (20)","61-2 (10)","Kolkata Knight Riders won by 10 runs (D/L method)",114,2,4,2,10,20,won,lost
+Sun," 08 May 2011",KTK,RCB,"50th match "," Bengaluru, M.Chinnaswamy Stadium","125-9 (20)","128-1 (13.1)","Royal Challengers Bangalore won by 9 wkts",125,128,9,1,13.1,20,lost,won
+Mon," 09 May 2011",CSK,RR,"52nd match "," Jaipur, Sawai Mansingh Stadium","196-3 (20)","133 (19.3)","Chennai Super Kings won by 63 runs",196,133,3,10,19.3,20,won,lost
+Tue," 10 May 2011",DCG,PWI,"53rd match "," Hyderabad, Rajiv Gandhi International Stadium","136-8 (20)","137-4 (18.2)","Pune Warriors won by 6 wkts",136,137,8,4,18.2,20,lost,won
+Wed," 11 May 2011",RR,RCB,"55th match "," Jaipur, Sawai Mansingh Stadium","146-6 (20)","151-1 (17)","Royal Challengers Bangalore won by 9 wkts",146,151,6,1,17,20,lost,won
+Thu," 12 May 2011",CSK,DC,"56th match "," Chennai, MA Chidambaram Stadium","176-4 (20)","158-6 (20)","Chennai Super Kings won by 18 runs",176,158,4,6,20,20,won,lost
+Fri," 13 May 2011",KTK,PBKS,"57th match "," Indore, Holkar Cricket Stadium","178-7 (20)","181-4 (18.5)","Kings XI Punjab won by 6 wkts",178,181,7,4,18.5,20,lost,won
+Sat," 14 May 2011",KKR,RCB,"58th match "," Bengaluru, M.Chinnaswamy Stadium","89-4 (13)","105-6 (12.3)","Royal Challengers Bangalore won by 4 wkts (D/L method)",89,105,4,6,12.3,13,lost,won
+Sun," 15 May 2011",PBKS,DC,"60th match "," Dharamsala, Himachal Pradesh Cricket Association Stadium","170-6 (20)","141-8 (20)","Kings XI Punjab won by 29 runs",170,141,6,8,20,20,won,lost
+Mon," 16 May 2011",PWI,DCG,"62nd match "," Navi Mumbai , Dr DY Patil Sports Academy","136-9 (20)","138-4 (19.2)","Deccan Chargers won by 6 wkts",136,138,9,4,19.2,20,lost,won
+Tue," 17 May 2011",PBKS,RCB,"63rd match "," Dharamsala, Himachal Pradesh Cricket Association Stadium","232-2 (20)","121 (17)","Kings XI Punjab won by 111 runs",232,121,2,10,17,20,won,lost
+Wed," 18 May 2011",CSK,KTK,"64th match "," Chennai, MA Chidambaram Stadium","152-5 (20)","141-5 (20)","Chennai Super Kings won by 11 runs",152,141,5,5,20,20,won,lost
+Thu," 19 May 2011",PWI,KKR,"65th match "," Navi Mumbai , Dr DY Patil Sports Academy","118-7 (20)","119-3 (16.4)","Kolkata Knight Riders won by 7 wkts",118,119,7,3,16.4,20,lost,won
+Fri," 20 May 2011",MI,RR,"66th match "," Mumbai, Wankhede Stadium","133-5 (20)","134-0 (13.1)","Rajasthan Royals won by 10 wkts",133,134,5,0,13.1,20,lost,won
+Sat," 21 May 2011",DCG,PBKS,"67th match "," Dharamsala, Himachal Pradesh Cricket Association Stadium","198-2 (20)","116 (19)","Deccan Chargers won by 82 runs",198,116,2,10,19,20,won,lost
+Sun," 22 May 2011",CSK,RCB,"69th match "," Bengaluru, M.Chinnaswamy Stadium","128-8 (20)","129-2 (18)","Royal Challengers Bangalore won by 8 wkts",128,129,8,2,18,20,lost,won
+Tue," 24 May 2011",RCB,CSK,"Qualifier 1 (1st v 2nd) "," Mumbai, Wankhede Stadium","175-4 (20)","177-4 (19.4)","Chennai Super Kings won by 6 wkts",175,177,4,4,19.4,20,lost,won
+Wed," 25 May 2011",KKR,MI,"Eliminator (3rd v 4th) "," Mumbai, Wankhede Stadium","147-7 (20)","148-6 (19.2)","Mumbai Indians won by 4 wkts",147,148,7,6,19.2,20,lost,won
+Fri," 27 May 2011",RCB,MI,"Qualifier 2 (Winner of Eliminator v Loser of Qualifier 1) "," Chennai, MA Chidambaram Stadium","185-4 (20)","142-8 (20)","Royal Challengers Bangalore won by 43 runs",185,142,4,8,20,20,won,lost
+Sat," 28 May 2011",CSK,RCB,"Final "," Chennai, MA Chidambaram Stadium","205-5 (20)","147-8 (20)","Chennai Super Kings won by 58 runs",205,147,5,8,20,20,won,lost
+Fri," 12 Mar 2010",KKR,DCG,"1st match "," Navi Mumbai , Dr DY Patil Sports Academy","161-4 (20)","150-7 (20)","Kolkata Knight Riders won by 11 runs",161,150,4,7,20,20,won,lost
+Sat," 13 Mar 2010",MI,RR,"2nd match "," Mumbai, Brabourne Stadium","212-6 (20)","208-7 (20)","Mumbai Indians won by 4 runs",212,208,6,7,20,20,won,lost
+Sun," 14 Mar 2010",RCB,KKR,"4th match "," Kolkata, Eden Gardens","135-7 (20)","136-3 (19.2)","Kolkata Knight Riders won by 7 wickets (with 4 balls remaining)",135,136,7,3,19.2,20,lost,won
+Mon," 15 Mar 2010",RR,DC,"6th match "," Ahmedabad, Narendra Modi Stadium","141-6 (20)","142-4 (17.1)","Delhi Daredevils won by 6 wickets (with 17 balls remaining)",141,142,6,4,17.1,20,lost,won
+Tue," 16 Mar 2010",PBKS,RCB,"7th match "," Bengaluru, M.Chinnaswamy Stadium","203-3 (20)","204-2 (18.5)","Royal Challengers Bangalore won by 8 wickets (with 7 balls remaining)",203,204,3,2,18.5,20,lost,won
+Wed," 17 Mar 2010",MI,DC,"9th match "," Delhi, Arun Jaitley Stadium","218-7 (20)","120 (16.3)","Mumbai Indians won by 98 runs",218,120,7,10,16.3,20,won,lost
+Thu," 18 Mar 2010",RR,RCB,"10th match "," Bengaluru, M.Chinnaswamy Stadium","92 (19.5)","93-0 (10.4)","Royal Challengers Bangalore won by 10 wickets (with 56 balls remaining)",92,93,10,0,10.4,19.5,lost,won
+Fri," 19 Mar 2010",DC,CSK,"11th match "," Delhi, Arun Jaitley Stadium","185-6 (20)","190-5 (19.1)","Chennai Super Kings won by 5 wickets (with 5 balls remaining)",185,190,6,5,19.1,20,lost,won
+Sat," 20 Mar 2010",RR,KKR,"13th match "," Ahmedabad, Narendra Modi Stadium","168-7 (20)","134-5 (20)","Rajasthan Royals won by 34 runs",168,134,7,5,20,20,won,lost
+Sun," 21 Mar 2010",DCG,DC,"15th match "," Cuttack, Barabati Stadium","171-6 (20)","161-9 (20)","Deccan Chargers won by 10 runs",171,161,6,9,20,20,won,lost
+Mon," 22 Mar 2010",KKR,MI,"17th match "," Mumbai, Brabourne Stadium","155-3 (20)","156-3 (18.3)","Mumbai Indians won by 7 wickets (with 9 balls remaining)",155,156,3,3,18.3,20,lost,won
+Tue," 23 Mar 2010",RCB,CSK,"18th match "," Bengaluru, M.Chinnaswamy Stadium","171-5 (20)","135-7 (20)","Royal Challengers Bangalore won by 36 runs",171,135,5,7,20,20,won,lost
+Wed," 24 Mar 2010",RR,PBKS,"19th match "," Mohali, Punjab Cricket Association IS Bindra Stadium","183-5 (20)","152 (19.1)","Rajasthan Royals won by 31 runs",183,152,5,10,19.1,20,won,lost
+Thu," 25 Mar 2010",DC,RCB,"20th match "," Bengaluru, M.Chinnaswamy Stadium","183-4 (20)","166-9 (20)","Delhi Daredevils won by 17 runs",183,166,4,9,20,20,won,lost
+Fri," 26 Mar 2010",DCG,RR,"22nd match "," Ahmedabad, Narendra Modi Stadium","148-9 (20)","151-2 (15.4)","Rajasthan Royals won by 8 wickets (with 26 balls remaining)",148,151,9,2,15.4,20,lost,won
+Sat," 27 Mar 2010",KKR,PBKS,"23rd match "," Mohali, Punjab Cricket Association IS Bindra Stadium","183-5 (20)","144-6 (20)","Kolkata Knight Riders won by 39 runs",183,144,5,6,20,20,won,lost
+Sun," 28 Mar 2010",RR,CSK,"24th match "," Ahmedabad, Narendra Modi Stadium","177-8 (20)","160-6 (20)","Rajasthan Royals won by 17 runs",177,160,8,6,20,20,won,lost
+Mon," 29 Mar 2010",DC,KKR,"26th match "," Delhi, Arun Jaitley Stadium","177-4 (20)","137-9 (20)","Delhi Daredevils won by 40 runs",177,137,4,9,20,20,won,lost
+Tue," 30 Mar 2010",PBKS,MI,"27th match "," Mumbai, Brabourne Stadium","163 (20)","164-6 (19.3)","Mumbai Indians won by 4 wickets (with 3 balls remaining)",163,164,10,6,19.3,20,lost,won
+Wed," 31 Mar 2010",RCB,CSK,"28th match "," Chennai, MA Chidambaram Stadium","161-4 (20)","162-5 (18.5)","Chennai Super Kings won by 5 wickets (with 7 balls remaining)",161,162,4,5,18.5,20,lost,won
+Thu," 01 Apr 2010",KKR,DCG,"30th match "," Kolkata, Eden Gardens","181-6 (20)","157-5 (20)","Kolkata Knight Riders won by 24 runs",181,157,6,5,20,20,won,lost
+Fri," 02 Apr 2010",PBKS,RCB,"31st match "," Mohali, Punjab Cricket Association IS Bindra Stadium","181-5 (20)","184-4 (19.1)","Royal Challengers Bangalore won by 6 wickets (with 5 balls remaining)",181,184,5,4,19.1,20,lost,won
+Sat," 03 Apr 2010",CSK,RR,"32nd match "," Chennai, MA Chidambaram Stadium","246-5 (20)","223-5 (20)","Chennai Super Kings won by 23 runs",246,223,5,5,20,20,won,lost
+Sun," 04 Apr 2010",KKR,PBKS,"34th match "," Kolkata, Eden Gardens","200-3 (20)","204-2 (18.2)","Kings XI Punjab won by 8 wickets (with 10 balls remaining)",200,204,3,2,18.2,20,lost,won
+Mon," 05 Apr 2010",RR,DCG,"36th match "," Nagpur, Vidarbha Cricket Association Stadium","159 (19.5)","157 (19.5)","Rajasthan Royals won by 2 runs",159,157,10,10,19.5,19.5,won,lost
+Tue," 06 Apr 2010",CSK,MI,"37th match "," Chennai, MA Chidambaram Stadium","165-4 (20)","141-9 (20)","Chennai Super Kings won by 24 runs",165,141,4,9,20,20,won,lost
+Wed," 07 Apr 2010",PBKS,RR,"38th match "," Jaipur, Sawai Mansingh Stadium","153-6 (20)","157-1 (15)","Rajasthan Royals won by 9 wickets (with 30 balls remaining)",153,157,6,1,15,20,lost,won
+Thu," 08 Apr 2010",RCB,DCG,"40th match "," Bengaluru, M.Chinnaswamy Stadium","184-6 (20)","186-3 (19.2)","Deccan Chargers won by 7 wickets (with 4 balls remaining)",184,186,6,3,19.2,20,lost,won
+Fri," 09 Apr 2010",MI,PBKS,"41st match "," Mohali, Punjab Cricket Association IS Bindra Stadium","154-9 (20)","158-4 (19.2)","Kings XI Punjab won by 6 wickets (with 4 balls remaining)",154,158,9,4,19.2,20,lost,won
+Sat," 10 Apr 2010",CSK,DCG,"42nd match "," Nagpur, Vidarbha Cricket Association Stadium","138-8 (20)","139-4 (19.1)","Deccan Chargers won by 6 wickets (with 5 balls remaining)",138,139,8,4,19.1,20,lost,won
+Sun," 11 Apr 2010",DC,PBKS,"44th match "," Delhi, Arun Jaitley Stadium","111 (19.4)","112-3 (18.4)","Kings XI Punjab won by 7 wickets (with 8 balls remaining)",111,112,10,3,18.4,19.4,lost,won
+Mon," 12 Apr 2010",DCG,RCB,"46th match "," Nagpur, Vidarbha Cricket Association Stadium","151-6 (20)","138 (19.4)","Deccan Chargers won by 13 runs",151,138,6,10,19.4,20,won,lost
+Tue," 13 Apr 2010",MI,DC,"47th match "," Mumbai, Brabourne Stadium","183-4 (20)","144-7 (20)","Mumbai Indians won by 39 runs",183,144,4,7,20,20,won,lost
+Wed," 14 Apr 2010",RR,RCB,"49th match "," Jaipur, Sawai Mansingh Stadium","130-6 (20)","132-5 (15.4)","Royal Challengers Bangalore won by 5 wickets (with 26 balls remaining)",130,132,6,5,15.4,20,lost,won
+Thu," 15 Apr 2010",CSK,DC,"50th match "," Chennai, MA Chidambaram Stadium","112-9 (20)","113-4 (18.4)","Delhi Daredevils won by 6 wickets (with 8 balls remaining)",112,113,9,4,18.4,20,lost,won
+Fri," 16 Apr 2010",PBKS,DCG,"51st match "," Dharamsala, Himachal Pradesh Cricket Association Stadium","174-3 (20)","178-5 (19.1)","Deccan Chargers won by 5 wickets (with 5 balls remaining)",174,178,3,5,19.1,20,lost,won
+Sat," 17 Apr 2010",MI,RCB,"52nd match "," Bengaluru, M.Chinnaswamy Stadium","191-4 (20)","134-9 (20)","Mumbai Indians won by 57 runs",191,134,4,9,20,20,won,lost
+Sun," 18 Apr 2010",PBKS,CSK,"54th match "," Dharamsala, Himachal Pradesh Cricket Association Stadium","192-3 (20)","195-4 (19.4)","Chennai Super Kings won by 6 wickets (with 2 balls remaining)",192,195,3,4,19.4,20,lost,won
+Mon," 19 Apr 2010",MI,KKR,"56th match "," Kolkata, Eden Gardens","133-8 (20)","135-1 (17.3)","Kolkata Knight Riders won by 9 wickets (with 15 balls remaining)",133,135,8,1,17.3,20,lost,won
+Wed," 21 Apr 2010",MI,RCB,"1st Semi-Final "," Navi Mumbai , Dr DY Patil Sports Academy","184-5 (20)","149-9 (20)","Mumbai Indians won by 35 runs",184,149,5,9,20,20,won,lost
+Thu," 22 Apr 2010",CSK,DCG,"2nd Semi-Final "," Navi Mumbai , Dr DY Patil Sports Academy","142-7 (20)","104 (19.2)","Chennai Super Kings won by 38 runs",142,104,7,10,19.2,20,won,lost
+Sat," 24 Apr 2010",DCG,RCB,"3rd Place Play-off "," Navi Mumbai , Dr DY Patil Sports Academy","82 (18.3)","86-1 (13.5)","Royal Challengers Bangalore won by 9 wickets (with 37 balls remaining)",82,86,10,1,13.5,18.3,lost,won
+Sun," 25 Apr 2010",CSK,MI,"Final "," Navi Mumbai , Dr DY Patil Sports Academy","168-5 (20)","146-9 (20)","Chennai Super Kings won by 22 runs",168,146,5,9,20,20,won,lost
+Sat," 18 Apr 2009",MI,CSK,"1st match "," Cape Town, Newlands","165-7 (20)","146-7 (20)","Mumbai Indians won by 19 runs",165,146,7,7,20,20,won,lost
+Sun," 19 Apr 2009",PBKS,DC,"3rd match "," Cape Town, Newlands","104-7 (12)","58-0 (4.5)","Delhi Daredevils won by 10 wickets (with 7 balls remaining) (D/L method)",104,58,7,0,4.5,12,won,lost
+Mon," 20 Apr 2009",CSK,RCB,"5th match "," Gqeberha, St George's Park","179-5 (20)","87 (15.2)","Chennai Super Kings won by 92 runs",179,87,5,10,15.2,20,won,lost
+Tue," 21 Apr 2009",PBKS,KKR,"6th match "," Durban, Kingsmead","158-6 (20)","79-1 (9.2)","Kolkata Knight Riders won by 11 runs (D/L method)",158,79,6,1,9.2,20,won,lost
+Wed," 22 Apr 2009",DCG,RCB,"8th match "," Cape Town, Newlands","184-6 (20)","160-8 (20)","Deccan Chargers won by 24 runs",184,160,6,8,20,20,won,lost
+Thu," 23 Apr 2009",DC,CSK,"9th match "," Durban, Kingsmead","189-5 (20)","180-9 (20)","Delhi Daredevils won by 9 runs",189,180,5,9,20,20,won,lost
+Fri," 24 Apr 2009",RCB,PBKS,"11th match "," Durban, Kingsmead","168-9 (20)","173-3 (19)","Kings XI Punjab won by 7 wickets (with 6 balls remaining)",168,173,9,3,19,20,lost,won
+Sat," 25 Apr 2009",DCG,MI,"12th match "," Durban, Kingsmead","168-9 (20)","156-7 (20)","Deccan Chargers won by 12 runs",168,156,9,7,20,20,won,lost
+Sun," 26 Apr 2009",RCB,DC,"14th match "," Gqeberha, St George's Park","149-7 (20)","150-4 (19.2)","Delhi Daredevils won by 6 wickets (with 4 balls remaining)",149,150,7,4,19.2,20,lost,won
+Mon," 27 Apr 2009",CSK,DCG,"16th match "," Durban, Kingsmead","165-6 (20)","169-4 (19.3)","Deccan Chargers won by 6 wickets (with 3 balls remaining)",165,169,6,4,19.3,20,lost,won
+Tue," 28 Apr 2009",DC,RR,"18th match "," Centurion, SuperSport Park","143-7 (20)","147-5 (18.3)","Rajasthan Royals won by 5 wickets (with 9 balls remaining)",143,147,7,5,18.3,20,lost,won
+Wed," 29 Apr 2009",KKR,RCB,"19th match "," Durban, Kingsmead","139-6 (20)","143-5 (19.5)","Royal Challengers Bangalore won by 5 wickets (with 1 ball remaining)",139,143,6,5,19.5,20,lost,won
+Thu," 30 Apr 2009",DCG,DC,"21st match "," Centurion, SuperSport Park","148-9 (20)","150-4 (18.4)","Delhi Daredevils won by 6 wickets (with 8 balls remaining)",148,150,9,4,18.4,20,lost,won
+Fri," 01 May 2009",MI,KKR,"23rd match "," East London, Buffalo Park","148-6 (20)","139-6 (20)","Mumbai Indians won by 9 runs",148,139,6,6,20,20,won,lost
+Sat," 02 May 2009",DCG,RR,"25th match "," Gqeberha, St George's Park","141-5 (20)","142-7 (19.4)","Rajasthan Royals won by 3 wickets (with 2 balls remaining)",141,142,5,7,19.4,20,lost,won
+Sun," 03 May 2009",KKR,PBKS,"27th match "," Gqeberha, St George's Park","153-3 (20)","154-4 (20)","Kings XI Punjab won by 6 wickets (with 0 balls remaining)",153,154,3,4,20,20,lost,won
+Mon," 04 May 2009",CSK,DCG,"29th match "," East London, Buffalo Park","178-3 (20)","100 (14.4)","Chennai Super Kings won by 78 runs",178,100,3,10,14.4,20,won,lost
+Tue," 05 May 2009",RR,PBKS,"30th match "," Durban, Kingsmead","211-4 (20)","133-8 (20)","Rajasthan Royals won by 78 runs",211,133,4,8,20,20,won,lost
+Wed," 06 May 2009",DCG,MI,"32nd match "," Centurion, SuperSport Park","145-6 (20)","126-8 (20)","Deccan Chargers won by 19 runs",145,126,6,8,20,20,won,lost
+Thu," 07 May 2009",RCB,RR,"33rd match "," Centurion, SuperSport Park","105 (20)","107-3 (15)","Rajasthan Royals won by 7 wickets (with 30 balls remaining)",105,107,10,3,15,20,lost,won
+Fri," 08 May 2009",MI,DC,"35th match "," East London, Buffalo Park","116 (20)","118-3 (18.5)","Delhi Daredevils won by 7 wickets (with 7 balls remaining)",116,118,10,3,18.5,20,lost,won
+Sat," 09 May 2009",DCG,PBKS,"36th match "," Kimberley, Diamond Oval","168-5 (20)","169-7 (19.5)","Kings XI Punjab won by 3 wickets (with 1 ball remaining)",168,169,5,7,19.5,20,lost,won
+Sun," 10 May 2009",MI,RCB,"38th match "," Gqeberha, St George's Park","157-2 (20)","141-7 (20)","Mumbai Indians won by 16 runs",157,141,2,7,20,20,won,lost
+Mon," 11 May 2009",DCG,RR,"40th match "," Kimberley, Diamond Oval","166-7 (20)","113 (19.3)","Deccan Chargers won by 53 runs",166,113,7,10,19.3,20,won,lost
+Tue," 12 May 2009",KKR,RCB,"41st match "," Centurion, SuperSport Park","173-4 (20)","176-4 (19.2)","Royal Challengers Bangalore won by 6 wickets (with 4 balls remaining)",173,176,4,4,19.2,20,lost,won
+Wed," 13 May 2009",DC,DCG,"43rd match "," Durban, Kingsmead","173-7 (20)","161 (19.4)","Delhi Daredevils won by 12 runs",173,161,7,10,19.4,20,won,lost
+Thu," 14 May 2009",CSK,RCB,"44th match "," Durban, Kingsmead","129 (19.4)","132-8 (19.4)","Royal Challengers Bangalore won by 2 wickets (with 2 balls remaining)",129,132,10,8,19.4,19.4,lost,won
+Fri," 15 May 2009",DC,PBKS,"46th match "," Bloemfontein, Mangaung Oval","120-9 (20)","123-4 (19.1)","Kings XI Punjab won by 6 wickets (with 5 balls remaining)",120,123,9,4,19.1,20,lost,won
+Sat," 16 May 2009",MI,CSK,"47th match "," Gqeberha, St George's Park","147-5 (20)","151-3 (19.1)","Chennai Super Kings won by 7 wickets (with 5 balls remaining)",147,151,5,3,19.1,20,lost,won
+Sun," 17 May 2009",PBKS,DCG,"49th match "," Johannesburg, The Wanderers Stadium","134-7 (20)","133-8 (20)","Kings XI Punjab won by 1 run",134,133,7,8,20,20,won,lost
+Mon," 18 May 2009",CSK,KKR,"51st match "," Centurion, SuperSport Park","188-3 (20)","189-3 (20)","Kolkata Knight Riders won by 7 wickets (with 0 balls remaining)",188,189,3,3,20,20,lost,won
+Tue," 19 May 2009",DC,RCB,"52nd match "," Johannesburg, The Wanderers Stadium","134-7 (20)","135-3 (19)","Royal Challengers Bangalore won by 7 wickets (with 6 balls remaining)",134,135,7,3,19,20,lost,won
+Wed," 20 May 2009",RR,KKR,"53rd match "," Durban, Kingsmead","101-9 (20)","102-6 (19.3)","Kolkata Knight Riders won by 4 wickets (with 3 balls remaining)",101,102,9,6,19.3,20,lost,won
+Thu," 21 May 2009",MI,DC,"55th match "," Centurion, SuperSport Park","165-8 (20)","166-6 (17.3)","Delhi Daredevils won by 4 wickets (with 15 balls remaining)",165,166,8,6,17.3,20,lost,won
+Fri," 22 May 2009",DC,DCG,"1st Semi-Final "," Centurion, SuperSport Park","153-8 (20)","154-4 (17.4)","Deccan Chargers won by 6 wickets (with 14 balls remaining)",153,154,8,4,17.4,20,lost,won
+Sat," 23 May 2009",CSK,RCB,"2nd Semi-Final "," Johannesburg, The Wanderers Stadium","146-5 (20)","149-4 (18.5)","Royal Challengers Bangalore won by 6 wickets (with 7 balls remaining)",146,149,5,4,18.5,20,lost,won
+Sun," 24 May 2009",DCG,RCB,"Final "," Johannesburg, The Wanderers Stadium","143-6 (20)","137-9 (20)","Deccan Chargers won by 6 runs",143,137,6,9,20,20,won,lost
+Fri," 18 Apr 2008",KKR,RCB,"1st match "," Bengaluru, M.Chinnaswamy Stadium","222-3 (20)","82 (15.1)","Kolkata Knight Riders won by 140 runs",222,82,3,10,15.1,20,won,lost
+Sat," 19 Apr 2008",CSK,PBKS,"2nd match "," Mohali, Punjab Cricket Association IS Bindra Stadium","240-5 (20)","207-4 (20)","Chennai Super Kings won by 33 runs",240,207,5,4,20,20,won,lost
+Sun," 20 Apr 2008",DCG,KKR,"4th match "," Kolkata, Eden Gardens","110 (18.4)","112-5 (19)","Kolkata Knight Riders won by 5 wickets (with 6 balls remaining)",110,112,10,5,19,18.4,lost,won
+Mon," 21 Apr 2008",PBKS,RR,"6th match "," Jaipur, Sawai Mansingh Stadium","166-8 (20)","168-4 (18.1)","Rajasthan Royals won by 6 wickets (with 11 balls remaining)",166,168,8,4,18.1,20,lost,won
+Tue," 22 Apr 2008",DCG,DC,"7th match "," Hyderabad, Rajiv Gandhi International Stadium","142-8 (20)","143-1 (13)","Delhi Daredevils won by 9 wickets (with 42 balls remaining)",142,143,8,1,13,20,lost,won
+Wed," 23 Apr 2008",CSK,MI,"8th match "," Chennai, MA Chidambaram Stadium","208-5 (20)","202-7 (20)","Chennai Super Kings won by 6 runs",208,202,5,7,20,20,won,lost
+Thu," 24 Apr 2008",DCG,RR,"9th match "," Hyderabad, Rajiv Gandhi International Stadium","214-5 (20)","217-7 (19.5)","Rajasthan Royals won by 3 wickets (with 1 ball remaining)",214,217,5,7,19.5,20,lost,won
+Fri," 25 Apr 2008",PBKS,MI,"10th match "," Mohali, Punjab Cricket Association IS Bindra Stadium","182 (20)","116-9 (20)","Kings XI Punjab won by 66 runs",182,116,10,9,20,20,won,lost
+Sat," 26 Apr 2008",KKR,CSK,"11th match "," Chennai, MA Chidambaram Stadium","147-9 (20)","152-1 (17)","Chennai Super Kings won by 9 wickets (with 18 balls remaining)",147,152,9,1,17,20,lost,won
+Sun," 27 Apr 2008",DC,PBKS,"13th match "," Mohali, Punjab Cricket Association IS Bindra Stadium","158-8 (20)","162-6 (19.3)","Kings XI Punjab won by 4 wickets (with 3 balls remaining)",158,162,8,6,19.3,20,lost,won
+Mon," 28 Apr 2008",CSK,RCB,"15th match "," Bengaluru, M.Chinnaswamy Stadium","178-5 (20)","165 (19.4)","Chennai Super Kings won by 13 runs",178,165,5,10,19.4,20,won,lost
+Tue," 29 Apr 2008",KKR,MI,"16th match "," Kolkata, Eden Gardens","137-8 (20)","138-3 (18.4)","Mumbai Indians won by 7 wickets (with 8 balls remaining)",137,138,8,3,18.4,20,lost,won
+Wed," 30 Apr 2008",DC,RCB,"17th match "," Delhi, Arun Jaitley Stadium","191-5 (20)","181-5 (20)","Delhi Daredevils won by 10 runs",191,181,5,5,20,20,won,lost
+Thu," 01 May 2008",RR,KKR,"18th match "," Jaipur, Sawai Mansingh Stadium","196-7 (20)","151 (19.1)","Rajasthan Royals won by 45 runs",196,151,7,10,19.1,20,won,lost
+Fri," 02 May 2008",CSK,DC,"20th match "," Chennai, MA Chidambaram Stadium","169-6 (20)","172-2 (19)","Delhi Daredevils won by 8 wickets (with 6 balls remaining)",169,172,6,2,19,20,lost,won
+Sat," 03 May 2008",RCB,DCG,"21st match "," Bengaluru, M.Chinnaswamy Stadium","156-8 (20)","153-6 (20)","Royal Challengers Bangalore won by 3 runs",156,153,8,6,20,20,won,lost
+Sun," 04 May 2008",MI,DC,"23rd match "," Navi Mumbai , Dr DY Patil Sports Academy","162-8 (20)","133 (18.5)","Mumbai Indians won by 29 runs",162,133,8,10,18.5,20,won,lost
+Mon," 05 May 2008",RCB,PBKS,"25th match "," Bengaluru, M.Chinnaswamy Stadium","126 (19.2)","127-4 (18.2)","Kings XI Punjab won by 6 wickets (with 10 balls remaining)",126,127,10,4,18.2,19.2,lost,won
+Tue," 06 May 2008",CSK,DCG,"26th match "," Chennai, MA Chidambaram Stadium","144-7 (20)","148-3 (18)","Deccan Chargers won by 7 wickets (with 12 balls remaining)",144,148,7,3,18,20,lost,won
+Wed," 07 May 2008",RR,MI,"27th match "," Navi Mumbai , Dr DY Patil Sports Academy","103 (16.2)","104-3 (15.1)","Mumbai Indians won by 7 wickets (with 29 balls remaining)",103,104,10,3,15.1,16.2,lost,won
+Thu," 08 May 2008",DC,CSK,"28th match "," Delhi, Arun Jaitley Stadium","187-5 (20)","188-6 (20)","Chennai Super Kings won by 4 wickets (with 0 balls remaining)",187,188,5,6,20,20,lost,won
+Fri," 09 May 2008",DCG,RR,"30th match "," Jaipur, Sawai Mansingh Stadium","140-8 (20)","141-2 (16)","Rajasthan Royals won by 8 wickets (with 24 balls remaining)",140,141,8,2,16,20,lost,won
+Sat," 10 May 2008",CSK,PBKS,"31st match "," Chennai, MA Chidambaram Stadium","181-4 (20)","163-9 (20)","Chennai Super Kings won by 18 runs",181,163,4,9,20,20,won,lost
+Sun," 11 May 2008",KKR,DCG,"32nd match "," Hyderabad, Rajiv Gandhi International Stadium","204-4 (20)","181-7 (20)","Kolkata Knight Riders won by 23 runs",204,181,4,7,20,20,won,lost
+Mon," 12 May 2008",RCB,PBKS,"34th match "," Mohali, Punjab Cricket Association IS Bindra Stadium","143-8 (20)","144-1 (15.4)","Kings XI Punjab won by 9 wickets (with 26 balls remaining)",143,144,8,1,15.4,20,lost,won
+Tue," 13 May 2008",KKR,DC,"35th match "," Kolkata, Eden Gardens","133-6 (20)","110 (17.5)","Kolkata Knight Riders won by 23 runs",133,110,6,10,17.5,20,won,lost
+Wed," 14 May 2008",CSK,MI,"36th match "," Mumbai, Wankhede Stadium","156-6 (20)","158-1 (13.5)","Mumbai Indians won by 9 wickets (with 37 balls remaining)",156,158,6,1,13.5,20,lost,won
+Thu," 15 May 2008",DC,DCG,"37th match "," Delhi, Arun Jaitley Stadium","194-4 (20)","182-9 (20)","Delhi Daredevils won by 12 runs",194,182,4,9,20,20,won,lost
+Fri," 16 May 2008",KKR,MI,"38th match "," Mumbai, Wankhede Stadium","67 (15.2)","68-2 (5.3)","Mumbai Indians won by 8 wickets (with 87 balls remaining)",67,68,10,2,5.3,15.2,lost,won
+Sat," 17 May 2008",RR,RCB,"39th match "," Jaipur, Sawai Mansingh Stadium","197-1 (20)","132-9 (20)","Rajasthan Royals won by 65 runs",197,132,1,9,20,20,won,lost
+Sun," 18 May 2008",KKR,CSK,"41st match "," Kolkata, Eden Gardens","149-5 (20)","55-0 (8)","Chennai Super Kings won by 3 runs (D/L method)",149,55,5,0,8,20,won,lost
+Mon," 19 May 2008",RCB,DC,"43rd match "," Bengaluru, M.Chinnaswamy Stadium","154-7 (20)","158-5 (18.2)","Delhi Daredevils won by 5 wickets (with 10 balls remaining)",154,158,7,5,18.2,20,lost,won
+Tue," 20 May 2008",KKR,RR,"44th match "," Kolkata, Eden Gardens","147-8 (20)","150-4 (16.3)","Rajasthan Royals won by 6 wickets (with 21 balls remaining)",147,150,8,4,16.3,20,lost,won
+Wed," 21 May 2008",PBKS,MI,"45th match "," Mumbai, Wankhede Stadium","189-4 (20)","188 (20)","Kings XI Punjab won by 1 run",189,188,4,10,20,20,won,lost
+Thu," 22 May 2008",DC,KKR,"47th match "," Delhi, Arun Jaitley Stadium",,,"Match abandoned without a ball bowled",0,0,10,10,0,0,lost,lost
+Fri," 23 May 2008",DCG,PBKS,"48th match "," Mohali, Punjab Cricket Association IS Bindra Stadium","175-4 (20)","178-4 (19.3)","Kings XI Punjab won by 6 wickets (with 3 balls remaining)",175,178,4,4,19.3,20,lost,won
+Sat," 24 May 2008",RR,CSK,"49th match "," Chennai, MA Chidambaram Stadium","211-5 (20)","201-7 (20)","Rajasthan Royals won by 10 runs",211,201,5,7,20,20,won,lost
+Sun," 25 May 2008",DCG,RCB,"51st match "," Hyderabad, Rajiv Gandhi International Stadium","165 (20)","171-5 (19)","Royal Challengers Bangalore won by 5 wickets (with 6 balls remaining)",165,171,10,5,19,20,lost,won
+Mon," 26 May 2008",MI,RR,"53rd match "," Jaipur, Sawai Mansingh Stadium","145-7 (20)","146-5 (20)","Rajasthan Royals won by 5 wickets (with 0 balls remaining)",145,146,7,5,20,20,lost,won
+Tue," 27 May 2008",DCG,CSK,"54th match "," Hyderabad, Rajiv Gandhi International Stadium","147-8 (20)","148-3 (19.2)","Chennai Super Kings won by 7 wickets (with 4 balls remaining)",147,148,8,3,19.2,20,lost,won
+Wed," 28 May 2008",RCB,MI,"55th match "," Bengaluru, M.Chinnaswamy Stadium","122-9 (18)","126-1 (16)","Mumbai Indians won by 9 wickets (with 12 balls remaining)",122,126,9,1,16,18,lost,won
+Fri," 30 May 2008",RR,DC,"1st Semi-Final "," Mumbai, Wankhede Stadium","192-9 (20)","87 (16.1)","Rajasthan Royals won by 105 runs",192,87,9,10,16.1,20,won,lost
+Sat," 31 May 2008",PBKS,CSK,"2nd Semi-Final "," Mumbai, Wankhede Stadium","112-8 (20)","116-1 (14.5)","Chennai Super Kings won by 9 wickets (with 31 balls remaining)",112,116,8,1,14.5,20,lost,won
+Sun," 01 Jun 2008",CSK,RR,"Final "," Navi Mumbai , Dr DY Patil Sports Academy","163-5 (20)","164-7 (20)","Rajasthan Royals won by 3 wickets (with 0 balls remaining)",163,164,5,7,20,20,lost,won
